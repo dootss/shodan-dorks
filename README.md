@@ -12,7 +12,7 @@ Also, every hour, it re-checks every query on here and updates their count.
 
 - [Cameras](#cameras)
 - [Industrial Control Systems](#industrial-control-systems)
-- [Database Searches](#database-searches)
+- [Network Infastructure](#network-infastructure)
 - [Printers](#printers)
 - [Miscellaneous](#miscellaneous)
 
@@ -124,9 +124,9 @@ Search for electronic billboards managed by Prismview servers.
 
 ---
 
-<a name='database-searches'></a>
+<a name='network-infastructure'></a>
 
-### Database Searches
+### Network Infastructure
 
 [General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
 `product:MySQL` - 3,615,908 results  
@@ -148,8 +148,36 @@ Search for electronic billboards managed by Prismview servers.
 `port:"9200" all:elastic` - 33,515 results  
 
 
+[Cisco Smart Install](https://www.shodan.io/search?query=%22smart%20install%20client%20active%22)  
+`"smart install client active"` - 10,392 results  
+
+
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
 `product:"CouchDB"` - 4,473 results  
+
+
+[Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
+`"Android Debug Bridge" "Device" port:5555` - 3,972 results  
+
+
+[Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
+`http.title:"- Polycom" "Server: lighttpd"` - 3,853 results  
+
+
+[Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,374 results  
+
+
+[Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
+`"root@" port:23 -login -password -name -Session` - 1,846 results  
+
+
+[Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
+`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 1,238 results  
+
+
+[Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
+`Lantronix password port:30718 -secured` - 758 results  
 
 
 [Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
@@ -160,9 +188,33 @@ Search for electronic billboards managed by Prismview servers.
 `"Set-Cookie: mongo-express=" "200 OK"` - 582 results  
 
 
+[Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
+`"Citrix Applications:" port:1604` - 338 results  
+
+
+[PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
+`PBX "gateway console" -password port:23` - 183 results  
+
+
+[Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
+`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 118 results  
+
+
+[Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
+`"Polycom Command Shell" -failed port:23` - 53 results  
+
+
+[Weave Scope Dashboards](https://www.shodan.io/search?query=title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827)  
+`title:"Weave Scope" http.favicon.hash:567176827` - 25 results  
+
+
 [Vulnerable CouchDB Instances](https://www.shodan.io/search?query=port%3A%225984%22%2BServer%3A%20%22CouchDB/2.1.0%22)  
 `port:"5984"+Server: "CouchDB/2.1.0"` - 5 results  
-Remote code execution may be possible.
+
+
+[Docker APIs](https://www.shodan.io/search?query=%22Docker%20Containers%3A%22%20port%3A2375)  
+`"Docker Containers:" port:2375` - 0 results  
+
 
 
 ---
@@ -269,4 +321,7 @@ Remote code execution may be possible.
 [Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
 `"ETH - Total speed"` - 0 results  
 
+
+
+*i'm not responsible for any misuse of this list :) explore responsibly!*
 

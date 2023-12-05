@@ -81,7 +81,7 @@ Industrial Control Systems:
 # ------------------------------------------------------------------------------
 
 
-Database Searches:
+Network Infastructure:
   - title: 'General MySQL Database Search'
     content: 'product:MySQL'
 
@@ -108,7 +108,46 @@ Database Searches:
 
   - title: 'Vulnerable CouchDB Instances'
     content: 'port:"5984"+Server: "CouchDB/2.1.0"'
-    description: 'Remote code execution may be possible.'
+
+  - title: 'Weave Scope Dashboards'
+    content: 'title:"Weave Scope" http.favicon.hash:567176827'
+
+  - title: 'Jenkins CI'
+    content: '"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"'
+
+  - title: 'Docker APIs'
+    content: '"Docker Containers:" port:2375'
+
+  - title: 'Docker Private Registries'
+    content: '"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab'
+
+  - title: 'Pi-hole Open DNS Servers'
+    content: '"dnsmasq-pi-hole" "Recursion: enabled"'
+
+  - title: 'Already Logged-In as root via Telnet'
+    content: '"root@" port:23 -login -password -name -Session'
+
+  - title: 'Android Root Bridges'
+    content: '"Android Debug Bridge" "Device" port:5555'
+
+  - title: 'Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords'
+    content: 'Lantronix password port:30718 -secured'
+
+  - title: 'Citrix Virtual Apps'
+    content: '"Citrix Applications:" port:1604'
+
+  - title: 'Cisco Smart Install'
+    content: '"smart install client active"'
+
+  - title: 'PBX IP Phone Gateways'
+    content: 'PBX "gateway console" -password port:23'
+
+  - title: 'Polycom Video Conferencing'
+    content: 'http.title:"- Polycom" "Server: lighttpd"'
+
+  - title: 'Telnet Configuration'
+    content: '"Polycom Command Shell" -failed port:23'
+
 
 
 # ------------------------------------------------------------------------------
