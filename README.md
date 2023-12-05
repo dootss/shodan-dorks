@@ -1,3 +1,5 @@
+![i am not good at making banners](https://github.com/dootss/shodan-dorks/assets/126783585/94f89cca-c51c-425f-972b-4e06f537102d)
+
 # Shodan Dorks [![](https://dcbadge.vercel.app/api/shield/476415736466636810?compact=true)](https://discordapp.com/users/476415736466636810)
 
 ### Industrial Control Systems
