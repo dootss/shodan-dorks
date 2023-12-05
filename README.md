@@ -2,7 +2,7 @@
 
 # Shodan Dorks [![](https://dcbadge.vercel.app/api/shield/476415736466636810?compact=true)](https://discordapp.com/users/476415736466636810)
 
-### *What makes this different from other dork lists?*
+### *What makes this different from other dork/query lists?*
 
 This has tons of titles, info and categorisation a lot of other mass-lists don't have.
 
@@ -500,5 +500,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-05 21:18:36*
+*last updated at: 2023-12-05 22:00:45*
 
