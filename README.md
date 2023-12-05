@@ -1,4 +1,4 @@
-# Shodan Dork List
+# Shodan Dorks [![](https://dcbadge.vercel.app/api/shield/476415736466636810?compact=true)](https://discordapp.com/users/476415736466636810)
 
 ### Industrial Control Systems
 
