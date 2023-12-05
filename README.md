@@ -2,7 +2,11 @@
 
 # Shodan Dorks [![](https://dcbadge.vercel.app/api/shield/476415736466636810?compact=true)](https://discordapp.com/users/476415736466636810)
 
-### **Contents**
+### *What makes this different from other dork lists?*
+
+This has tons of titles, info and categorisation a lot of other mass-lists don't have.
+
+Also, every hour, it re-checks every query on here and updates their count.### **Contents**
 
 - [Cameras](#cameras)
 - [Industrial Control Systems](#industrial-control-systems)
@@ -262,9 +266,5 @@ Remote code execution may be possible.
 
 [Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
 `"ETH - Total speed"` - 0 results  
-
-
-[Solar Panel Control Systems](https://www.shodan.io/search?query=html%3A%22Solar%20Controller%22%20OR%20%22PV%20Inverter%22%20OR%20%22Solar%20Inverter%22)  
-`html:"Solar Controller" OR "PV Inverter" OR "Solar Inverter"` - Error: The search request has timed out or your query was invalid. results  
 
 

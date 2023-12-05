@@ -154,8 +154,6 @@ Printers:
 # ------------------------------------------------------------------------------
 
 Miscellaneous:
-  - title: 'Solar Panel Control Systems'
-    content: 'html:"Solar Controller" OR "PV Inverter" OR "Solar Inverter"'
 
   - title: 'Ethereum Miners'
     content: '"ETH - Total speed"'
