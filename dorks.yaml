@@ -1,12 +1,3 @@
-Industrial Control Systems:
-  - title: 'Samsung Electronic Billboards'
-    content: 'Server: Prismview Player'
-    description: 'Search for electronic billboards managed by Prismview servers.'
-
-  - title: 'Gas Station Pump Controllers'
-    content: '"in-tank inventory" port:10001'
-    description: 'Find gas station pump controllers with accessible inventory data.'
-
 
 # ------------------------------------------------------------------------------
 
@@ -72,6 +63,20 @@ Cameras:
   - title: 'Linksys WVC80N cameras.'
     content: 'WVC80N'
 
+# ------------------------------------------------------------------------------
+
+
+Industrial Control Systems:
+  - title: 'Samsung Electronic Billboards'
+    content: 'Server: Prismview Player'
+    description: 'Search for electronic billboards managed by Prismview servers.'
+
+  - title: 'Gas Station Pump Controllers'
+    content: '"in-tank inventory" port:10001'
+    description: 'Find gas station pump controllers with accessible inventory data.'
+
+  - title: 'Nordex Wind Turbine Farms'
+    content: 'http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"'
 
 # ------------------------------------------------------------------------------
 
@@ -147,3 +152,40 @@ Printers:
     content: '"Server: CANON HTTP Server"'
 
 # ------------------------------------------------------------------------------
+
+Miscellaneous:
+  - title: 'Solar Panel Control Systems'
+    content: 'html:"Solar Controller" OR "PV Inverter" OR "Solar Inverter"'
+
+  - title: 'Ethereum Miners'
+    content: '"ETH - Total speed"'
+
+  - title: 'Misconfigured WordPress Installations'
+    content: 'http.html:"* The wp-config.php creation script uses this file"'
+
+  - title: 'Nordex Wind Turbine Control Panels'
+    content: 'http.title:"Nordex Control"'
+
+  - title: 'EIG Electricity Meters'
+    content: '"Server: EIG Embedded Web Server" "200 Document follows"'
+
+  - title: 'DICOM Medical Devices'
+    content: '"DICOM Server Response" port:104'
+
+  - title: 'Tesla-related Interfaces'
+    content: 'http.title:"Tesla"'
+
+  - title: 'Gas Station Inventory Systems'
+    content: '"in-tank inventory" port:10001'
+
+  - title: 'General Dashboard Interfaces'
+    content: 'http.title:"dashboard"'
+
+  - title: 'Control Panel Access Points'
+    content: 'http.title:"control panel"'
+
+  - title: 'Minecraft Servers'
+    content: '"Minecraft Server" "protocol 340" port:25565'
+
+  - title: 'Everything in North Korea'
+    content: 'net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24'

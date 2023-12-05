@@ -2,27 +2,13 @@
 
 # Shodan Dorks [![](https://dcbadge.vercel.app/api/shield/476415736466636810?compact=true)](https://discordapp.com/users/476415736466636810)
 
-### **Table of Contents**
+### **Contents**
 
-- [Industrial Control Systems](#industrial-control-systems)
 - [Cameras](#cameras)
+- [Industrial Control Systems](#industrial-control-systems)
 - [Database Searches](#database-searches)
 - [Printers](#printers)
-
----
-
-<a name='industrial-control-systems'></a>
-
-### Industrial Control Systems
-
-[Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
-`"in-tank inventory" port:10001` - 6,136 results  
-Find gas station pump controllers with accessible inventory data.
-
-[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
-`Server: Prismview Player` - 3 results  
-Search for electronic billboards managed by Prismview servers.
-
+- [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -109,6 +95,25 @@ Search for electronic billboards managed by Prismview servers.
 [i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
 `server: "i-Catcher Console"` - 25 results  
 
+
+
+---
+
+<a name='industrial-control-systems'></a>
+
+### Industrial Control Systems
+
+[Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
+`"in-tank inventory" port:10001` - 6,136 results  
+Find gas station pump controllers with accessible inventory data.
+
+[Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
+`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 38 results  
+
+
+[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
+`Server: Prismview Player` - 3 results  
+Search for electronic billboards managed by Prismview servers.
 
 
 ---
@@ -206,5 +211,60 @@ Remote code execution may be possible.
 
 [Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
 `"Laser Printer FTP Server"` - 4 results  
+
+
+
+---
+
+<a name='miscellaneous'></a>
+
+### Miscellaneous
+
+[General Dashboard Interfaces](https://www.shodan.io/search?query=http.title%3A%22dashboard%22)  
+`http.title:"dashboard"` - 101,724 results  
+
+
+[Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
+`http.title:"control panel"` - 60,183 results  
+
+
+[Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
+`"Minecraft Server" "protocol 340" port:25565` - 12,398 results  
+
+
+[Gas Station Inventory Systems](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
+`"in-tank inventory" port:10001` - 6,136 results  
+
+
+[DICOM Medical Devices](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
+`"DICOM Server Response" port:104` - 1,799 results  
+
+
+[Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
+`http.title:"Tesla"` - 585 results  
+
+
+[Nordex Wind Turbine Control Panels](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22)  
+`http.title:"Nordex Control"` - 574 results  
+
+
+[Everything in North Korea](https://www.shodan.io/search?query=net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24)  
+`net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24` - 49 results  
+
+
+[EIG Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
+
+
+[Misconfigured WordPress Installations](https://www.shodan.io/search?query=http.html%3A%22%2A%20The%20wp-config.php%20creation%20script%20uses%20this%20file%22)  
+`http.html:"* The wp-config.php creation script uses this file"` - 21 results  
+
+
+[Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
+`"ETH - Total speed"` - 0 results  
+
+
+[Solar Panel Control Systems](https://www.shodan.io/search?query=html%3A%22Solar%20Controller%22%20OR%20%22PV%20Inverter%22%20OR%20%22Solar%20Inverter%22)  
+`html:"Solar Controller" OR "PV Inverter" OR "Solar Inverter"` - Error: The search request has timed out or your query was invalid. results  
 
 
