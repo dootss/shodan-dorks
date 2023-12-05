@@ -79,8 +79,119 @@ Industrial Control Systems:
     content: '"in-tank inventory" port:10001'
     description: 'Find gas station pump controllers with accessible inventory data.'
 
+  - title: 'Fuel Pumps connected to internet'
+    content: '"privileged command" GET'
+
+  - title: 'Automatic License Plate Readers'
+    content: 'P372 "ANPR enabled"'
+
+  - title: 'Traffic Light Controllers / Red Light Cameras'
+    content: 'mikrotik streetlight'
+
+  - title: 'Voting Machines in the United States'
+    content: '"voter system serial" country:US'
+
+  - title: 'Open ATM'
+    content: 'NCR Port:"161"'
+
+  - title: 'Telcos Running Cisco Lawful Intercept Wiretaps'
+    content: '"Cisco IOS" "ADVIPSERVICESK9_LI-M"'
+
+  - title: 'Prison Pay Phones'
+    content: '"[2J[H Encartele Confidential"'
+
+  - title: 'Tesla PowerPack Charging Status'
+    content: 'http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2'
+
+  - title: 'Electric Vehicle Chargers'
+    content: '"Server: gSOAP/2.8" "Content-Length: 583"'
+
+  - title: 'Maritime Satellites'
+    content: '"Cobham SATCOM" OR ("Sailor" "VSAT")'
+
+  - title: 'Submarine Mission Control Dashboards'
+    content: 'title:"Slocum Fleet Mission Control"'
+
+  - title: 'CAREL PlantVisor Refrigeration Units'
+    content: '"Server: CarelDataServer" "200 Document follows"'
+
   - title: 'Nordex Wind Turbine Farms'
     content: 'http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"'
+
+  - title: 'C4 Max Commercial Vehicle GPS Trackers'
+    content: '"[1m[35mWelcome on console"'
+
+  - title: 'DICOM Medical X-Ray Machines'
+    content: '"DICOM Server Response" port:104'
+
+  - title: 'GaugeTech Electricity Meters'
+    content: '"Server: EIG Embedded Web Server" "200 Document follows"'
+
+  - title: 'Siemens Industrial Automation'
+    content: '"Siemens, SIMATIC" port:161'
+
+  - title: 'Siemens HVAC Controllers'
+    content: '"Server: Microsoft-WinCE" "Content-Length: 12581"'
+
+  - title: 'Door / Lock Access Controllers'
+    content: '"HID VertX" port:4070'
+
+  - title: 'Railroad Management'
+    content: '"log off" "select the appropriate"'
+
+  - title: 'Tesla Powerpack charging Status'
+    content: 'http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2'
+
+  - title: 'XZERES Wind Turbine'
+    content: 'title:"xzeres wind"'
+
+  - title: 'PIPS Automated License Plate Reader'
+    content: '"html:"PIPS Technology ALPR Processors""'
+
+  - title: 'Modbus'
+    content: '"port:502"'
+
+  - title: 'Niagara Fox'
+    content: '"port:1911,4911 product:Niagara"'
+
+  - title: 'GE-SRTP'
+    content: '"port:18245,18246 product:"general electric""'
+
+  - title: 'MELSEC-Q'
+    content: '"port:5006,5007 product:mitsubishi"'
+
+  - title: 'CODESYS'
+    content: '"port:2455 operating system"'
+
+  - title: 'S7'
+    content: '"port:102"'
+
+  - title: 'BACnet'
+    content: '"port:47808"'
+
+  - title: 'HART-IP'
+    content: '"port:5094 hart-ip"'
+
+  - title: 'Omron FINS'
+    content: '"port:9600 response code"'
+
+  - title: 'IEC 60870-5-104'
+    content: '"port:2404 asdu address"'
+
+  - title: 'DNP3'
+    content: '"port:20000 source address"'
+
+  - title: 'EtherNet/IP'
+    content: '"port:44818"'
+
+  - title: 'PCWorx'
+    content: '"port:1962 PLC"'
+
+  - title: 'Crimson v3.0'
+    content: '"port:789 product:"Red Lion Controls""'
+
+  - title: 'ProConOS'
+    content: '"port:20547 PLC"'
 
   - title: 'VNC Servers'
     content: '"authentication disabled" "RFB 003.008"'
@@ -279,20 +390,12 @@ Miscellaneous:
   - title: 'Misconfigured WordPress Installations'
     content: 'http.html:"* The wp-config.php creation script uses this file"'
 
-  - title: 'Nordex Wind Turbine Control Panels'
-    content: 'http.title:"Nordex Control"'
 
   - title: 'EIG Electricity Meters'
     content: '"Server: EIG Embedded Web Server" "200 Document follows"'
 
-  - title: 'DICOM Medical Devices'
-    content: '"DICOM Server Response" port:104'
-
   - title: 'Tesla-related Interfaces'
     content: 'http.title:"Tesla"'
-
-  - title: 'Gas Station Inventory Systems'
-    content: '"in-tank inventory" port:10001'
 
   - title: 'General Dashboard Interfaces'
     content: 'http.title:"dashboard"'

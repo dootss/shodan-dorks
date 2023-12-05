@@ -115,6 +115,22 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 ### Industrial Control Systems
 
+[EtherNet/IP](https://www.shodan.io/search?query=%22port%3A44818%22)  
+`"port:44818"` - 500,084 results  
+
+
+[S7](https://www.shodan.io/search?query=%22port%3A102%22)  
+`"port:102"` - 470,247 results  
+
+
+[Modbus](https://www.shodan.io/search?query=%22port%3A502%22)  
+`"port:502"` - 456,735 results  
+
+
+[BACnet](https://www.shodan.io/search?query=%22port%3A47808%22)  
+`"port:47808"` - 40,807 results  
+
+
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
 `"authentication disabled" "RFB 003.008"` - 7,965 results  
 While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
@@ -123,13 +139,145 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 `"in-tank inventory" port:10001` - 6,136 results  
 Find gas station pump controllers with accessible inventory data.
 
+[Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
+`"Siemens, SIMATIC" port:161` - 3,048 results  
+
+
+[DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
+`"DICOM Server Response" port:104` - 1,799 results  
+
+
+[XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
+`title:"xzeres wind"` - 601 results  
+
+
+[Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
+`"HID VertX" port:4070` - 203 results  
+
+
+[Submarine Mission Control Dashboards](https://www.shodan.io/search?query=title%3A%22Slocum%20Fleet%20Mission%20Control%22)  
+`title:"Slocum Fleet Mission Control"` - 128 results  
+
+
+[C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%22%5B1m%5B35mWelcome%20on%20console%22)  
+`"[1m[35mWelcome on console"` - 125 results  
+
+
+[Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
+`"Server: gSOAP/2.8" "Content-Length: 583"` - 50 results  
+
+
 [Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
 `http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 38 results  
+
+
+[GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
+
+
+[Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
+`NCR Port:"161"` - 27 results  
+
+
+[Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=mikrotik%20streetlight)  
+`mikrotik streetlight` - 22 results  
+
+
+[Voting Machines in the United States](https://www.shodan.io/search?query=%22voter%20system%20serial%22%20country%3AUS)  
+`"voter system serial" country:US` - 22 results  
+
+
+[CAREL PlantVisor Refrigeration Units](https://www.shodan.io/search?query=%22Server%3A%20CarelDataServer%22%20%22200%20Document%20follows%22)  
+`"Server: CarelDataServer" "200 Document follows"` - 16 results  
+
+
+[Siemens HVAC Controllers](https://www.shodan.io/search?query=%22Server%3A%20Microsoft-WinCE%22%20%22Content-Length%3A%2012581%22)  
+`"Server: Microsoft-WinCE" "Content-Length: 12581"` - 7 results  
+
+
+[Fuel Pumps connected to internet](https://www.shodan.io/search?query=%22privileged%20command%22%20GET)  
+`"privileged command" GET` - 5 results  
 
 
 [Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
 `Server: Prismview Player` - 3 results  
 Search for electronic billboards managed by Prismview servers.
+
+[Railroad Management](https://www.shodan.io/search?query=%22log%20off%22%20%22select%20the%20appropriate%22)  
+`"log off" "select the appropriate"` - 2 results  
+
+
+[Automatic License Plate Readers](https://www.shodan.io/search?query=P372%20%22ANPR%20enabled%22)  
+`P372 "ANPR enabled"` - 1 result  
+
+
+[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
+`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
+
+
+[Tesla PowerPack Charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
+`http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
+
+
+[Tesla Powerpack charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
+`http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
+
+
+[Prison Pay Phones](https://www.shodan.io/search?query=%22%5B2J%5BH%20Encartele%20Confidential%22)  
+`"[2J[H Encartele Confidential"` - 0 results  
+
+
+[Niagara Fox](https://www.shodan.io/search?query=%22port%3A1911%2C4911%20product%3ANiagara%22)  
+`"port:1911,4911 product:Niagara"` - 0 results  
+
+
+[PIPS Automated License Plate Reader](https://www.shodan.io/search?query=%22html%3A%22PIPS%20Technology%20ALPR%20Processors%22%22)  
+`"html:"PIPS Technology ALPR Processors""` - 0 results  
+
+
+[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
+`"port:18245,18246 product:"general electric""` - 0 results  
+
+
+[MELSEC-Q](https://www.shodan.io/search?query=%22port%3A5006%2C5007%20product%3Amitsubishi%22)  
+`"port:5006,5007 product:mitsubishi"` - 0 results  
+
+
+[CODESYS](https://www.shodan.io/search?query=%22port%3A2455%20operating%20system%22)  
+`"port:2455 operating system"` - 0 results  
+
+
+[Omron FINS](https://www.shodan.io/search?query=%22port%3A9600%20response%20code%22)  
+`"port:9600 response code"` - 0 results  
+
+
+[IEC 60870-5-104](https://www.shodan.io/search?query=%22port%3A2404%20asdu%20address%22)  
+`"port:2404 asdu address"` - 0 results  
+
+
+[HART-IP](https://www.shodan.io/search?query=%22port%3A5094%20hart-ip%22)  
+`"port:5094 hart-ip"` - 0 results  
+
+
+[PCWorx](https://www.shodan.io/search?query=%22port%3A1962%20PLC%22)  
+`"port:1962 PLC"` - 0 results  
+
+
+[ProConOS](https://www.shodan.io/search?query=%22port%3A20547%20PLC%22)  
+`"port:20547 PLC"` - 0 results  
+
+
+[DNP3](https://www.shodan.io/search?query=%22port%3A20000%20source%20address%22)  
+`"port:20000 source address"` - 0 results  
+
+
+[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
+`"port:789 product:"Red Lion Controls""` - 0 results  
+
+
+[Maritime Satellites](https://www.shodan.io/search?query=%22Cobham%20SATCOM%22%20OR%20%28%22Sailor%22%20%22VSAT%22%29)  
+`"Cobham SATCOM" OR ("Sailor" "VSAT")` - Error: The search request has timed out or your query was invalid. results  
+
 
 
 ---
@@ -394,20 +542,8 @@ Search for electronic billboards managed by Prismview servers.
 `"Minecraft Server" "protocol 340" port:25565` - 12,398 results  
 
 
-[Gas Station Inventory Systems](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
-`"in-tank inventory" port:10001` - 6,136 results  
-
-
-[DICOM Medical Devices](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,799 results  
-
-
 [Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
 `http.title:"Tesla"` - 585 results  
-
-
-[Nordex Wind Turbine Control Panels](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22)  
-`http.title:"Nordex Control"` - 574 results  
 
 
 [Everything in North Korea](https://www.shodan.io/search?query=net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24)  
@@ -432,5 +568,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-05 21:10:43*
+*last updated at: 2023-12-05 21:15:24*
 
