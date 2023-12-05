@@ -63,6 +63,10 @@ Cameras:
   - title: 'Linksys WVC80N cameras.'
     content: 'WVC80N'
 
+  - title: 'Hikvision IP Cameras.'
+    content: 'product:"Hikvision IP Camera"'
+    description: 'Backdoor exploit at https://ipvm.com/reports/hik-exploit'
+
 # ------------------------------------------------------------------------------
 
 
@@ -77,6 +81,10 @@ Industrial Control Systems:
 
   - title: 'Nordex Wind Turbine Farms'
     content: 'http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"'
+
+  - title: 'VNC Servers'
+    content: '"authentication disabled" "RFB 003.008"'
+    description: 'While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.'
 
 # ------------------------------------------------------------------------------
 
@@ -190,6 +198,77 @@ Printers:
   - title: 'Canon Printer HTTP Servers'
     content: '"Server: CANON HTTP Server"'
 
+
+# ------------------------------------------------------------------------------
+
+
+Files and Directories:
+  - title: 'Open Lists of Files and Directories'
+    content: 'http.title:"Index of /"'
+
+  - title: 'Open Lists on Port 80'
+    content: 'port:80 title:"Index of /"'
+
+  - title: 'FTP Access Without Credentials'
+    content: '"220" "230 Login successful." port:21'
+
+  - title: 'Anonymous Access Allowed FTP'
+    content: '"Anonymous access allowed" port:"21"'
+
+  - title: 'Vulnerable vsftpd Service'
+    content: 'vsftpd 2.3.4'
+
+  - title: 'NDMP on FTP Port 10000'
+    content: 'ftp port:"10000"'
+
+  - title: 'Samba Shares with Authentication Disabled'
+    content: '"Authentication: disabled" port:445 product:"Samba"'
+
+  - title: 'QuickBooks Files Shared Over Network'
+    content: '"QuickBooks files OverNetwork" -unix port:445'
+
+  - title: 'Filezilla FTP'
+    content: 'filezilla port:"21"'
+
+
+# ------------------------------------------------------------------------------
+
+Compromised devices and websites:
+  - title: 'General Hacked Label Search'
+    content: '"hacked"'
+
+  - title: 'Variation of Hacked By Label Search'
+    content: '"hacked by"'
+
+  - title: 'Hacked By in HTTP Title'
+    content: 'http.title:"Hacked by"'
+
+  - title: 'Owned By Label in HTTP Title'
+    content: 'http.title:"0wn3d by"'
+
+  - title: 'Compromised Routers Labeled HACKED-ROUTER'
+    content: '"HACKED-ROUTER"'
+
+  - title: 'MongoDB Ransom Demand'
+    content: 'port:"27017" "send_bitcoin_to_retrieve_the_data"'
+
+  - title: 'Bitcoin Ransomware with Screenshot'
+    content: 'bitcoin has_screenshot:true'
+
+  - title: 'Compromised Legacy Systems on Port 4444'
+    content: 'port:4444 system32'
+
+  - title: 'Ransomware Infected RDP Services'
+    content: '"attention" "encrypted" port:3389'
+
+  - title: 'Compromised Hosts Advertising Default Password'
+    content: '"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"'
+
+  - title: 'Compromised FTP Servers'
+    content: '"HACKED FTP server"'
+
+
+
 # ------------------------------------------------------------------------------
 
 Miscellaneous:
@@ -227,38 +306,6 @@ Miscellaneous:
   - title: 'Everything in North Korea'
     content: 'net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24'
 
-# ------------------------------------------------------------------------------
 
-Compromised devices and websites:
-  - title: 'General Hacked Label Search'
-    content: '"hacked"'
 
-  - title: 'Variation of Hacked By Label Search'
-    content: '"hacked by"'
 
-  - title: 'Hacked By in HTTP Title'
-    content: 'http.title:"Hacked by"'
-
-  - title: 'Owned By Label in HTTP Title'
-    content: 'http.title:"0wn3d by"'
-
-  - title: 'Compromised Routers Labeled HACKED-ROUTER'
-    content: '"HACKED-ROUTER"'
-
-  - title: 'MongoDB Ransom Demand'
-    content: 'port:"27017" "send_bitcoin_to_retrieve_the_data"'
-
-  - title: 'Bitcoin Ransomware with Screenshot'
-    content: 'bitcoin has_screenshot:true'
-
-  - title: 'Compromised Legacy Systems on Port 4444'
-    content: 'port:4444 system32'
-
-  - title: 'Ransomware Infected RDP Services'
-    content: '"attention" "encrypted" port:3389'
-
-  - title: 'Compromised Hosts Advertising Default Password'
-    content: '"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"'
-
-  - title: 'Compromised FTP Servers'
-    content: '"HACKED FTP server"'

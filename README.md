@@ -14,8 +14,9 @@ Also, every hour, it re-checks every query on here and updates their count.
 - [Industrial Control Systems](#industrial-control-systems)
 - [Network Infastructure](#network-infastructure)
 - [Printers](#printers)
-- [Miscellaneous](#miscellaneous)
+- [Files and Directories](#files-and-directories)
 - [Compromised devices and websites](#compromised-devices-and-websites)
+- [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -26,6 +27,10 @@ Also, every hour, it re-checks every query on here and updates their count.
 [General camera search.](https://www.shodan.io/search?query=camera)  
 `camera` - 4,032,551 results  
 
+
+[Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
+`product:"Hikvision IP Camera"` - 3,191,417 results  
+Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 [Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
 `title:"IPCam Client"` - 63,597 results  
@@ -109,6 +114,10 @@ Also, every hour, it re-checks every query on here and updates their count.
 <a name='industrial-control-systems'></a>
 
 ### Industrial Control Systems
+
+[VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
+`"authentication disabled" "RFB 003.008"` - 7,965 results  
+While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
 `"in-tank inventory" port:10001` - 6,136 results  
@@ -275,6 +284,100 @@ Search for electronic billboards managed by Prismview servers.
 
 ---
 
+<a name='files-and-directories'></a>
+
+### Files and Directories
+
+[Open Lists of Files and Directories](https://www.shodan.io/search?query=http.title%3A%22Index%20of%20/%22)  
+`http.title:"Index of /"` - 378,059 results  
+
+
+[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
+`"Authentication: disabled" port:445 product:"Samba"` - 278,167 results  
+
+
+[Filezilla FTP](https://www.shodan.io/search?query=filezilla%20port%3A%2221%22)  
+`filezilla port:"21"` - 268,941 results  
+
+
+[Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
+`port:80 title:"Index of /"` - 168,555 results  
+
+
+[FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
+`"220" "230 Login successful." port:21` - 66,156 results  
+
+
+[Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
+`"Anonymous access allowed" port:"21"` - 36,434 results  
+
+
+[NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
+`ftp port:"10000"` - 10,020 results  
+
+
+[Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
+`vsftpd 2.3.4` - 2,748 results  
+
+
+[QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
+`"QuickBooks files OverNetwork" -unix port:445` - 43 results  
+
+
+
+---
+
+<a name='compromised-devices-and-websites'></a>
+
+### Compromised devices and websites
+
+[General Hacked Label Search](https://www.shodan.io/search?query=%22hacked%22)  
+`"hacked"` - 2,191 results  
+
+
+[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
+`port:4444 system32` - 1,110 results  
+
+
+[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%22HACKED-ROUTER%22)  
+`"HACKED-ROUTER"` - 903 results  
+
+
+[Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
+`http.title:"Hacked by"` - 600 results  
+
+
+[Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=%22HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%22)  
+`"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"` - 122 results  
+
+
+[Compromised FTP Servers](https://www.shodan.io/search?query=%22HACKED%20FTP%20server%22)  
+`"HACKED FTP server"` - 94 results  
+
+
+[Variation of Hacked By Label Search](https://www.shodan.io/search?query=%22hacked%20by%22)  
+`"hacked by"` - 54 results  
+
+
+[Owned By Label in HTTP Title](https://www.shodan.io/search?query=http.title%3A%220wn3d%20by%22)  
+`http.title:"0wn3d by"` - 8 results  
+
+
+[Ransomware Infected RDP Services](https://www.shodan.io/search?query=%22attention%22%20%22encrypted%22%20port%3A3389)  
+`"attention" "encrypted" port:3389` - 6 results  
+
+
+[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=bitcoin%20has_screenshot%3Atrue)  
+`bitcoin has_screenshot:true` - 3 results  
+
+
+[MongoDB Ransom Demand](https://www.shodan.io/search?query=port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22)  
+`port:"27017" "send_bitcoin_to_retrieve_the_data"` - 0 results  
+
+
+
+---
+
 <a name='miscellaneous'></a>
 
 ### Miscellaneous
@@ -321,57 +424,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
 `"ETH - Total speed"` - 0 results  
-
-
-
----
-
-<a name='compromised-devices-and-websites'></a>
-
-### Compromised devices and websites
-
-[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%22HACKED-ROUTER%22)  
-`"HACKED-ROUTER"` - Error: Invalid API key results  
-
-
-[Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
-`http.title:"Hacked by"` - Error: Invalid API key results  
-
-
-[General Hacked Label Search](https://www.shodan.io/search?query=%22hacked%22)  
-`"hacked"` - Error: Invalid API key results  
-
-
-[Variation of Hacked By Label Search](https://www.shodan.io/search?query=%22hacked%20by%22)  
-`"hacked by"` - Error: Invalid API key results  
-
-
-[Owned By Label in HTTP Title](https://www.shodan.io/search?query=http.title%3A%220wn3d%20by%22)  
-`http.title:"0wn3d by"` - Error: Invalid API key results  
-
-
-[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=bitcoin%20has_screenshot%3Atrue)  
-`bitcoin has_screenshot:true` - Error: Invalid API key results  
-
-
-[Ransomware Infected RDP Services](https://www.shodan.io/search?query=%22attention%22%20%22encrypted%22%20port%3A3389)  
-`"attention" "encrypted" port:3389` - Error: Invalid API key results  
-
-
-[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
-`port:4444 system32` - Error: Invalid API key results  
-
-
-[Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=%22HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%22)  
-`"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"` - Error: Invalid API key results  
-
-
-[MongoDB Ransom Demand](https://www.shodan.io/search?query=port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22)  
-`port:"27017" "send_bitcoin_to_retrieve_the_data"` - Error: Invalid API key results  
-
-
-[Compromised FTP Servers](https://www.shodan.io/search?query=%22HACKED%20FTP%20server%22)  
-`"HACKED FTP server"` - Error: Invalid API key results  
 
 
 
