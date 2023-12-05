@@ -226,3 +226,39 @@ Miscellaneous:
 
   - title: 'Everything in North Korea'
     content: 'net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24'
+
+# ------------------------------------------------------------------------------
+
+Compromised devices and websites:
+  - title: 'General Hacked Label Search'
+    content: '"hacked"'
+
+  - title: 'Variation of Hacked By Label Search'
+    content: '"hacked by"'
+
+  - title: 'Hacked By in HTTP Title'
+    content: 'http.title:"Hacked by"'
+
+  - title: 'Owned By Label in HTTP Title'
+    content: 'http.title:"0wn3d by"'
+
+  - title: 'Compromised Routers Labeled HACKED-ROUTER'
+    content: '"HACKED-ROUTER"'
+
+  - title: 'MongoDB Ransom Demand'
+    content: 'port:"27017" "send_bitcoin_to_retrieve_the_data"'
+
+  - title: 'Bitcoin Ransomware with Screenshot'
+    content: 'bitcoin has_screenshot:true'
+
+  - title: 'Compromised Legacy Systems on Port 4444'
+    content: 'port:4444 system32'
+
+  - title: 'Ransomware Infected RDP Services'
+    content: '"attention" "encrypted" port:3389'
+
+  - title: 'Compromised Hosts Advertising Default Password'
+    content: '"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"'
+
+  - title: 'Compromised FTP Servers'
+    content: '"HACKED FTP server"'

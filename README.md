@@ -15,6 +15,7 @@ Also, every hour, it re-checks every query on here and updates their count.
 - [Network Infastructure](#network-infastructure)
 - [Printers](#printers)
 - [Miscellaneous](#miscellaneous)
+- [Compromised devices and websites](#compromised-devices-and-websites)
 
 ---
 
@@ -320,6 +321,57 @@ Search for electronic billboards managed by Prismview servers.
 
 [Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
 `"ETH - Total speed"` - 0 results  
+
+
+
+---
+
+<a name='compromised-devices-and-websites'></a>
+
+### Compromised devices and websites
+
+[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%22HACKED-ROUTER%22)  
+`"HACKED-ROUTER"` - Error: Invalid API key results  
+
+
+[Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
+`http.title:"Hacked by"` - Error: Invalid API key results  
+
+
+[General Hacked Label Search](https://www.shodan.io/search?query=%22hacked%22)  
+`"hacked"` - Error: Invalid API key results  
+
+
+[Variation of Hacked By Label Search](https://www.shodan.io/search?query=%22hacked%20by%22)  
+`"hacked by"` - Error: Invalid API key results  
+
+
+[Owned By Label in HTTP Title](https://www.shodan.io/search?query=http.title%3A%220wn3d%20by%22)  
+`http.title:"0wn3d by"` - Error: Invalid API key results  
+
+
+[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=bitcoin%20has_screenshot%3Atrue)  
+`bitcoin has_screenshot:true` - Error: Invalid API key results  
+
+
+[Ransomware Infected RDP Services](https://www.shodan.io/search?query=%22attention%22%20%22encrypted%22%20port%3A3389)  
+`"attention" "encrypted" port:3389` - Error: Invalid API key results  
+
+
+[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
+`port:4444 system32` - Error: Invalid API key results  
+
+
+[Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=%22HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%22)  
+`"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"` - Error: Invalid API key results  
+
+
+[MongoDB Ransom Demand](https://www.shodan.io/search?query=port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22)  
+`port:"27017" "send_bitcoin_to_retrieve_the_data"` - Error: Invalid API key results  
+
+
+[Compromised FTP Servers](https://www.shodan.io/search?query=%22HACKED%20FTP%20server%22)  
+`"HACKED FTP server"` - Error: Invalid API key results  
 
 
 
