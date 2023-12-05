@@ -6,7 +6,9 @@
 
 This has tons of titles, info and categorisation a lot of other mass-lists don't have.
 
-Also, every hour, it re-checks every query on here and updates their count.### **Contents**
+Also, every hour, it re-checks every query on here and updates their count.
+
+### **Contents**
 
 - [Cameras](#cameras)
 - [Industrial Control Systems](#industrial-control-systems)
