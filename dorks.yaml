@@ -106,9 +106,6 @@ Industrial Control Systems:
   - title: 'Electric Vehicle Chargers'
     content: '"Server: gSOAP/2.8" "Content-Length: 583"'
 
-  - title: 'Maritime Satellites'
-    content: '"Cobham SATCOM" OR ("Sailor" "VSAT")'
-
   - title: 'Submarine Mission Control Dashboards'
     content: 'title:"Slocum Fleet Mission Control"'
 

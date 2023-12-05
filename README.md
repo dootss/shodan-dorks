@@ -6,7 +6,7 @@
 
 This has tons of titles, info and categorisation a lot of other mass-lists don't have.
 
-Also, every hour, it re-checks every query on here and updates their count.
+Also, every hour, it re-checks every query on here and updates their count. It also removes dorks that have 0 results.
 
 ### **Contents**
 
@@ -211,72 +211,16 @@ Search for electronic billboards managed by Prismview servers.
 `P372 "ANPR enabled"` - 1 result  
 
 
-[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
-`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
-
-
 [Tesla PowerPack Charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
 `http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
 
 
+[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
+`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
+
+
 [Tesla Powerpack charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
 `http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
-
-
-[Prison Pay Phones](https://www.shodan.io/search?query=%22%5B2J%5BH%20Encartele%20Confidential%22)  
-`"[2J[H Encartele Confidential"` - 0 results  
-
-
-[Niagara Fox](https://www.shodan.io/search?query=%22port%3A1911%2C4911%20product%3ANiagara%22)  
-`"port:1911,4911 product:Niagara"` - 0 results  
-
-
-[PIPS Automated License Plate Reader](https://www.shodan.io/search?query=%22html%3A%22PIPS%20Technology%20ALPR%20Processors%22%22)  
-`"html:"PIPS Technology ALPR Processors""` - 0 results  
-
-
-[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
-`"port:18245,18246 product:"general electric""` - 0 results  
-
-
-[MELSEC-Q](https://www.shodan.io/search?query=%22port%3A5006%2C5007%20product%3Amitsubishi%22)  
-`"port:5006,5007 product:mitsubishi"` - 0 results  
-
-
-[CODESYS](https://www.shodan.io/search?query=%22port%3A2455%20operating%20system%22)  
-`"port:2455 operating system"` - 0 results  
-
-
-[Omron FINS](https://www.shodan.io/search?query=%22port%3A9600%20response%20code%22)  
-`"port:9600 response code"` - 0 results  
-
-
-[IEC 60870-5-104](https://www.shodan.io/search?query=%22port%3A2404%20asdu%20address%22)  
-`"port:2404 asdu address"` - 0 results  
-
-
-[HART-IP](https://www.shodan.io/search?query=%22port%3A5094%20hart-ip%22)  
-`"port:5094 hart-ip"` - 0 results  
-
-
-[PCWorx](https://www.shodan.io/search?query=%22port%3A1962%20PLC%22)  
-`"port:1962 PLC"` - 0 results  
-
-
-[ProConOS](https://www.shodan.io/search?query=%22port%3A20547%20PLC%22)  
-`"port:20547 PLC"` - 0 results  
-
-
-[DNP3](https://www.shodan.io/search?query=%22port%3A20000%20source%20address%22)  
-`"port:20000 source address"` - 0 results  
-
-
-[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
-`"port:789 product:"Red Lion Controls""` - 0 results  
-
-
-[Maritime Satellites](https://www.shodan.io/search?query=%22Cobham%20SATCOM%22%20OR%20%28%22Sailor%22%20%22VSAT%22%29)  
-`"Cobham SATCOM" OR ("Sailor" "VSAT")` - Error: The search request has timed out or your query was invalid. results  
 
 
 
@@ -368,10 +312,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Vulnerable CouchDB Instances](https://www.shodan.io/search?query=port%3A%225984%22%2BServer%3A%20%22CouchDB/2.1.0%22)  
 `port:"5984"+Server: "CouchDB/2.1.0"` - 5 results  
-
-
-[Docker APIs](https://www.shodan.io/search?query=%22Docker%20Containers%3A%22%20port%3A2375)  
-`"Docker Containers:" port:2375` - 0 results  
 
 
 
@@ -519,10 +459,6 @@ Search for electronic billboards managed by Prismview servers.
 `bitcoin has_screenshot:true` - 3 results  
 
 
-[MongoDB Ransom Demand](https://www.shodan.io/search?query=port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22)  
-`port:"27017" "send_bitcoin_to_retrieve_the_data"` - 0 results  
-
-
 
 ---
 
@@ -558,15 +494,11 @@ Search for electronic billboards managed by Prismview servers.
 `http.html:"* The wp-config.php creation script uses this file"` - 21 results  
 
 
-[Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
-`"ETH - Total speed"` - 0 results  
-
-
 
 
 ---
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-05 21:15:24*
+*last updated at: 2023-12-05 21:18:36*
 
