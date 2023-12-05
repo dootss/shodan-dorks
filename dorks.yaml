@@ -1,0 +1,107 @@
+Industrial Control Systems:
+  - title: 'Samsung Electronic Billboards'
+    content: 'Server: Prismview Player'
+    description: 'Search for electronic billboards managed by Prismview servers.'
+
+  - title: 'Gas Station Pump Controllers'
+    content: '"in-tank inventory" port:10001'
+    description: 'Find gas station pump controllers with accessible inventory data.'
+
+
+# ------------------------------------------------------------------------------
+
+
+Cameras:
+  - title: 'General camera search.'
+    content: 'camera'
+
+  - title: 'Webcams with screenshots.'
+    content: 'webcam has_screenshot:true'
+
+  - title: 'IP Webcams with screenshots.'
+    content: 'has_screenshot:true IP Webcam'
+
+  - title: 'Webcams running on webcamXP'
+    content: 'server: webcamxp'
+
+  - title: 'Webcams running on webcam 7.'
+    content: 'server: "webcam 7"'
+
+  - title: 'Webcams running on Blue Iris.'
+    content: 'title:"blue iris remote view"'
+
+  - title: 'UI3 - the HTML5 web interface for Blue Iris.'
+    content: 'title:"ui3 -"'
+
+  - title: 'Canon-manufactured megapixel security cameras.'
+    content: 'title:"Network Camera VB-M600"'
+
+  - title: 'Yet another WebCAM software.'
+    content: 'product:"Yawcam webcam viewer httpd"'
+
+  - title: 'Webcams running on IPCam Client.'
+    content: 'title:"IPCam Client"'
+
+  - title: 'Older webcams running on GeoVision.'
+    content: 'server: GeoHttpServer'
+
+  - title: 'Vivotek IP cameras.'
+    content: 'server: VVTK-HTTP-Server'
+
+  - title: 'Avigilion-brand camera/monitoring devices.'
+    content: 'title:"Avigilon"'
+
+  - title: 'Various IP camera/video management system products.'
+    content: 'ACTi'
+
+  - title: 'A UK-based IP camera provider.'
+    content: 'WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."'
+
+  - title: 'Unsecured Linksys webcams.'
+    content: 'title:"+tm01+"'
+
+  - title: 'i-Catcher IP-based CCTV systems.'
+    content: 'server: "i-Catcher Console"'
+
+  - title: 'Netwave-make IP cameras.'
+    content: 'Netwave IP Camera Content-Length: 2574'
+
+  - title: 'DVR CCTV cameras accessible via http.'
+    content: '200 ok dvr port:"81"'
+
+  - title: 'Linksys WVC80N cameras.'
+    content: 'WVC80N'
+
+
+# ------------------------------------------------------------------------------
+
+
+Database Searches:
+  - title: 'General MySQL Database Search'
+    content: 'product:MySQL'
+
+  - title: 'Default MongoDB Instances'
+    content: 'mongodb port:27017'
+
+  - title: 'MongoDB Server Information on Default Port'
+    content: '"MongoDB Server Information" port:27017'
+
+  - title: 'Exposed MongoDB Express Web Interfaces'
+    content: '"Set-Cookie: mongo-express=" "200 OK"'
+
+  - title: 'Accessible Kibana Dashboards'
+    content: 'kibana content-length:217'
+
+  - title: 'Open Elasticsearch Databases'
+    content: 'port:"9200" all:elastic'
+
+  - title: 'Remote PostgreSQL Connections'
+    content: 'port:5432 PostgreSQL'
+
+  - title: 'Listed Apache CouchDB'
+    content: 'product:"CouchDB"'
+
+  - title: 'Vulnerable CouchDB Instances'
+    content: 'port:"5984"+Server: "CouchDB/2.1.0"'
+    description: 'Remote code execution may be possible.'
+
