@@ -138,3 +138,56 @@ Search for electronic billboards managed by Prismview servers.
 `port:"5984"+Server: "CouchDB/2.1.0"` - 5 results  
 Remote code execution may be possible.
 
+
+---
+
+### Printers
+
+[General Printer Search](https://www.shodan.io/search?query=printer)  
+`printer` - 181,165 results  
+
+
+[HP Printers Remote Restart](https://www.shodan.io/search?query=port%3A161%20hp)  
+`port:161 hp` - 11,303 results  
+
+
+[Canon Printer HTTP Servers](https://www.shodan.io/search?query=%22Server%3A%20CANON%20HTTP%20Server%22)  
+`"Server: CANON HTTP Server"` - 8,745 results  
+
+
+[HTTP Accessible Epson Printers](https://www.shodan.io/search?query=http%20200%20server%20epson%20-upnp)  
+`http 200 server epson -upnp` - 2,531 results  
+
+
+[Samsung Printers with SyncThru Web Service](https://www.shodan.io/search?query=title%3A%22syncthru%20web%20service%22)  
+`title:"syncthru web service"` - 1,249 results  
+
+
+[Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%3A23%20%22Password%20is%20not%20set%22)  
+`port:23 "Password is not set"` - 443 results  
+
+
+[Remote Access to Xerox Printers](https://www.shodan.io/search?query=ssl%3A%22Xerox%20Generic%20Root%22)  
+`ssl:"Xerox Generic Root"` - 440 results  
+
+
+[HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
+`"HP-ChaiSOE" port:"80"` - 425 results  
+
+
+[Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
+`"Server: EPSON-HTTP" "200 OK"` - 414 results  
+
+
+[Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
+`Printer Type: Lexmark` - 158 results  
+
+
+[Brother Printers Admin Interface](https://www.shodan.io/search?query=%22Location%3A%20/main/main.html%22%20debut)  
+`"Location: /main/main.html" debut` - 66 results  
+
+
+[Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
+`"Laser Printer FTP Server"` - 4 results  
+
+

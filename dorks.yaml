@@ -104,3 +104,46 @@ Database Searches:
   - title: 'Vulnerable CouchDB Instances'
     content: 'port:"5984"+Server: "CouchDB/2.1.0"'
     description: 'Remote code execution may be possible.'
+
+
+# ------------------------------------------------------------------------------
+
+
+Printers:
+  - title: 'General Printer Search'
+    content: 'printer'
+
+  - title: 'HP LaserJet Printers via HTTP'
+    content: '"HP-ChaiSOE" port:"80"'
+
+  - title: 'Samsung Printers with SyncThru Web Service'
+    content: 'title:"syncthru web service"'
+
+  - title: 'Brother Printers Admin Interface'
+    content: '"Location: /main/main.html" debut'
+
+  - title: 'HP Printers Remote Restart'
+    content: 'port:161 hp'
+
+  - title: 'Unsecured Telnet Access to Printers'
+    content: 'port:23 "Password is not set"'
+
+  - title: 'Printers with FTP Access'
+    content: '"Laser Printer FTP Server"'
+
+  - title: 'Lexmark Printer Control Panels'
+    content: 'Printer Type: Lexmark'
+
+  - title: 'HTTP Accessible Epson Printers'
+    content: 'http 200 server epson -upnp'
+
+  - title: 'Epson Printers via HTTP Server'
+    content: '"Server: EPSON-HTTP" "200 OK"'
+
+  - title: 'Remote Access to Xerox Printers'
+    content: 'ssl:"Xerox Generic Root"'
+
+  - title: 'Canon Printer HTTP Servers'
+    content: '"Server: CANON HTTP Server"'
+
+# ------------------------------------------------------------------------------
