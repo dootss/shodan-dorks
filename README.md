@@ -2,6 +2,17 @@
 
 # Shodan Dorks [![](https://dcbadge.vercel.app/api/shield/476415736466636810?compact=true)](https://discordapp.com/users/476415736466636810)
 
+### **Table of Contents**
+
+- [Industrial Control Systems](#industrial-control-systems)
+- [Cameras](#cameras)
+- [Database Searches](#database-searches)
+- [Printers](#printers)
+
+---
+
+<a name='industrial-control-systems'></a>
+
 ### Industrial Control Systems
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
@@ -14,6 +25,8 @@ Search for electronic billboards managed by Prismview servers.
 
 
 ---
+
+<a name='cameras'></a>
 
 ### Cameras
 
@@ -100,6 +113,8 @@ Search for electronic billboards managed by Prismview servers.
 
 ---
 
+<a name='database-searches'></a>
+
 ### Database Searches
 
 [General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
@@ -140,6 +155,8 @@ Remote code execution may be possible.
 
 
 ---
+
+<a name='printers'></a>
 
 ### Printers
 
