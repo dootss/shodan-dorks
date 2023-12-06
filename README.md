@@ -116,11 +116,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 ### Industrial Control Systems
 
 [EtherNet/IP](https://www.shodan.io/search?query=%22port%3A44818%22)  
-`"port:44818"` - 500,084 results  
+`"port:44818"` - 497,713 results  
 
 
 [S7](https://www.shodan.io/search?query=%22port%3A102%22)  
-`"port:102"` - 470,247 results  
+`"port:102"` - 469,696 results  
 
 
 [Modbus](https://www.shodan.io/search?query=%22port%3A502%22)  
@@ -156,7 +156,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [Submarine Mission Control Dashboards](https://www.shodan.io/search?query=title%3A%22Slocum%20Fleet%20Mission%20Control%22)  
-`title:"Slocum Fleet Mission Control"` - 128 results  
+`title:"Slocum Fleet Mission Control"` - 126 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%22%5B1m%5B35mWelcome%20on%20console%22)  
@@ -172,7 +172,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 29 results  
 
 
 [Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
@@ -258,16 +258,8 @@ Search for electronic billboards managed by Prismview servers.
 `product:"CouchDB"` - 4,452 results  
 
 
-[Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
-`"Android Debug Bridge" "Device" port:5555` - 3,972 results  
-
-
 [Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
 `http.title:"- Polycom" "Server: lighttpd"` - 3,878 results  
-
-
-[Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,374 results  
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
@@ -300,10 +292,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
 `"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 119 results  
-
-
-[Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
-`"Polycom Command Shell" -failed port:23` - 53 results  
 
 
 [Weave Scope Dashboards](https://www.shodan.io/search?query=title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827)  
@@ -365,24 +353,12 @@ Search for electronic billboards managed by Prismview servers.
 `"Location: /main/main.html" debut` - 64 results  
 
 
-[Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
-`"Laser Printer FTP Server"` - 4 results  
-
-
 
 ---
 
 <a name='files-and-directories'></a>
 
 ### Files and Directories
-
-[Open Lists of Files and Directories](https://www.shodan.io/search?query=http.title%3A%22Index%20of%20/%22)  
-`http.title:"Index of /"` - 378,059 results  
-
-
-[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
-`"Authentication: disabled" port:445 product:"Samba"` - 278,167 results  
-
 
 [Filezilla FTP](https://www.shodan.io/search?query=filezilla%20port%3A%2221%22)  
 `filezilla port:"21"` - 267,883 results  
@@ -419,16 +395,8 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Compromised devices and websites
 
-[General Hacked Label Search](https://www.shodan.io/search?query=%22hacked%22)  
-`"hacked"` - 2,191 results  
-
-
 [Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
 `port:4444 system32` - 1,101 results  
-
-
-[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%22HACKED-ROUTER%22)  
-`"HACKED-ROUTER"` - 903 results  
 
 
 [Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
@@ -478,16 +446,12 @@ Search for electronic billboards managed by Prismview servers.
 `"Minecraft Server" "protocol 340" port:25565` - 12,291 results  
 
 
-[Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
-`http.title:"Tesla"` - 585 results  
-
-
 [Everything in North Korea](https://www.shodan.io/search?query=net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24)  
 `net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24` - 49 results  
 
 
 [EIG Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 29 results  
 
 
 [Misconfigured WordPress Installations](https://www.shodan.io/search?query=http.html%3A%22%2A%20The%20wp-config.php%20creation%20script%20uses%20this%20file%22)  
@@ -500,5 +464,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 07:14:58*
+*last updated at: 2023-12-06 08:02:42*
 
