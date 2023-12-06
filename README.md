@@ -24,10 +24,6 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Cameras
 
-[Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
-`product:"Hikvision IP Camera"` - 3,191,417 results  
-Backdoor exploit at https://ipvm.com/reports/hik-exploit
-
 
 ---
 
@@ -51,16 +47,12 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `"port:47808"` - 40,807 results  
 
 
-[VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 7,965 results  
-While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
-
 [Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
 `"Siemens, SIMATIC" port:161` - 3,048 results  
 
 
-[XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 601 results  
+[DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
+`"DICOM Server Response" port:104` - 1,799 results  
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
@@ -77,6 +69,14 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 [Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
 `"Server: gSOAP/2.8" "Content-Length: 583"` - 50 results  
+
+
+[Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
+`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 38 results  
+
+
+[GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
 
 
 [Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
@@ -130,24 +130,20 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 ### Network Infastructure
 
-[Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
-`"Android Debug Bridge" "Device" port:5555` - 3,972 results  
+[Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,374 results  
 
 
-[Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
-`Lantronix password port:30718 -secured` - 758 results  
+[Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
+`"Citrix Applications:" port:1604` - 338 results  
 
 
-[PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
-`PBX "gateway console" -password port:23` - 183 results  
+[Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
+`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 118 results  
 
 
 [Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
 `"Polycom Command Shell" -failed port:23` - 53 results  
-
-
-[Weave Scope Dashboards](https://www.shodan.io/search?query=title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827)  
-`title:"Weave Scope" http.favicon.hash:567176827` - 25 results  
 
 
 
@@ -157,8 +153,12 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 ### Printers
 
-[Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 414 results  
+[Canon Printer HTTP Servers](https://www.shodan.io/search?query=%22Server%3A%20CANON%20HTTP%20Server%22)  
+`"Server: CANON HTTP Server"` - 8,745 results  
+
+
+[Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
+`"Laser Printer FTP Server"` - 4 results  
 
 
 
@@ -180,8 +180,8 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 `filezilla port:"21"` - 268,941 results  
 
 
-[Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
-`port:80 title:"Index of /"` - 168,555 results  
+[FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
+`"220" "230 Login successful." port:21` - 66,156 results  
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
@@ -190,10 +190,6 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
 `ftp port:"10000"` - 10,020 results  
-
-
-[Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
-`vsftpd 2.3.4` - 2,748 results  
 
 
 [QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
@@ -209,18 +205,6 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 [General Hacked Label Search](https://www.shodan.io/search?query=%22hacked%22)  
 `"hacked"` - 2,191 results  
-
-
-[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
-`port:4444 system32` - 1,110 results  
-
-
-[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%22HACKED-ROUTER%22)  
-`"HACKED-ROUTER"` - 903 results  
-
-
-[Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
-`http.title:"Hacked by"` - 600 results  
 
 
 [Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=%22HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%22)  
@@ -239,14 +223,6 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 `http.title:"0wn3d by"` - 8 results  
 
 
-[Ransomware Infected RDP Services](https://www.shodan.io/search?query=%22attention%22%20%22encrypted%22%20port%3A3389)  
-`"attention" "encrypted" port:3389` - 6 results  
-
-
-[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=bitcoin%20has_screenshot%3Atrue)  
-`bitcoin has_screenshot:true` - 3 results  
-
-
 
 ---
 
@@ -254,12 +230,12 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 ### Miscellaneous
 
-[General Dashboard Interfaces](https://www.shodan.io/search?query=http.title%3A%22dashboard%22)  
-`http.title:"dashboard"` - 101,724 results  
+[Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
+`http.title:"control panel"` - 60,183 results  
 
 
-[Everything in North Korea](https://www.shodan.io/search?query=net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24)  
-`net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24` - 49 results  
+[EIG Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
 
 
 
@@ -268,5 +244,5 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 04:00:58*
+*last updated at: 2023-12-06 05:01:14*
 
