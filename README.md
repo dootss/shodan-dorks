@@ -28,14 +28,6 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 `product:"Hikvision IP Camera"` - 3,191,417 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
-[Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
-`ACTi` - 385 results  
-
-
-[IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
-`has_screenshot:true IP Webcam` - 98 results  
-
-
 
 ---
 
@@ -67,10 +59,6 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 `"Siemens, SIMATIC" port:161` - 3,048 results  
 
 
-[DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,799 results  
-
-
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
 `title:"xzeres wind"` - 601 results  
 
@@ -89,14 +77,6 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 [Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
 `"Server: gSOAP/2.8" "Content-Length: 583"` - 50 results  
-
-
-[Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
-`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 38 results  
-
-
-[GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
 
 
 [Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
@@ -150,48 +130,16 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 ### Network Infastructure
 
-[Cisco Smart Install](https://www.shodan.io/search?query=%22smart%20install%20client%20active%22)  
-`"smart install client active"` - 10,392 results  
-
-
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
 `"Android Debug Bridge" "Device" port:5555` - 3,972 results  
-
-
-[Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
-`http.title:"- Polycom" "Server: lighttpd"` - 3,853 results  
-
-
-[Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,374 results  
-
-
-[Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
-`"root@" port:23 -login -password -name -Session` - 1,846 results  
-
-
-[Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
-`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 1,238 results  
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
 `Lantronix password port:30718 -secured` - 758 results  
 
 
-[Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
-`kibana content-length:217` - 711 results  
-
-
-[Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
-`"Citrix Applications:" port:1604` - 338 results  
-
-
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
 `PBX "gateway console" -password port:23` - 183 results  
-
-
-[Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
-`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 118 results  
 
 
 [Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
@@ -209,52 +157,8 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 ### Printers
 
-[General Printer Search](https://www.shodan.io/search?query=printer)  
-`printer` - 181,165 results  
-
-
-[HP Printers Remote Restart](https://www.shodan.io/search?query=port%3A161%20hp)  
-`port:161 hp` - 11,303 results  
-
-
-[Canon Printer HTTP Servers](https://www.shodan.io/search?query=%22Server%3A%20CANON%20HTTP%20Server%22)  
-`"Server: CANON HTTP Server"` - 8,745 results  
-
-
-[HTTP Accessible Epson Printers](https://www.shodan.io/search?query=http%20200%20server%20epson%20-upnp)  
-`http 200 server epson -upnp` - 2,531 results  
-
-
-[Samsung Printers with SyncThru Web Service](https://www.shodan.io/search?query=title%3A%22syncthru%20web%20service%22)  
-`title:"syncthru web service"` - 1,249 results  
-
-
-[Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%3A23%20%22Password%20is%20not%20set%22)  
-`port:23 "Password is not set"` - 443 results  
-
-
-[Remote Access to Xerox Printers](https://www.shodan.io/search?query=ssl%3A%22Xerox%20Generic%20Root%22)  
-`ssl:"Xerox Generic Root"` - 440 results  
-
-
-[HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 425 results  
-
-
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
 `"Server: EPSON-HTTP" "200 OK"` - 414 results  
-
-
-[Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
-`Printer Type: Lexmark` - 158 results  
-
-
-[Brother Printers Admin Interface](https://www.shodan.io/search?query=%22Location%3A%20/main/main.html%22%20debut)  
-`"Location: /main/main.html" debut` - 66 results  
-
-
-[Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
-`"Laser Printer FTP Server"` - 4 results  
 
 
 
@@ -354,24 +258,8 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 `http.title:"dashboard"` - 101,724 results  
 
 
-[Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
-`http.title:"control panel"` - 60,183 results  
-
-
-[Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
-`http.title:"Tesla"` - 585 results  
-
-
 [Everything in North Korea](https://www.shodan.io/search?query=net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24)  
 `net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24` - 49 results  
-
-
-[EIG Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
-
-
-[Misconfigured WordPress Installations](https://www.shodan.io/search?query=http.html%3A%22%2A%20The%20wp-config.php%20creation%20script%20uses%20this%20file%22)  
-`http.html:"* The wp-config.php creation script uses this file"` - 21 results  
 
 
 
@@ -380,5 +268,5 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 03:00:58*
+*last updated at: 2023-12-06 04:00:58*
 
