@@ -116,11 +116,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 ### Industrial Control Systems
 
 [EtherNet/IP](https://www.shodan.io/search?query=%22port%3A44818%22)  
-`"port:44818"` - 497,713 results  
+`"port:44818"` - 501,696 results  
 
 
 [S7](https://www.shodan.io/search?query=%22port%3A102%22)  
-`"port:102"` - 469,696 results  
+`"port:102"` - 475,138 results  
 
 
 [Modbus](https://www.shodan.io/search?query=%22port%3A502%22)  
@@ -500,5 +500,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 17:40:29*
+*last updated at: 2023-12-06 18:43:33*
 
