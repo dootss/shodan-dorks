@@ -24,6 +24,10 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Cameras
 
+[General camera search.](https://www.shodan.io/search?query=camera)  
+`camera` - 3,993,487 results  
+
+
 
 ---
 
@@ -31,36 +35,12 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Industrial Control Systems
 
-[S7](https://www.shodan.io/search?query=%22port%3A102%22)  
-`"port:102"` - 470,247 results  
+[Railroad Management](https://www.shodan.io/search?query=%22log%20off%22%20%22select%20the%20appropriate%22)  
+`"log off" "select the appropriate"` - 2 results  
 
 
-[Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 203 results  
-
-
-[Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
-`"Server: gSOAP/2.8" "Content-Length: 583"` - 50 results  
-
-
-[Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
-`NCR Port:"161"` - 27 results  
-
-
-[Siemens HVAC Controllers](https://www.shodan.io/search?query=%22Server%3A%20Microsoft-WinCE%22%20%22Content-Length%3A%2012581%22)  
-`"Server: Microsoft-WinCE" "Content-Length: 12581"` - 7 results  
-
-
-[Automatic License Plate Readers](https://www.shodan.io/search?query=P372%20%22ANPR%20enabled%22)  
-`P372 "ANPR enabled"` - 1 result  
-
-
-[Tesla PowerPack Charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
-`http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
-
-
-[Tesla Powerpack charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
-`http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
+[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
+`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
 
 
 
@@ -104,5 +84,5 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 06:00:53*
+*last updated at: 2023-12-06 07:01:07*
 
