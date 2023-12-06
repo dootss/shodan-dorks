@@ -24,88 +24,16 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Cameras
 
-[General camera search.](https://www.shodan.io/search?query=camera)  
-`camera` - 4,032,551 results  
-
-
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
 `product:"Hikvision IP Camera"` - 3,191,417 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
-
-[Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
-`title:"IPCam Client"` - 63,597 results  
-
-
-[Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
-`server: GeoHttpServer` - 43,903 results  
-
-
-[Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%3A%22Avigilon%22)  
-`title:"Avigilon"` - 18,237 results  
-
-
-[Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
-`server: VVTK-HTTP-Server` - 17,523 results  
-
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
 `200 ok dvr port:"81"` - 9,831 results  
 
 
-[Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
-`Netwave IP Camera Content-Length: 2574` - 1,413 results  
-
-
-[A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
-`WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,399 results  
-
-
-[Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 579 results  
-
-
-[Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
-`title:"+tm01+"` - 557 results  
-
-
-[Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
-`ACTi` - 385 results  
-
-
-[UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
-`title:"ui3 -"` - 298 results  
-
-
-[Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
-`webcam has_screenshot:true` - 204 results  
-
-
-[Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
-`server: webcamxp` - 181 results  
-
-
-[Webcams running on webcam 7.](https://www.shodan.io/search?query=server%3A%20%22webcam%207%22)  
-`server: "webcam 7"` - 116 results  
-
-
-[IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
-`has_screenshot:true IP Webcam` - 98 results  
-
-
-[Webcams running on Blue Iris.](https://www.shodan.io/search?query=title%3A%22blue%20iris%20remote%20view%22)  
-`title:"blue iris remote view"` - 36 results  
-
-
-[Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
-`WVC80N` - 35 results  
-
-
 [Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=title%3A%22Network%20Camera%20VB-M600%22)  
 `title:"Network Camera VB-M600"` - 32 results  
-
-
-[i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
-`server: "i-Catcher Console"` - 25 results  
 
 
 
@@ -134,10 +62,6 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
 `"authentication disabled" "RFB 003.008"` - 7,965 results  
 While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
-
-[Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
-`"in-tank inventory" port:10001` - 6,136 results  
-Find gas station pump controllers with accessible inventory data.
 
 [Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
 `"Siemens, SIMATIC" port:161` - 3,048 results  
@@ -211,12 +135,12 @@ Search for electronic billboards managed by Prismview servers.
 `P372 "ANPR enabled"` - 1 result  
 
 
-[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
-`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
-
-
 [Tesla PowerPack Charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
 `http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
+
+
+[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
+`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
 
 
 [Tesla Powerpack charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
@@ -392,10 +316,6 @@ Search for electronic billboards managed by Prismview servers.
 `port:80 title:"Index of /"` - 168,555 results  
 
 
-[FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
-`"220" "230 Login successful." port:21` - 66,156 results  
-
-
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
 `"Anonymous access allowed" port:"21"` - 36,434 results  
 
@@ -500,5 +420,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 01:00:51*
+*last updated at: 2023-12-06 02:00:59*
 
