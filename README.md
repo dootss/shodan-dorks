@@ -24,85 +24,89 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Cameras
 
-[General camera search.](https://www.shodan.io/search?query=%22camera%22)  
-`"camera"` - 4,055,376 results  
+[General camera search.](https://www.shodan.io/search?query=camera)  
+`camera` - 4,018,752 results  
 
 
-[Hikvision IP Cameras.](https://www.shodan.io/search?query=%22product%3A%22Hikvision%20IP%20Camera%22%22)  
-`"product:"Hikvision IP Camera""` - 3,170,131 results  
+[Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
+`ACTi` - 380 results  
+
+
+[Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
+`WVC80N` - 34 results  
+
+
+[Webcams running on webcamXP](https://www.shodan.io/search?query=server%253A%2Bwebcamxp)  
+`server%3A+webcamxp` - 1 result  
+
+
+[Webcams with screenshots.](https://www.shodan.io/search?query=webcam%2Bhas_screenshot%253Atrue)  
+`webcam+has_screenshot%3Atrue` - 0 results  
+
+
+[IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%253Atrue%2BIP%2BWebcam)  
+`has_screenshot%3Atrue+IP+Webcam` - 0 results  
+
+
+[Webcams running on webcam 7.](https://www.shodan.io/search?query=server%253A%2B%2522webcam%2B7%2522)  
+`server%3A+%22webcam+7%22` - 0 results  
+
+
+[Webcams running on Blue Iris.](https://www.shodan.io/search?query=title%253A%2522blue%2Biris%2Bremote%2Bview%2522)  
+`title%3A%22blue+iris+remote+view%22` - 0 results  
+
+
+[UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%253A%2522ui3%2B-%2522)  
+`title%3A%22ui3+-%22` - 0 results  
+
+
+[Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=title%253A%2522Network%2BCamera%2BVB-M600%2522)  
+`title%3A%22Network+Camera+VB-M600%22` - 0 results  
+
+
+[Yet another WebCAM software.](https://www.shodan.io/search?query=product%253A%2522Yawcam%2Bwebcam%2Bviewer%2Bhttpd%2522)  
+`product%3A%22Yawcam+webcam+viewer+httpd%22` - 0 results  
+
+
+[Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%253A%2522IPCam%2BClient%2522)  
+`title%3A%22IPCam+Client%22` - 0 results  
+
+
+[Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%253A%2BGeoHttpServer)  
+`server%3A+GeoHttpServer` - 0 results  
+
+
+[Vivotek IP cameras.](https://www.shodan.io/search?query=server%253A%2BVVTK-HTTP-Server)  
+`server%3A+VVTK-HTTP-Server` - 0 results  
+
+
+[Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%253A%2522Avigilon%2522)  
+`title%3A%22Avigilon%22` - 0 results  
+
+
+[A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%253A%2B%2522Merit%2BLILIN%2BEnt.%2BCo.%252C%2BLtd.%2522)  
+`WWW-Authenticate%3A+%22Merit+LILIN+Ent.+Co.%2C+Ltd.%22` - 0 results  
+
+
+[Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%253A%2522%252Btm01%252B%2522)  
+`title%3A%22%2Btm01%2B%22` - 0 results  
+
+
+[i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%253A%2B%2522i-Catcher%2BConsole%2522)  
+`server%3A+%22i-Catcher+Console%22` - 0 results  
+
+
+[Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%2BIP%2BCamera%2BContent-Length%253A%2B2574)  
+`Netwave+IP+Camera+Content-Length%3A+2574` - 0 results  
+
+
+[DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%2Bok%2Bdvr%2Bport%253A%252281%2522)  
+`200+ok+dvr+port%3A%2281%22` - 0 results  
+
+
+[Hikvision IP Cameras.](https://www.shodan.io/search?query=product%253A%2522Hikvision%2BIP%2BCamera%2522)  
+`product%3A%22Hikvision+IP+Camera%22` - 0 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
-
-[Various IP camera/video management system products.](https://www.shodan.io/search?query=%22ACTi%22)  
-`"ACTi"` - 2,051,562 results  
-
-
-[IP Webcams with screenshots.](https://www.shodan.io/search?query=%22has_screenshot%3Atrue%20IP%20Webcam%22)  
-`"has_screenshot:true IP Webcam"` - 951,846 results  
-
-
-[Older webcams running on GeoVision.](https://www.shodan.io/search?query=%22server%3A%20GeoHttpServer%22)  
-`"server: GeoHttpServer"` - 30,598 results  
-
-
-[Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=%22title%3A%22Avigilon%22%22)  
-`"title:"Avigilon""` - 18,393 results  
-
-
-[Vivotek IP cameras.](https://www.shodan.io/search?query=%22server%3A%20VVTK-HTTP-Server%22)  
-`"server: VVTK-HTTP-Server"` - 17,537 results  
-
-
-[A UK-based IP camera provider.](https://www.shodan.io/search?query=%22WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22%22)  
-`"WWW-Authenticate: "Merit LILIN Ent. Co., Ltd.""` - 1,410 results  
-
-
-[Webcams running on webcam 7.](https://www.shodan.io/search?query=%22server%3A%20%22webcam%207%22%22)  
-`"server: "webcam 7""` - 998 results  
-
-
-[Webcams running on webcamXP](https://www.shodan.io/search?query=%22server%3A%20webcamxp%22)  
-`"server: webcamxp"` - 178 results  
-
-
-[Linksys WVC80N cameras.](https://www.shodan.io/search?query=%22WVC80N%22)  
-`"WVC80N"` - 34 results  
-
-
-[i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=%22server%3A%20%22i-Catcher%20Console%22%22)  
-`"server: "i-Catcher Console""` - 25 results  
-
-
-[Webcams running on IPCam Client.](https://www.shodan.io/search?query=%22title%3A%22IPCam%20Client%22%22)  
-`"title:"IPCam Client""` - 7 results  
-
-
-[Webcams with screenshots.](https://www.shodan.io/search?query=%22webcam%20has_screenshot%3Atrue%22)  
-`"webcam has_screenshot:true"` - 0 results  
-
-
-[Webcams running on Blue Iris.](https://www.shodan.io/search?query=%22title%3A%22blue%20iris%20remote%20view%22%22)  
-`"title:"blue iris remote view""` - 0 results  
-
-
-[Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=%22title%3A%22Network%20Camera%20VB-M600%22%22)  
-`"title:"Network Camera VB-M600""` - 0 results  
-
-
-[Yet another WebCAM software.](https://www.shodan.io/search?query=%22product%3A%22Yawcam%20webcam%20viewer%20httpd%22%22)  
-`"product:"Yawcam webcam viewer httpd""` - 0 results  
-
-
-[Unsecured Linksys webcams.](https://www.shodan.io/search?query=%22title%3A%22%2Btm01%2B%22%22)  
-`"title:"+tm01+""` - 0 results  
-
-
-[Netwave-make IP cameras.](https://www.shodan.io/search?query=%22Netwave%20IP%20Camera%20Content-Length%3A%202574%22)  
-`"Netwave IP Camera Content-Length: 2574"` - 0 results  
-
-
-[DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=%22200%20ok%20dvr%20port%3A%2281%22%22)  
-`"200 ok dvr port:"81""` - 0 results  
-
 
 
 ---
@@ -111,165 +115,165 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 ### Industrial Control Systems
 
-[EtherNet/IP](https://www.shodan.io/search?query=%22port%3A44818%22)  
-`"port:44818"` - 501,696 results  
+[Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=mikrotik%2Bstreetlight)  
+`mikrotik+streetlight` - 22 results  
 
 
-[S7](https://www.shodan.io/search?query=%22port%3A102%22)  
-`"port:102"` - 475,138 results  
-
-
-[Modbus](https://www.shodan.io/search?query=%22port%3A502%22)  
-`"port:502"` - 458,733 results  
-
-
-[BACnet](https://www.shodan.io/search?query=%22port%3A47808%22)  
-`"port:47808"` - 40,761 results  
-
-
-[VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 7,999 results  
-While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
-
-[Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
-`"in-tank inventory" port:10001` - 6,145 results  
-Find gas station pump controllers with accessible inventory data.
-
-[Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
-`"Siemens, SIMATIC" port:161` - 3,020 results  
-
-
-[DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,799 results  
-
-
-[Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 201 results  
-
-
-[C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%22%5B1m%5B35mWelcome%20on%20console%22)  
-`"[1m[35mWelcome on console"` - 125 results  
-
-
-[Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
-`"Server: gSOAP/2.8" "Content-Length: 583"` - 50 results  
-
-
-[GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 29 results  
-
-
-[Voting Machines in the United States](https://www.shodan.io/search?query=%22voter%20system%20serial%22%20country%3AUS)  
-`"voter system serial" country:US` - 22 results  
-
-
-[CAREL PlantVisor Refrigeration Units](https://www.shodan.io/search?query=%22Server%3A%20CarelDataServer%22%20%22200%20Document%20follows%22)  
-`"Server: CarelDataServer" "200 Document follows"` - 16 results  
-
-
-[Siemens HVAC Controllers](https://www.shodan.io/search?query=%22Server%3A%20Microsoft-WinCE%22%20%22Content-Length%3A%2012581%22)  
-`"Server: Microsoft-WinCE" "Content-Length: 12581"` - 7 results  
-
-
-[Samsung Electronic Billboards](https://www.shodan.io/search?query=%22Server%3A%20Prismview%20Player%22)  
-`"Server: Prismview Player"` - 3 results  
+[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%253A%2BPrismview%2BPlayer)  
+`Server%3A+Prismview+Player` - 0 results  
 Search for electronic billboards managed by Prismview servers.
 
-[Fuel Pumps connected to internet](https://www.shodan.io/search?query=%22privileged%20command%22%20GET)  
-`"privileged command" GET` - 3 results  
+[Gas Station Pump Controllers](https://www.shodan.io/search?query=%2522in-tank%2Binventory%2522%2Bport%253A10001)  
+`%22in-tank+inventory%22+port%3A10001` - 0 results  
+Find gas station pump controllers with accessible inventory data.
+
+[Fuel Pumps connected to internet](https://www.shodan.io/search?query=%2522privileged%2Bcommand%2522%2BGET)  
+`%22privileged+command%22+GET` - 0 results  
 
 
-[Railroad Management](https://www.shodan.io/search?query=%22log%20off%22%20%22select%20the%20appropriate%22)  
-`"log off" "select the appropriate"` - 2 results  
+[Automatic License Plate Readers](https://www.shodan.io/search?query=P372%2B%2522ANPR%2Benabled%2522)  
+`P372+%22ANPR+enabled%22` - 0 results  
 
 
-[Automatic License Plate Readers](https://www.shodan.io/search?query=%22P372%20%22ANPR%20enabled%22%22)  
-`"P372 "ANPR enabled""` - 1 result  
+[Voting Machines in the United States](https://www.shodan.io/search?query=%2522voter%2Bsystem%2Bserial%2522%2Bcountry%253AUS)  
+`%22voter+system+serial%22+country%3AUS` - 0 results  
 
 
-[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%22Cisco%20IOS%22%20%22ADVIPSERVICESK9_LI-M%22)  
-`"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
+[Open ATM](https://www.shodan.io/search?query=NCR%2BPort%253A%2522161%2522)  
+`NCR+Port%3A%22161%22` - 0 results  
 
 
-[Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=%22mikrotik%20streetlight%22)  
-`"mikrotik streetlight"` - 0 results  
+[Telcos Running Cisco Lawful Intercept Wiretaps](https://www.shodan.io/search?query=%2522Cisco%2BIOS%2522%2B%2522ADVIPSERVICESK9_LI-M%2522)  
+`%22Cisco+IOS%22+%22ADVIPSERVICESK9_LI-M%22` - 0 results  
 
 
-[Open ATM](https://www.shodan.io/search?query=%22NCR%20Port%3A%22161%22%22)  
-`"NCR Port:"161""` - 0 results  
+[Prison Pay Phones](https://www.shodan.io/search?query=%2522%255B2J%255BH%2BEncartele%2BConfidential%2522)  
+`%22%5B2J%5BH+Encartele+Confidential%22` - 0 results  
 
 
-[Prison Pay Phones](https://www.shodan.io/search?query=%22%5B2J%5BH%20Encartele%20Confidential%22)  
-`"[2J[H Encartele Confidential"` - 0 results  
+[Tesla PowerPack Charging Status](https://www.shodan.io/search?query=http.title%253A%2522Tesla%2BPowerPack%2BSystem%2522%2Bhttp.component%253A%2522d3%2522%2B-ga3ca4f2)  
+`http.title%3A%22Tesla+PowerPack+System%22+http.component%3A%22d3%22+-ga3ca4f2` - 0 results  
 
 
-[Tesla PowerPack Charging Status](https://www.shodan.io/search?query=%22http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2%22)  
-`"http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2"` - 0 results  
+[Electric Vehicle Chargers](https://www.shodan.io/search?query=%2522Server%253A%2BgSOAP%252F2.8%2522%2B%2522Content-Length%253A%2B583%2522)  
+`%22Server%3A+gSOAP%2F2.8%22+%22Content-Length%3A+583%22` - 0 results  
 
 
-[Submarine Mission Control Dashboards](https://www.shodan.io/search?query=%22title%3A%22Slocum%20Fleet%20Mission%20Control%22%22)  
-`"title:"Slocum Fleet Mission Control""` - 0 results  
+[Submarine Mission Control Dashboards](https://www.shodan.io/search?query=title%253A%2522Slocum%2BFleet%2BMission%2BControl%2522)  
+`title%3A%22Slocum+Fleet+Mission+Control%22` - 0 results  
 
 
-[Nordex Wind Turbine Farms](https://www.shodan.io/search?query=%22http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22%22)  
-`"http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)""` - 0 results  
+[CAREL PlantVisor Refrigeration Units](https://www.shodan.io/search?query=%2522Server%253A%2BCarelDataServer%2522%2B%2522200%2BDocument%2Bfollows%2522)  
+`%22Server%3A+CarelDataServer%22+%22200+Document+follows%22` - 0 results  
 
 
-[Tesla Powerpack charging Status](https://www.shodan.io/search?query=%22http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2%22)  
-`"http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2"` - 0 results  
+[Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%253A%2522Nordex%2BControl%2522%2B%2522Windows%2B2000%2B5.0%2Bx86%2522%2B%2522Jetty%252F3.1%2B%2528JSP%2B1.1%253B%2BServlet%2B2.2%253B%2Bjava%2B1.6.0_14%2529%2522)  
+`http.title%3A%22Nordex+Control%22+%22Windows+2000+5.0+x86%22+%22Jetty%2F3.1+%28JSP+1.1%3B+Servlet+2.2%3B+java+1.6.0_14%29%22` - 0 results  
 
 
-[XZERES Wind Turbine](https://www.shodan.io/search?query=%22title%3A%22xzeres%20wind%22%22)  
-`"title:"xzeres wind""` - 0 results  
+[C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%2522%255B1m%255B35mWelcome%2Bon%2Bconsole%2522)  
+`%22%5B1m%5B35mWelcome+on+console%22` - 0 results  
 
 
-[PIPS Automated License Plate Reader](https://www.shodan.io/search?query=%22html%3A%22PIPS%20Technology%20ALPR%20Processors%22%22)  
-`"html:"PIPS Technology ALPR Processors""` - 0 results  
+[DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%2522DICOM%2BServer%2BResponse%2522%2Bport%253A104)  
+`%22DICOM+Server+Response%22+port%3A104` - 0 results  
 
 
-[Niagara Fox](https://www.shodan.io/search?query=%22port%3A1911%2C4911%20product%3ANiagara%22)  
-`"port:1911,4911 product:Niagara"` - 0 results  
+[GaugeTech Electricity Meters](https://www.shodan.io/search?query=%2522Server%253A%2BEIG%2BEmbedded%2BWeb%2BServer%2522%2B%2522200%2BDocument%2Bfollows%2522)  
+`%22Server%3A+EIG+Embedded+Web+Server%22+%22200+Document+follows%22` - 0 results  
 
 
-[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
-`"port:18245,18246 product:"general electric""` - 0 results  
+[Siemens Industrial Automation](https://www.shodan.io/search?query=%2522Siemens%252C%2BSIMATIC%2522%2Bport%253A161)  
+`%22Siemens%2C+SIMATIC%22+port%3A161` - 0 results  
 
 
-[MELSEC-Q](https://www.shodan.io/search?query=%22port%3A5006%2C5007%20product%3Amitsubishi%22)  
-`"port:5006,5007 product:mitsubishi"` - 0 results  
+[Siemens HVAC Controllers](https://www.shodan.io/search?query=%2522Server%253A%2BMicrosoft-WinCE%2522%2B%2522Content-Length%253A%2B12581%2522)  
+`%22Server%3A+Microsoft-WinCE%22+%22Content-Length%3A+12581%22` - 0 results  
 
 
-[CODESYS](https://www.shodan.io/search?query=%22port%3A2455%20operating%20system%22)  
-`"port:2455 operating system"` - 0 results  
+[Door / Lock Access Controllers](https://www.shodan.io/search?query=%2522HID%2BVertX%2522%2Bport%253A4070)  
+`%22HID+VertX%22+port%3A4070` - 0 results  
 
 
-[HART-IP](https://www.shodan.io/search?query=%22port%3A5094%20hart-ip%22)  
-`"port:5094 hart-ip"` - 0 results  
+[Railroad Management](https://www.shodan.io/search?query=%2522log%2Boff%2522%2B%2522select%2Bthe%2Bappropriate%2522)  
+`%22log+off%22+%22select+the+appropriate%22` - 0 results  
 
 
-[Omron FINS](https://www.shodan.io/search?query=%22port%3A9600%20response%20code%22)  
-`"port:9600 response code"` - 0 results  
+[Tesla Powerpack charging Status](https://www.shodan.io/search?query=http.title%253A%2522Tesla%2BPowerPack%2BSystem%2522%2Bhttp.component%253A%2522d3%2522%2B-ga3ca4f2)  
+`http.title%3A%22Tesla+PowerPack+System%22+http.component%3A%22d3%22+-ga3ca4f2` - 0 results  
 
 
-[IEC 60870-5-104](https://www.shodan.io/search?query=%22port%3A2404%20asdu%20address%22)  
-`"port:2404 asdu address"` - 0 results  
+[XZERES Wind Turbine](https://www.shodan.io/search?query=title%253A%2522xzeres%2Bwind%2522)  
+`title%3A%22xzeres+wind%22` - 0 results  
 
 
-[DNP3](https://www.shodan.io/search?query=%22port%3A20000%20source%20address%22)  
-`"port:20000 source address"` - 0 results  
+[PIPS Automated License Plate Reader](https://www.shodan.io/search?query=%2522html%253A%2522PIPS%2BTechnology%2BALPR%2BProcessors%2522%2522)  
+`%22html%3A%22PIPS+Technology+ALPR+Processors%22%22` - 0 results  
 
 
-[PCWorx](https://www.shodan.io/search?query=%22port%3A1962%20PLC%22)  
-`"port:1962 PLC"` - 0 results  
+[Modbus](https://www.shodan.io/search?query=%2522port%253A502%2522)  
+`%22port%3A502%22` - 0 results  
 
 
-[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
-`"port:789 product:"Red Lion Controls""` - 0 results  
+[Niagara Fox](https://www.shodan.io/search?query=%2522port%253A1911%252C4911%2Bproduct%253ANiagara%2522)  
+`%22port%3A1911%2C4911+product%3ANiagara%22` - 0 results  
 
 
-[ProConOS](https://www.shodan.io/search?query=%22port%3A20547%20PLC%22)  
-`"port:20547 PLC"` - 0 results  
+[GE-SRTP](https://www.shodan.io/search?query=%2522port%253A18245%252C18246%2Bproduct%253A%2522general%2Belectric%2522%2522)  
+`%22port%3A18245%2C18246+product%3A%22general+electric%22%22` - 0 results  
 
+
+[MELSEC-Q](https://www.shodan.io/search?query=%2522port%253A5006%252C5007%2Bproduct%253Amitsubishi%2522)  
+`%22port%3A5006%2C5007+product%3Amitsubishi%22` - 0 results  
+
+
+[CODESYS](https://www.shodan.io/search?query=%2522port%253A2455%2Boperating%2Bsystem%2522)  
+`%22port%3A2455+operating+system%22` - 0 results  
+
+
+[S7](https://www.shodan.io/search?query=%2522port%253A102%2522)  
+`%22port%3A102%22` - 0 results  
+
+
+[BACnet](https://www.shodan.io/search?query=%2522port%253A47808%2522)  
+`%22port%3A47808%22` - 0 results  
+
+
+[HART-IP](https://www.shodan.io/search?query=%2522port%253A5094%2Bhart-ip%2522)  
+`%22port%3A5094+hart-ip%22` - 0 results  
+
+
+[Omron FINS](https://www.shodan.io/search?query=%2522port%253A9600%2Bresponse%2Bcode%2522)  
+`%22port%3A9600+response+code%22` - 0 results  
+
+
+[IEC 60870-5-104](https://www.shodan.io/search?query=%2522port%253A2404%2Basdu%2Baddress%2522)  
+`%22port%3A2404+asdu+address%22` - 0 results  
+
+
+[DNP3](https://www.shodan.io/search?query=%2522port%253A20000%2Bsource%2Baddress%2522)  
+`%22port%3A20000+source+address%22` - 0 results  
+
+
+[EtherNet/IP](https://www.shodan.io/search?query=%2522port%253A44818%2522)  
+`%22port%3A44818%22` - 0 results  
+
+
+[PCWorx](https://www.shodan.io/search?query=%2522port%253A1962%2BPLC%2522)  
+`%22port%3A1962+PLC%22` - 0 results  
+
+
+[Crimson v3.0](https://www.shodan.io/search?query=%2522port%253A789%2Bproduct%253A%2522Red%2BLion%2BControls%2522%2522)  
+`%22port%3A789+product%3A%22Red+Lion+Controls%22%22` - 0 results  
+
+
+[ProConOS](https://www.shodan.io/search?query=%2522port%253A20547%2BPLC%2522)  
+`%22port%3A20547+PLC%22` - 0 results  
+
+
+[VNC Servers](https://www.shodan.io/search?query=%2522authentication%2Bdisabled%2522%2B%2522RFB%2B003.008%2522)  
+`%22authentication+disabled%22+%22RFB+003.008%22` - 0 results  
+While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
 
 
 ---
@@ -278,92 +282,92 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Network Infastructure
 
-[General MySQL Database Search](https://www.shodan.io/search?query=%22product%3AMySQL%22)  
-`"product:MySQL"` - 3,623,293 results  
+[General MySQL Database Search](https://www.shodan.io/search?query=product%253AMySQL)  
+`product%3AMySQL` - 0 results  
 
 
-[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
-`"MongoDB Server Information" port:27017` - 102,716 results  
+[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%2Bport%253A27017)  
+`mongodb+port%3A27017` - 0 results  
 
 
-[Cisco Smart Install](https://www.shodan.io/search?query=%22smart%20install%20client%20active%22)  
-`"smart install client active"` - 10,386 results  
+[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%2522MongoDB%2BServer%2BInformation%2522%2Bport%253A27017)  
+`%22MongoDB+Server+Information%22+port%3A27017` - 0 results  
 
 
-[Listed Apache CouchDB](https://www.shodan.io/search?query=%22product%3A%22CouchDB%22%22)  
-`"product:"CouchDB""` - 4,479 results  
+[Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%2522Set-Cookie%253A%2Bmongo-express%253D%2522%2B%2522200%2BOK%2522)  
+`%22Set-Cookie%3A+mongo-express%3D%22+%22200+OK%22` - 0 results  
 
 
-[Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
-`"Android Debug Bridge" "Device" port:5555` - 3,948 results  
+[Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%2Bcontent-length%253A217)  
+`kibana+content-length%3A217` - 0 results  
 
 
-[Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,382 results  
+[Open Elasticsearch Databases](https://www.shodan.io/search?query=port%253A%25229200%2522%2Ball%253Aelastic)  
+`port%3A%229200%22+all%3Aelastic` - 0 results  
 
 
-[Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
-`"root@" port:23 -login -password -name -Session` - 1,833 results  
+[Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%253A5432%2BPostgreSQL)  
+`port%3A5432+PostgreSQL` - 0 results  
 
 
-[Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
-`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 1,235 results  
+[Listed Apache CouchDB](https://www.shodan.io/search?query=product%253A%2522CouchDB%2522)  
+`product%3A%22CouchDB%22` - 0 results  
 
 
-[Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%22Set-Cookie%3A%20mongo-express%3D%22%20%22200%20OK%22)  
-`"Set-Cookie: mongo-express=" "200 OK"` - 580 results  
+[Vulnerable CouchDB Instances](https://www.shodan.io/search?query=port%253A%25225984%2522%252BServer%253A%2B%2522CouchDB%252F2.1.0%2522)  
+`port%3A%225984%22%2BServer%3A+%22CouchDB%2F2.1.0%22` - 0 results  
 
 
-[Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
-`"Citrix Applications:" port:1604` - 336 results  
+[Weave Scope Dashboards](https://www.shodan.io/search?query=title%253A%2522Weave%2BScope%2522%2Bhttp.favicon.hash%253A567176827)  
+`title%3A%22Weave+Scope%22+http.favicon.hash%3A567176827` - 0 results  
 
 
-[Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
-`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 124 results  
+[Jenkins CI](https://www.shodan.io/search?query=%2522X-Jenkins%2522%2B%2522Set-Cookie%253A%2BJSESSIONID%2522%2Bhttp.title%253A%2522Dashboard%2522)  
+`%22X-Jenkins%22+%22Set-Cookie%3A+JSESSIONID%22+http.title%3A%22Dashboard%22` - 0 results  
 
 
-[Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
-`"Polycom Command Shell" -failed port:23` - 53 results  
+[Docker APIs](https://www.shodan.io/search?query=%2522Docker%2BContainers%253A%2522%2Bport%253A2375)  
+`%22Docker+Containers%3A%22+port%3A2375` - 0 results  
 
 
-[Default MongoDB Instances](https://www.shodan.io/search?query=%22mongodb%20port%3A27017%22)  
-`"mongodb port:27017"` - 0 results  
+[Docker Private Registries](https://www.shodan.io/search?query=%2522Docker-Distribution-Api-Version%253A%2Bregistry%2522%2B%2522200%2BOK%2522%2B-gitlab)  
+`%22Docker-Distribution-Api-Version%3A+registry%22+%22200+OK%22+-gitlab` - 0 results  
 
 
-[Accessible Kibana Dashboards](https://www.shodan.io/search?query=%22kibana%20content-length%3A217%22)  
-`"kibana content-length:217"` - 0 results  
+[Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%2522dnsmasq-pi-hole%2522%2B%2522Recursion%253A%2Benabled%2522)  
+`%22dnsmasq-pi-hole%22+%22Recursion%3A+enabled%22` - 0 results  
 
 
-[Open Elasticsearch Databases](https://www.shodan.io/search?query=%22port%3A%229200%22%20all%3Aelastic%22)  
-`"port:"9200" all:elastic"` - 0 results  
+[Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%2522root%2540%2522%2Bport%253A23%2B-login%2B-password%2B-name%2B-Session)  
+`%22root%40%22+port%3A23+-login+-password+-name+-Session` - 0 results  
 
 
-[Remote PostgreSQL Connections](https://www.shodan.io/search?query=%22port%3A5432%20PostgreSQL%22)  
-`"port:5432 PostgreSQL"` - 0 results  
+[Android Root Bridges](https://www.shodan.io/search?query=%2522Android%2BDebug%2BBridge%2522%2B%2522Device%2522%2Bport%253A5555)  
+`%22Android+Debug+Bridge%22+%22Device%22+port%3A5555` - 0 results  
 
 
-[Vulnerable CouchDB Instances](https://www.shodan.io/search?query=%22port%3A%225984%22%2BServer%3A%20%22CouchDB/2.1.0%22%22)  
-`"port:"5984"+Server: "CouchDB/2.1.0""` - 0 results  
+[Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%2Bpassword%2Bport%253A30718%2B-secured)  
+`Lantronix+password+port%3A30718+-secured` - 0 results  
 
 
-[Weave Scope Dashboards](https://www.shodan.io/search?query=%22title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827%22)  
-`"title:"Weave Scope" http.favicon.hash:567176827"` - 0 results  
+[Citrix Virtual Apps](https://www.shodan.io/search?query=%2522Citrix%2BApplications%253A%2522%2Bport%253A1604)  
+`%22Citrix+Applications%3A%22+port%3A1604` - 0 results  
 
 
-[Docker APIs](https://www.shodan.io/search?query=%22Docker%20Containers%3A%22%20port%3A2375)  
-`"Docker Containers:" port:2375` - 0 results  
+[Cisco Smart Install](https://www.shodan.io/search?query=%2522smart%2Binstall%2Bclient%2Bactive%2522)  
+`%22smart+install+client+active%22` - 0 results  
 
 
-[Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=%22Lantronix%20password%20port%3A30718%20-secured%22)  
-`"Lantronix password port:30718 -secured"` - 0 results  
+[PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%2B%2522gateway%2Bconsole%2522%2B-password%2Bport%253A23)  
+`PBX+%22gateway+console%22+-password+port%3A23` - 0 results  
 
 
-[PBX IP Phone Gateways](https://www.shodan.io/search?query=%22PBX%20%22gateway%20console%22%20-password%20port%3A23%22)  
-`"PBX "gateway console" -password port:23"` - 0 results  
+[Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%253A%2522-%2BPolycom%2522%2B%2522Server%253A%2Blighttpd%2522)  
+`http.title%3A%22-+Polycom%22+%22Server%3A+lighttpd%22` - 0 results  
 
 
-[Polycom Video Conferencing](https://www.shodan.io/search?query=%22http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22%22)  
-`"http.title:"- Polycom" "Server: lighttpd""` - 0 results  
+[Telnet Configuration](https://www.shodan.io/search?query=%2522Polycom%2BCommand%2BShell%2522%2B-failed%2Bport%253A23)  
+`%22Polycom+Command+Shell%22+-failed+port%3A23` - 0 results  
 
 
 
@@ -373,52 +377,52 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Printers
 
-[General Printer Search](https://www.shodan.io/search?query=%22printer%22)  
-`"printer"` - 190,141 results  
+[General Printer Search](https://www.shodan.io/search?query=printer)  
+`printer` - 181,214 results  
 
 
-[Canon Printer HTTP Servers](https://www.shodan.io/search?query=%22Server%3A%20CANON%20HTTP%20Server%22)  
-`"Server: CANON HTTP Server"` - 8,763 results  
+[HTTP Accessible Epson Printers](https://www.shodan.io/search?query=http%2B200%2Bserver%2Bepson%2B-upnp)  
+`http+200+server+epson+-upnp` - 2,616 results  
 
 
-[Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 414 results  
+[HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%2522HP-ChaiSOE%2522%2Bport%253A%252280%2522)  
+`%22HP-ChaiSOE%22+port%3A%2280%22` - 0 results  
 
 
-[HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 413 results  
+[Samsung Printers with SyncThru Web Service](https://www.shodan.io/search?query=title%253A%2522syncthru%2Bweb%2Bservice%2522)  
+`title%3A%22syncthru+web+service%22` - 0 results  
 
 
-[Brother Printers Admin Interface](https://www.shodan.io/search?query=%22Location%3A%20/main/main.html%22%20debut)  
-`"Location: /main/main.html" debut` - 64 results  
+[Brother Printers Admin Interface](https://www.shodan.io/search?query=%2522Location%253A%2B%252Fmain%252Fmain.html%2522%2Bdebut)  
+`%22Location%3A+%2Fmain%2Fmain.html%22+debut` - 0 results  
 
 
-[Lexmark Printer Control Panels](https://www.shodan.io/search?query=%22Printer%20Type%3A%20Lexmark%22)  
-`"Printer Type: Lexmark"` - 47 results  
+[HP Printers Remote Restart](https://www.shodan.io/search?query=port%253A161%2Bhp)  
+`port%3A161+hp` - 0 results  
 
 
-[Samsung Printers with SyncThru Web Service](https://www.shodan.io/search?query=%22title%3A%22syncthru%20web%20service%22%22)  
-`"title:"syncthru web service""` - 40 results  
+[Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%253A23%2B%2522Password%2Bis%2Bnot%2Bset%2522)  
+`port%3A23+%22Password+is+not+set%22` - 0 results  
 
 
-[Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
-`"Laser Printer FTP Server"` - 4 results  
+[Printers with FTP Access](https://www.shodan.io/search?query=%2522Laser%2BPrinter%2BFTP%2BServer%2522)  
+`%22Laser+Printer+FTP+Server%22` - 0 results  
 
 
-[Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=%22port%3A23%20%22Password%20is%20not%20set%22%22)  
-`"port:23 "Password is not set""` - 3 results  
+[Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%2BType%253A%2BLexmark)  
+`Printer+Type%3A+Lexmark` - 0 results  
 
 
-[HP Printers Remote Restart](https://www.shodan.io/search?query=%22port%3A161%20hp%22)  
-`"port:161 hp"` - 0 results  
+[Epson Printers via HTTP Server](https://www.shodan.io/search?query=%2522Server%253A%2BEPSON-HTTP%2522%2B%2522200%2BOK%2522)  
+`%22Server%3A+EPSON-HTTP%22+%22200+OK%22` - 0 results  
 
 
-[HTTP Accessible Epson Printers](https://www.shodan.io/search?query=%22http%20200%20server%20epson%20-upnp%22)  
-`"http 200 server epson -upnp"` - 0 results  
+[Remote Access to Xerox Printers](https://www.shodan.io/search?query=ssl%253A%2522Xerox%2BGeneric%2BRoot%2522)  
+`ssl%3A%22Xerox+Generic+Root%22` - 0 results  
 
 
-[Remote Access to Xerox Printers](https://www.shodan.io/search?query=%22ssl%3A%22Xerox%20Generic%20Root%22%22)  
-`"ssl:"Xerox Generic Root""` - 0 results  
+[Canon Printer HTTP Servers](https://www.shodan.io/search?query=%2522Server%253A%2BCANON%2BHTTP%2BServer%2522)  
+`%22Server%3A+CANON+HTTP+Server%22` - 0 results  
 
 
 
@@ -428,40 +432,40 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Files and Directories
 
-[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
-`"Authentication: disabled" port:445 product:"Samba"` - 277,467 results  
+[Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%2B2.3.4)  
+`vsftpd+2.3.4` - 2,720 results  
 
 
-[FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
-`"220" "230 Login successful." port:21` - 66,343 results  
+[Open Lists of Files and Directories](https://www.shodan.io/search?query=http.title%253A%2522Index%2Bof%2B%252F%2522)  
+`http.title%3A%22Index+of+%2F%22` - 0 results  
 
 
-[Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
-`"Anonymous access allowed" port:"21"` - 36,387 results  
+[Open Lists on Port 80](https://www.shodan.io/search?query=port%253A80%2Btitle%253A%2522Index%2Bof%2B%252F%2522)  
+`port%3A80+title%3A%22Index+of+%2F%22` - 0 results  
 
 
-[Vulnerable vsftpd Service](https://www.shodan.io/search?query=%22vsftpd%202.3.4%22)  
-`"vsftpd 2.3.4"` - 2,719 results  
+[FTP Access Without Credentials](https://www.shodan.io/search?query=%2522220%2522%2B%2522230%2BLogin%2Bsuccessful.%2522%2Bport%253A21)  
+`%22220%22+%22230+Login+successful.%22+port%3A21` - 0 results  
 
 
-[Open Lists of Files and Directories](https://www.shodan.io/search?query=%22http.title%3A%22Index%20of%20/%22%22)  
-`"http.title:"Index of /""` - 78 results  
+[Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%2522Anonymous%2Baccess%2Ballowed%2522%2Bport%253A%252221%2522)  
+`%22Anonymous+access+allowed%22+port%3A%2221%22` - 0 results  
 
 
-[QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
-`"QuickBooks files OverNetwork" -unix port:445` - 43 results  
+[NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%2Bport%253A%252210000%2522)  
+`ftp+port%3A%2210000%22` - 0 results  
 
 
-[Filezilla FTP](https://www.shodan.io/search?query=%22filezilla%20port%3A%2221%22%22)  
-`"filezilla port:"21""` - 14 results  
+[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%2522Authentication%253A%2Bdisabled%2522%2Bport%253A445%2Bproduct%253A%2522Samba%2522)  
+`%22Authentication%3A+disabled%22+port%3A445+product%3A%22Samba%22` - 0 results  
 
 
-[NDMP on FTP Port 10000](https://www.shodan.io/search?query=%22ftp%20port%3A%2210000%22%22)  
-`"ftp port:"10000""` - 6 results  
+[QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%2522QuickBooks%2Bfiles%2BOverNetwork%2522%2B-unix%2Bport%253A445)  
+`%22QuickBooks+files+OverNetwork%22+-unix+port%3A445` - 0 results  
 
 
-[Open Lists on Port 80](https://www.shodan.io/search?query=%22port%3A80%20title%3A%22Index%20of%20/%22%22)  
-`"port:80 title:"Index of /""` - 0 results  
+[Filezilla FTP](https://www.shodan.io/search?query=filezilla%2Bport%253A%252221%2522)  
+`filezilla+port%3A%2221%22` - 0 results  
 
 
 
@@ -471,48 +475,48 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Compromised devices and websites
 
-[General Hacked Label Search](https://www.shodan.io/search?query=%22hacked%22)  
-`"hacked"` - 2,198 results  
+[General Hacked Label Search](https://www.shodan.io/search?query=%2522hacked%2522)  
+`%22hacked%22` - 0 results  
 
 
-[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%22HACKED-ROUTER%22)  
-`"HACKED-ROUTER"` - 908 results  
+[Variation of Hacked By Label Search](https://www.shodan.io/search?query=%2522hacked%2Bby%2522)  
+`%22hacked+by%22` - 0 results  
 
 
-[Hacked By in HTTP Title](https://www.shodan.io/search?query=%22http.title%3A%22Hacked%20by%22%22)  
-`"http.title:"Hacked by""` - 200 results  
+[Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%253A%2522Hacked%2Bby%2522)  
+`http.title%3A%22Hacked+by%22` - 0 results  
 
 
-[Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=%22HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%22)  
-`"HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD"` - 123 results  
+[Owned By Label in HTTP Title](https://www.shodan.io/search?query=http.title%253A%25220wn3d%2Bby%2522)  
+`http.title%3A%220wn3d+by%22` - 0 results  
 
 
-[Compromised FTP Servers](https://www.shodan.io/search?query=%22HACKED%20FTP%20server%22)  
-`"HACKED FTP server"` - 94 results  
+[Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=%2522HACKED-ROUTER%2522)  
+`%22HACKED-ROUTER%22` - 0 results  
 
 
-[Variation of Hacked By Label Search](https://www.shodan.io/search?query=%22hacked%20by%22)  
-`"hacked by"` - 55 results  
+[MongoDB Ransom Demand](https://www.shodan.io/search?query=port%253A%252227017%2522%2B%2522send_bitcoin_to_retrieve_the_data%2522)  
+`port%3A%2227017%22+%22send_bitcoin_to_retrieve_the_data%22` - 0 results  
 
 
-[Ransomware Infected RDP Services](https://www.shodan.io/search?query=%22attention%22%20%22encrypted%22%20port%3A3389)  
-`"attention" "encrypted" port:3389` - 6 results  
+[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=bitcoin%2Bhas_screenshot%253Atrue)  
+`bitcoin+has_screenshot%3Atrue` - 0 results  
 
 
-[Owned By Label in HTTP Title](https://www.shodan.io/search?query=%22http.title%3A%220wn3d%20by%22%22)  
-`"http.title:"0wn3d by""` - 1 result  
+[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%253A4444%2Bsystem32)  
+`port%3A4444+system32` - 0 results  
 
 
-[MongoDB Ransom Demand](https://www.shodan.io/search?query=%22port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22%22)  
-`"port:"27017" "send_bitcoin_to_retrieve_the_data""` - 0 results  
+[Ransomware Infected RDP Services](https://www.shodan.io/search?query=%2522attention%2522%2B%2522encrypted%2522%2Bport%253A3389)  
+`%22attention%22+%22encrypted%22+port%3A3389` - 0 results  
 
 
-[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=%22bitcoin%20has_screenshot%3Atrue%22)  
-`"bitcoin has_screenshot:true"` - 0 results  
+[Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=%2522HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%2522)  
+`%22HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD%22` - 0 results  
 
 
-[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=%22port%3A4444%20system32%22)  
-`"port:4444 system32"` - 0 results  
+[Compromised FTP Servers](https://www.shodan.io/search?query=%2522HACKED%2BFTP%2Bserver%2522)  
+`%22HACKED+FTP+server%22` - 0 results  
 
 
 
@@ -522,36 +526,36 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Miscellaneous
 
-[General Dashboard Interfaces](https://www.shodan.io/search?query=%22http.title%3A%22dashboard%22%22)  
-`"http.title:"dashboard""` - 103,223 results  
+[Ethereum Miners](https://www.shodan.io/search?query=%2522ETH%2B-%2BTotal%2Bspeed%2522)  
+`%22ETH+-+Total+speed%22` - 0 results  
 
 
-[Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
-`"Minecraft Server" "protocol 340" port:25565` - 12,351 results  
+[Misconfigured WordPress Installations](https://www.shodan.io/search?query=http.html%253A%2522%252A%2BThe%2Bwp-config.php%2Bcreation%2Bscript%2Buses%2Bthis%2Bfile%2522)  
+`http.html%3A%22%2A+The+wp-config.php+creation+script+uses+this+file%22` - 0 results  
 
 
-[Tesla-related Interfaces](https://www.shodan.io/search?query=%22http.title%3A%22Tesla%22%22)  
-`"http.title:"Tesla""` - 597 results  
+[EIG Electricity Meters](https://www.shodan.io/search?query=%2522Server%253A%2BEIG%2BEmbedded%2BWeb%2BServer%2522%2B%2522200%2BDocument%2Bfollows%2522)  
+`%22Server%3A+EIG+Embedded+Web+Server%22+%22200+Document+follows%22` - 0 results  
 
 
-[Everything in North Korea](https://www.shodan.io/search?query=%22net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24%22)  
-`"net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24"` - 57 results  
+[Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%253A%2522Tesla%2522)  
+`http.title%3A%22Tesla%22` - 0 results  
 
 
-[EIG Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 29 results  
+[General Dashboard Interfaces](https://www.shodan.io/search?query=http.title%253A%2522dashboard%2522)  
+`http.title%3A%22dashboard%22` - 0 results  
 
 
-[Control Panel Access Points](https://www.shodan.io/search?query=%22http.title%3A%22control%20panel%22%22)  
-`"http.title:"control panel""` - 24 results  
+[Control Panel Access Points](https://www.shodan.io/search?query=http.title%253A%2522control%2Bpanel%2522)  
+`http.title%3A%22control+panel%22` - 0 results  
 
 
-[Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
-`"ETH - Total speed"` - 0 results  
+[Minecraft Servers](https://www.shodan.io/search?query=%2522Minecraft%2BServer%2522%2B%2522protocol%2B340%2522%2Bport%253A25565)  
+`%22Minecraft+Server%22+%22protocol+340%22+port%3A25565` - 0 results  
 
 
-[Misconfigured WordPress Installations](https://www.shodan.io/search?query=%22http.html%3A%22%2A%20The%20wp-config.php%20creation%20script%20uses%20this%20file%22%22)  
-`"http.html:"* The wp-config.php creation script uses this file""` - 0 results  
+[Everything in North Korea](https://www.shodan.io/search?query=net%253A175.45.176.0%252F22%252C210.52.109.0%252F24%252C77.94.35.0%252F24)  
+`net%3A175.45.176.0%2F22%2C210.52.109.0%2F24%2C77.94.35.0%2F24` - 0 results  
 
 
 
@@ -560,5 +564,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 23:47:42*
+*last updated at: 2023-12-06 23:53:50*
 
