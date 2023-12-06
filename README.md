@@ -28,12 +28,12 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 `product:"Hikvision IP Camera"` - 3,191,417 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
-[DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 9,831 results  
+[Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
+`ACTi` - 385 results  
 
 
-[Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=title%3A%22Network%20Camera%20VB-M600%22)  
-`title:"Network Camera VB-M600"` - 32 results  
+[IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
+`has_screenshot:true IP Webcam` - 98 results  
 
 
 
@@ -123,10 +123,6 @@ While not always 100% guaranteed to be a system, LOTS of embedded systems can sh
 `"privileged command" GET` - 5 results  
 
 
-[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
-`Server: Prismview Player` - 3 results  
-Search for electronic billboards managed by Prismview servers.
-
 [Railroad Management](https://www.shodan.io/search?query=%22log%20off%22%20%22select%20the%20appropriate%22)  
 `"log off" "select the appropriate"` - 2 results  
 
@@ -154,32 +150,8 @@ Search for electronic billboards managed by Prismview servers.
 
 ### Network Infastructure
 
-[General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
-`product:MySQL` - 3,615,908 results  
-
-
-[Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
-`port:5432 PostgreSQL` - 879,787 results  
-
-
-[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
-`"MongoDB Server Information" port:27017` - 102,865 results  
-
-
-[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 102,824 results  
-
-
-[Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
-`port:"9200" all:elastic` - 33,515 results  
-
-
 [Cisco Smart Install](https://www.shodan.io/search?query=%22smart%20install%20client%20active%22)  
 `"smart install client active"` - 10,392 results  
-
-
-[Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,473 results  
 
 
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
@@ -210,10 +182,6 @@ Search for electronic billboards managed by Prismview servers.
 `kibana content-length:217` - 711 results  
 
 
-[Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%22Set-Cookie%3A%20mongo-express%3D%22%20%22200%20OK%22)  
-`"Set-Cookie: mongo-express=" "200 OK"` - 582 results  
-
-
 [Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
 `"Citrix Applications:" port:1604` - 338 results  
 
@@ -232,10 +200,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Weave Scope Dashboards](https://www.shodan.io/search?query=title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827)  
 `title:"Weave Scope" http.favicon.hash:567176827` - 25 results  
-
-
-[Vulnerable CouchDB Instances](https://www.shodan.io/search?query=port%3A%225984%22%2BServer%3A%20%22CouchDB/2.1.0%22)  
-`port:"5984"+Server: "CouchDB/2.1.0"` - 5 results  
 
 
 
@@ -394,10 +358,6 @@ Search for electronic billboards managed by Prismview servers.
 `http.title:"control panel"` - 60,183 results  
 
 
-[Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
-`"Minecraft Server" "protocol 340" port:25565` - 12,398 results  
-
-
 [Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
 `http.title:"Tesla"` - 585 results  
 
@@ -420,5 +380,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 02:00:59*
+*last updated at: 2023-12-06 03:00:58*
 
