@@ -76,6 +76,34 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `"title:"IPCam Client""` - 7 results  
 
 
+[Webcams with screenshots.](https://www.shodan.io/search?query=%22webcam%20has_screenshot%3Atrue%22)  
+`"webcam has_screenshot:true"` - 0 results  
+
+
+[Webcams running on Blue Iris.](https://www.shodan.io/search?query=%22title%3A%22blue%20iris%20remote%20view%22%22)  
+`"title:"blue iris remote view""` - 0 results  
+
+
+[Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=%22title%3A%22Network%20Camera%20VB-M600%22%22)  
+`"title:"Network Camera VB-M600""` - 0 results  
+
+
+[Yet another WebCAM software.](https://www.shodan.io/search?query=%22product%3A%22Yawcam%20webcam%20viewer%20httpd%22%22)  
+`"product:"Yawcam webcam viewer httpd""` - 0 results  
+
+
+[Unsecured Linksys webcams.](https://www.shodan.io/search?query=%22title%3A%22%2Btm01%2B%22%22)  
+`"title:"+tm01+""` - 0 results  
+
+
+[Netwave-make IP cameras.](https://www.shodan.io/search?query=%22Netwave%20IP%20Camera%20Content-Length%3A%202574%22)  
+`"Netwave IP Camera Content-Length: 2574"` - 0 results  
+
+
+[DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=%22200%20ok%20dvr%20port%3A%2281%22%22)  
+`"200 ok dvr port:"81""` - 0 results  
+
+
 
 ---
 
@@ -163,6 +191,86 @@ Search for electronic billboards managed by Prismview servers.
 `"Cisco IOS" "ADVIPSERVICESK9_LI-M"` - 1 result  
 
 
+[Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=%22mikrotik%20streetlight%22)  
+`"mikrotik streetlight"` - 0 results  
+
+
+[Open ATM](https://www.shodan.io/search?query=%22NCR%20Port%3A%22161%22%22)  
+`"NCR Port:"161""` - 0 results  
+
+
+[Prison Pay Phones](https://www.shodan.io/search?query=%22%5B2J%5BH%20Encartele%20Confidential%22)  
+`"[2J[H Encartele Confidential"` - 0 results  
+
+
+[Tesla PowerPack Charging Status](https://www.shodan.io/search?query=%22http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2%22)  
+`"http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2"` - 0 results  
+
+
+[Submarine Mission Control Dashboards](https://www.shodan.io/search?query=%22title%3A%22Slocum%20Fleet%20Mission%20Control%22%22)  
+`"title:"Slocum Fleet Mission Control""` - 0 results  
+
+
+[Nordex Wind Turbine Farms](https://www.shodan.io/search?query=%22http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22%22)  
+`"http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)""` - 0 results  
+
+
+[Tesla Powerpack charging Status](https://www.shodan.io/search?query=%22http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2%22)  
+`"http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2"` - 0 results  
+
+
+[XZERES Wind Turbine](https://www.shodan.io/search?query=%22title%3A%22xzeres%20wind%22%22)  
+`"title:"xzeres wind""` - 0 results  
+
+
+[PIPS Automated License Plate Reader](https://www.shodan.io/search?query=%22html%3A%22PIPS%20Technology%20ALPR%20Processors%22%22)  
+`"html:"PIPS Technology ALPR Processors""` - 0 results  
+
+
+[Niagara Fox](https://www.shodan.io/search?query=%22port%3A1911%2C4911%20product%3ANiagara%22)  
+`"port:1911,4911 product:Niagara"` - 0 results  
+
+
+[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
+`"port:18245,18246 product:"general electric""` - 0 results  
+
+
+[MELSEC-Q](https://www.shodan.io/search?query=%22port%3A5006%2C5007%20product%3Amitsubishi%22)  
+`"port:5006,5007 product:mitsubishi"` - 0 results  
+
+
+[CODESYS](https://www.shodan.io/search?query=%22port%3A2455%20operating%20system%22)  
+`"port:2455 operating system"` - 0 results  
+
+
+[HART-IP](https://www.shodan.io/search?query=%22port%3A5094%20hart-ip%22)  
+`"port:5094 hart-ip"` - 0 results  
+
+
+[Omron FINS](https://www.shodan.io/search?query=%22port%3A9600%20response%20code%22)  
+`"port:9600 response code"` - 0 results  
+
+
+[IEC 60870-5-104](https://www.shodan.io/search?query=%22port%3A2404%20asdu%20address%22)  
+`"port:2404 asdu address"` - 0 results  
+
+
+[DNP3](https://www.shodan.io/search?query=%22port%3A20000%20source%20address%22)  
+`"port:20000 source address"` - 0 results  
+
+
+[PCWorx](https://www.shodan.io/search?query=%22port%3A1962%20PLC%22)  
+`"port:1962 PLC"` - 0 results  
+
+
+[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
+`"port:789 product:"Red Lion Controls""` - 0 results  
+
+
+[ProConOS](https://www.shodan.io/search?query=%22port%3A20547%20PLC%22)  
+`"port:20547 PLC"` - 0 results  
+
+
 
 ---
 
@@ -218,6 +326,46 @@ Search for electronic billboards managed by Prismview servers.
 `"Polycom Command Shell" -failed port:23` - 53 results  
 
 
+[Default MongoDB Instances](https://www.shodan.io/search?query=%22mongodb%20port%3A27017%22)  
+`"mongodb port:27017"` - 0 results  
+
+
+[Accessible Kibana Dashboards](https://www.shodan.io/search?query=%22kibana%20content-length%3A217%22)  
+`"kibana content-length:217"` - 0 results  
+
+
+[Open Elasticsearch Databases](https://www.shodan.io/search?query=%22port%3A%229200%22%20all%3Aelastic%22)  
+`"port:"9200" all:elastic"` - 0 results  
+
+
+[Remote PostgreSQL Connections](https://www.shodan.io/search?query=%22port%3A5432%20PostgreSQL%22)  
+`"port:5432 PostgreSQL"` - 0 results  
+
+
+[Vulnerable CouchDB Instances](https://www.shodan.io/search?query=%22port%3A%225984%22%2BServer%3A%20%22CouchDB/2.1.0%22%22)  
+`"port:"5984"+Server: "CouchDB/2.1.0""` - 0 results  
+
+
+[Weave Scope Dashboards](https://www.shodan.io/search?query=%22title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827%22)  
+`"title:"Weave Scope" http.favicon.hash:567176827"` - 0 results  
+
+
+[Docker APIs](https://www.shodan.io/search?query=%22Docker%20Containers%3A%22%20port%3A2375)  
+`"Docker Containers:" port:2375` - 0 results  
+
+
+[Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=%22Lantronix%20password%20port%3A30718%20-secured%22)  
+`"Lantronix password port:30718 -secured"` - 0 results  
+
+
+[PBX IP Phone Gateways](https://www.shodan.io/search?query=%22PBX%20%22gateway%20console%22%20-password%20port%3A23%22)  
+`"PBX "gateway console" -password port:23"` - 0 results  
+
+
+[Polycom Video Conferencing](https://www.shodan.io/search?query=%22http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22%22)  
+`"http.title:"- Polycom" "Server: lighttpd""` - 0 results  
+
+
 
 ---
 
@@ -261,6 +409,18 @@ Search for electronic billboards managed by Prismview servers.
 `"port:23 "Password is not set""` - 3 results  
 
 
+[HP Printers Remote Restart](https://www.shodan.io/search?query=%22port%3A161%20hp%22)  
+`"port:161 hp"` - 0 results  
+
+
+[HTTP Accessible Epson Printers](https://www.shodan.io/search?query=%22http%20200%20server%20epson%20-upnp%22)  
+`"http 200 server epson -upnp"` - 0 results  
+
+
+[Remote Access to Xerox Printers](https://www.shodan.io/search?query=%22ssl%3A%22Xerox%20Generic%20Root%22%22)  
+`"ssl:"Xerox Generic Root""` - 0 results  
+
+
 
 ---
 
@@ -298,6 +458,10 @@ Search for electronic billboards managed by Prismview servers.
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=%22ftp%20port%3A%2210000%22%22)  
 `"ftp port:"10000""` - 6 results  
+
+
+[Open Lists on Port 80](https://www.shodan.io/search?query=%22port%3A80%20title%3A%22Index%20of%20/%22%22)  
+`"port:80 title:"Index of /""` - 0 results  
 
 
 
@@ -339,6 +503,18 @@ Search for electronic billboards managed by Prismview servers.
 `"http.title:"0wn3d by""` - 1 result  
 
 
+[MongoDB Ransom Demand](https://www.shodan.io/search?query=%22port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22%22)  
+`"port:"27017" "send_bitcoin_to_retrieve_the_data""` - 0 results  
+
+
+[Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=%22bitcoin%20has_screenshot%3Atrue%22)  
+`"bitcoin has_screenshot:true"` - 0 results  
+
+
+[Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=%22port%3A4444%20system32%22)  
+`"port:4444 system32"` - 0 results  
+
+
 
 ---
 
@@ -370,11 +546,19 @@ Search for electronic billboards managed by Prismview servers.
 `"http.title:"control panel""` - 24 results  
 
 
+[Ethereum Miners](https://www.shodan.io/search?query=%22ETH%20-%20Total%20speed%22)  
+`"ETH - Total speed"` - 0 results  
+
+
+[Misconfigured WordPress Installations](https://www.shodan.io/search?query=%22http.html%3A%22%2A%20The%20wp-config.php%20creation%20script%20uses%20this%20file%22%22)  
+`"http.html:"* The wp-config.php creation script uses this file""` - 0 results  
+
+
 
 
 ---
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-06 23:43:39*
+*last updated at: 2023-12-06 23:47:42*
 
