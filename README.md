@@ -45,11 +45,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
-`server: VVTK-HTTP-Server` - 17,590 results  
+`server: VVTK-HTTP-Server` - 17,495 results  
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 9,855 results  
+`200 ok dvr port:"81"` - 9,788 results  
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
@@ -65,7 +65,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
-`title:"+tm01+"` - 559 results  
+`title:"+tm01+"` - 557 results  
 
 
 [Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
@@ -73,7 +73,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
-`title:"ui3 -"` - 293 results  
+`title:"ui3 -"` - 289 results  
 
 
 [Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
@@ -136,7 +136,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 8,050 results  
+`"authentication disabled" "RFB 003.008"` - 7,999 results  
 While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
@@ -148,7 +148,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
-`"Siemens, SIMATIC" port:161` - 3,034 results  
+`"Siemens, SIMATIC" port:161` - 3,020 results  
 
 
 [Omron FINS](https://www.shodan.io/search?query=%22port%3A9600%20response%20code%22)  
@@ -156,11 +156,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,802 results  
-
-
-[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
-`"port:789 product:"Red Lion Controls""` - 1,547 results  
+`"DICOM Server Response" port:104` - 1,799 results  
 
 
 [PCWorx](https://www.shodan.io/search?query=%22port%3A1962%20PLC%22)  
@@ -172,7 +168,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 589 results  
+`title:"xzeres wind"` - 590 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=%22port%3A20547%20PLC%22)  
@@ -195,12 +191,8 @@ Find gas station pump controllers with accessible inventory data.
 `"[1m[35mWelcome on console"` - 126 results  
 
 
-[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
-`"port:18245,18246 product:"general electric""` - 58 results  
-
-
 [Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
-`"Server: gSOAP/2.8" "Content-Length: 583"` - 51 results  
+`"Server: gSOAP/2.8" "Content-Length: 583"` - 50 results  
 
 
 [Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
@@ -275,6 +267,14 @@ Search for electronic billboards managed by Prismview servers.
 `"html:"PIPS Technology ALPR Processors""` - 0 results  
 
 
+[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
+`"port:18245,18246 product:"general electric""` - 0 results  
+
+
+[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
+`"port:789 product:"Red Lion Controls""` - 0 results  
+
+
 
 ---
 
@@ -283,19 +283,19 @@ Search for electronic billboards managed by Prismview servers.
 ### Network Infastructure
 
 [General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
-`product:MySQL` - 3,621,737 results  
+`product:MySQL` - 3,613,412 results  
 
 
 [Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
 `port:5432 PostgreSQL` - 880,183 results  
 
 
-[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
-`"MongoDB Server Information" port:27017` - 102,954 results  
-
-
 [Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
 `mongodb port:27017` - 102,732 results  
+
+
+[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
+`"MongoDB Server Information" port:27017` - 102,716 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
@@ -307,7 +307,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,470 results  
+`product:"CouchDB"` - 4,471 results  
 
 
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
@@ -319,11 +319,15 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,395 results  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,382 results  
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
 `"root@" port:23 -login -password -name -Session` - 1,833 results  
+
+
+[Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
+`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 1,235 results  
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
@@ -362,10 +366,6 @@ Search for electronic billboards managed by Prismview servers.
 `port:"5984"+Server: "CouchDB/2.1.0"` - 5 results  
 
 
-[Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
-`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 0 results  
-
-
 [Docker APIs](https://www.shodan.io/search?query=%22Docker%20Containers%3A%22%20port%3A2375)  
 `"Docker Containers:" port:2375` - 0 results  
 
@@ -383,10 +383,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [HP Printers Remote Restart](https://www.shodan.io/search?query=port%3A161%20hp)  
 `port:161 hp` - 11,269 results  
-
-
-[Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 10,272 results  
 
 
 [Canon Printer HTTP Servers](https://www.shodan.io/search?query=%22Server%3A%20CANON%20HTTP%20Server%22)  
@@ -409,6 +405,14 @@ Search for electronic billboards managed by Prismview servers.
 `ssl:"Xerox Generic Root"` - 442 results  
 
 
+[Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
+`"Server: EPSON-HTTP" "200 OK"` - 414 results  
+
+
+[HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
+`"HP-ChaiSOE" port:"80"` - 413 results  
+
+
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
 `Printer Type: Lexmark` - 165 results  
 
@@ -419,10 +423,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Printers with FTP Access](https://www.shodan.io/search?query=%22Laser%20Printer%20FTP%20Server%22)  
 `"Laser Printer FTP Server"` - 4 results  
-
-
-[HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 0 results  
 
 
 
@@ -436,16 +436,24 @@ Search for electronic billboards managed by Prismview servers.
 `http.title:"Index of /"` - 379,817 results  
 
 
+[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
+`"Authentication: disabled" port:445 product:"Samba"` - 277,467 results  
+
+
 [Filezilla FTP](https://www.shodan.io/search?query=filezilla%20port%3A%2221%22)  
 `filezilla port:"21"` - 268,886 results  
 
 
 [Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
-`port:80 title:"Index of /"` - 168,177 results  
+`port:80 title:"Index of /"` - 168,088 results  
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
 `"220" "230 Login successful." port:21` - 66,343 results  
+
+
+[Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
+`"Anonymous access allowed" port:"21"` - 36,387 results  
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
@@ -458,14 +466,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
 `"QuickBooks files OverNetwork" -unix port:445` - 43 results  
-
-
-[Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
-`"Anonymous access allowed" port:"21"` - 26 results  
-
-
-[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
-`"Authentication: disabled" port:445 product:"Samba"` - 0 results  
 
 
 
@@ -564,5 +564,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-07 00:08:14*
+*last updated at: 2023-12-07 00:15:07*
 
