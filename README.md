@@ -45,11 +45,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
-`server: VVTK-HTTP-Server` - 17,495 results  
+`server: VVTK-HTTP-Server` - 17,590 results  
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 9,788 results  
+`200 ok dvr port:"81"` - 9,855 results  
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
@@ -65,7 +65,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
-`title:"+tm01+"` - 557 results  
+`title:"+tm01+"` - 559 results  
 
 
 [Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
@@ -73,7 +73,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
-`title:"ui3 -"` - 289 results  
+`title:"ui3 -"` - 293 results  
 
 
 [Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
@@ -136,7 +136,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 7,999 results  
+`"authentication disabled" "RFB 003.008"` - 7,960 results  
 While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
@@ -148,7 +148,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
-`"Siemens, SIMATIC" port:161` - 3,020 results  
+`"Siemens, SIMATIC" port:161` - 3,034 results  
 
 
 [Omron FINS](https://www.shodan.io/search?query=port%3A9600%20response%20code)  
@@ -156,7 +156,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,799 results  
+`"DICOM Server Response" port:104` - 1,802 results  
 
 
 [PCWorx](https://www.shodan.io/search?query=port%3A1962%20PLC)  
@@ -168,7 +168,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 590 results  
+`title:"xzeres wind"` - 589 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
@@ -255,22 +255,6 @@ Search for electronic billboards managed by Prismview servers.
 `http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2` - 1 result  
 
 
-[Prison Pay Phones](https://www.shodan.io/search?query=%5B2J%5BH%20Encartele%20Confidential)  
-`[2J[H Encartele Confidential` - 0 results  
-
-
-[PIPS Automated License Plate Reader](https://www.shodan.io/search?query=%22html%3A%22PIPS%20Technology%20ALPR%20Processors%22%22)  
-`"html:"PIPS Technology ALPR Processors""` - 0 results  
-
-
-[GE-SRTP](https://www.shodan.io/search?query=%22port%3A18245%2C18246%20product%3A%22general%20electric%22%22)  
-`"port:18245,18246 product:"general electric""` - 0 results  
-
-
-[Crimson v3.0](https://www.shodan.io/search?query=%22port%3A789%20product%3A%22Red%20Lion%20Controls%22%22)  
-`"port:789 product:"Red Lion Controls""` - 0 results  
-
-
 
 ---
 
@@ -279,19 +263,19 @@ Search for electronic billboards managed by Prismview servers.
 ### Network Infastructure
 
 [General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
-`product:MySQL` - 3,613,412 results  
+`product:MySQL` - 3,621,737 results  
 
 
 [Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
 `port:5432 PostgreSQL` - 880,183 results  
 
 
+[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
+`"MongoDB Server Information" port:27017` - 102,954 results  
+
+
 [Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
 `mongodb port:27017` - 102,732 results  
-
-
-[MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
-`"MongoDB Server Information" port:27017` - 102,716 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
@@ -303,7 +287,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,471 results  
+`product:"CouchDB"` - 4,470 results  
 
 
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
@@ -360,10 +344,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Vulnerable CouchDB Instances](https://www.shodan.io/search?query=port%3A%225984%22%2BServer%3A%20%22CouchDB/2.1.0%22)  
 `port:"5984"+Server: "CouchDB/2.1.0"` - 5 results  
-
-
-[Docker APIs](https://www.shodan.io/search?query=%22Docker%20Containers%3A%22%20port%3A2375)  
-`"Docker Containers:" port:2375` - 0 results  
 
 
 
@@ -441,7 +421,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
-`port:80 title:"Index of /"` - 168,088 results  
+`port:80 title:"Index of /"` - 168,177 results  
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
@@ -511,10 +491,6 @@ Search for electronic billboards managed by Prismview servers.
 `bitcoin has_screenshot:true` - 4 results  
 
 
-[MongoDB Ransom Demand](https://www.shodan.io/search?query=port%3A%2227017%22%20%22send_bitcoin_to_retrieve_the_data%22)  
-`port:"27017" "send_bitcoin_to_retrieve_the_data"` - 0 results  
-
-
 
 ---
 
@@ -550,15 +526,11 @@ Search for electronic billboards managed by Prismview servers.
 `http.html:"* The wp-config.php creation script uses this file"` - 20 results  
 
 
-[Ethereum Miners](https://www.shodan.io/search?query=ETH%20-%20Total%20speed)  
-`ETH - Total speed` - 0 results  
-
-
 
 
 ---
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-07 00:24:52*
+*last updated at: 2023-12-07 00:29:19*
 
