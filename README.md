@@ -40,11 +40,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
-`server: GeoHttpServer` - 43,397 results  
+`server: GeoHttpServer` - 43,651 results  
 
 
 [Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%3A%22Avigilon%22)  
-`title:"Avigilon"` - 18,241 results  
+`title:"Avigilon"` - 18,347 results  
 
 
 [Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
@@ -55,16 +55,16 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `200 ok dvr port:"81"` - 9,722 results  
 
 
+[Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
+`Netwave IP Camera Content-Length: 2574` - 1,401 results  
+
+
 [A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
 `WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,398 results  
 
 
-[Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
-`Netwave IP Camera Content-Length: 2574` - 1,391 results  
-
-
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 577 results  
+`product:"Yawcam webcam viewer httpd"` - 572 results  
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
@@ -100,7 +100,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
-`WVC80N` - 35 results  
+`WVC80N` - 36 results  
 
 
 [Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=title%3A%22Network%20Camera%20VB-M600%22)  
@@ -108,7 +108,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
-`server: "i-Catcher Console"` - 25 results  
+`server: "i-Catcher Console"` - 26 results  
 
 
 
@@ -127,7 +127,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Modbus](https://www.shodan.io/search?query=port%3A502)  
-`port:502` - 461,502 results  
+`port:502` - 461,162 results  
 
 
 [BACnet](https://www.shodan.io/search?query=port%3A47808)  
@@ -195,11 +195,11 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
-`"Server: gSOAP/2.8" "Content-Length: 583"` - 48 results  
+`"Server: gSOAP/2.8" "Content-Length: 583"` - 49 results  
 
 
 [Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
-`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 35 results  
+`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 37 results  
 
 
 [CODESYS](https://www.shodan.io/search?query=port%3A2455%20operating%20system)  
@@ -270,19 +270,19 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
-`port:5432 PostgreSQL` - 875,330 results  
+`port:5432 PostgreSQL` - 879,410 results  
+
+
+[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
+`mongodb port:27017` - 102,459 results  
 
 
 [MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
 `"MongoDB Server Information" port:27017` - 102,245 results  
 
 
-[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 102,004 results  
-
-
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
-`port:"9200" all:elastic` - 33,130 results  
+`port:"9200" all:elastic` - 33,299 results  
 
 
 [Cisco Smart Install](https://www.shodan.io/search?query=smart%20install%20client%20active)  
@@ -298,11 +298,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
-`"Android Debug Bridge" "Device" port:5555` - 3,873 results  
+`"Android Debug Bridge" "Device" port:5555` - 3,929 results  
 
 
 [Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,377 results  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,391 results  
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
@@ -318,7 +318,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
-`kibana content-length:217` - 704 results  
+`kibana content-length:217` - 710 results  
 
 
 [Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%22Set-Cookie%3A%20mongo-express%3D%22%20%22200%20OK%22)  
@@ -338,7 +338,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
-`"Polycom Command Shell" -failed port:23` - 51 results  
+`"Polycom Command Shell" -failed port:23` - 50 results  
 
 
 [Weave Scope Dashboards](https://www.shodan.io/search?query=title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827)  
@@ -412,11 +412,11 @@ Search for electronic billboards managed by Prismview servers.
 ### Files and Directories
 
 [Open Lists of Files and Directories](https://www.shodan.io/search?query=http.title%3A%22Index%20of%20/%22)  
-`http.title:"Index of /"` - 379,077 results  
+`http.title:"Index of /"` - 381,094 results  
 
 
 [Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
-`"Authentication: disabled" port:445 product:"Samba"` - 273,234 results  
+`"Authentication: disabled" port:445 product:"Samba"` - 276,606 results  
 
 
 [Filezilla FTP](https://www.shodan.io/search?query=filezilla%20port%3A%2221%22)  
@@ -514,7 +514,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
-`http.title:"Tesla"` - 597 results  
+`http.title:"Tesla"` - 604 results  
 
 
 [Everything in North Korea](https://www.shodan.io/search?query=net%3A175.45.176.0/22%2C210.52.109.0/24%2C77.94.35.0/24)  
@@ -535,5 +535,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-07 11:17:05*
+*last updated at: 2023-12-07 12:20:32*
 
