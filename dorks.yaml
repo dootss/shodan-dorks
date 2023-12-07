@@ -100,9 +100,6 @@ Industrial Control Systems:
   - title: 'Prison Pay Phones'
     content: '"[2J[H Encartele Confidential"'
 
-  - title: 'Tesla PowerPack Charging Status'
-    content: 'http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2'
-
   - title: 'Electric Vehicle Chargers'
     content: '"Server: gSOAP/2.8" "Content-Length: 583"'
 
