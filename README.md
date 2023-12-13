@@ -36,7 +36,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 [Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
-`title:"IPCam Client"` - 64,100 results  
+`title:"IPCam Client"` - 64,610 results  
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
@@ -60,11 +60,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
-`WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,350 results  
+`WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,357 results  
 
 
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 579 results  
+`product:"Yawcam webcam viewer httpd"` - 584 results  
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
@@ -76,11 +76,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
-`title:"ui3 -"` - 292 results  
+`title:"ui3 -"` - 291 results  
 
 
 [Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
-`webcam has_screenshot:true` - 214 results  
+`webcam has_screenshot:true` - 213 results  
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
@@ -127,11 +127,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Modbus](https://www.shodan.io/search?query=port%3A502)  
-`port:502` - 486,254 results  
+`port:502` - 488,942 results  
 
 
 [BACnet](https://www.shodan.io/search?query=port%3A47808)  
-`port:47808` - 41,015 results  
+`port:47808` - 40,847 results  
 
 
 [Niagara Fox](https://www.shodan.io/search?query=port%3A1911%2C4911%20product%3ANiagara)  
@@ -389,7 +389,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 321 results  
+`"HP-ChaiSOE" port:"80"` - 320 results  
 
 
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
@@ -535,5 +535,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-13 20:40:11*
+*last updated at: 2023-12-13 21:42:24*
 
