@@ -211,7 +211,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [CODESYS](https://www.shodan.io/search?query=port%3A2455%20operating%20system)  
-`port:2455 operating system` - 23 results  
+`port:2455 operating system` - 24 results  
 
 
 [Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=mikrotik%20streetlight)  
@@ -535,5 +535,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-14 13:21:32*
+*last updated at: 2023-12-14 14:23:41*
 
