@@ -80,7 +80,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
-`webcam has_screenshot:true` - 179 results  
+`webcam has_screenshot:true` - 181 results  
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
@@ -127,7 +127,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Modbus](https://www.shodan.io/search?query=port%3A502)  
-`port:502` - 501,783 results  
+`port:502` - 503,564 results  
 
 
 [BACnet](https://www.shodan.io/search?query=port%3A47808)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2023-12-21 16:19:01*
+*last updated at: 2023-12-21 17:21:11*
 
