@@ -1,4 +1,3 @@
-
 # ------------------------------------------------------------------------------
 
 
@@ -66,6 +65,7 @@ Cameras:
   - title: 'Hikvision IP Cameras.'
     content: 'product:"Hikvision IP Camera"'
     description: 'Backdoor exploit at https://ipvm.com/reports/hik-exploit'
+
 
 # ------------------------------------------------------------------------------
 
@@ -189,7 +189,12 @@ Industrial Control Systems:
 
   - title: 'VNC Servers'
     content: '"authentication disabled" "RFB 003.008"'
-    description: 'While not always 100% guaranteed to be a system, LOTS of embedded systems can show up here.'
+    description: 'While not always 100% guaranteed to be a system, lots of embedded systems can show up here, along with personal systems.'
+
+  - title: 'More VNC Servers'
+    content: '"authentication disabled" port:5900,5901'
+    description: 'Another search term for VNC servers - most are on port 5900 or 5901 as these are VNC display ports.'
+
 
 # ------------------------------------------------------------------------------
 
@@ -260,7 +265,6 @@ Network Infastructure:
 
   - title: 'Telnet Configuration'
     content: '"Polycom Command Shell" -failed port:23'
-
 
 
 # ------------------------------------------------------------------------------
@@ -338,6 +342,7 @@ Files and Directories:
 
 # ------------------------------------------------------------------------------
 
+
 Compromised devices and websites:
   - title: 'General Hacked Label Search'
     content: '"hacked"'
@@ -372,9 +377,12 @@ Compromised devices and websites:
   - title: 'Compromised FTP Servers'
     content: '"HACKED FTP server"'
 
+  - title: 'Compromised Routers'
+    content: 'hacked-router-help-sos'
 
 
 # ------------------------------------------------------------------------------
+
 
 Miscellaneous:
 
@@ -383,7 +391,6 @@ Miscellaneous:
 
   - title: 'Misconfigured WordPress Installations'
     content: 'http.html:"* The wp-config.php creation script uses this file"'
-
 
   - title: 'EIG Electricity Meters'
     content: '"Server: EIG Embedded Web Server" "200 Document follows"'
@@ -402,7 +409,3 @@ Miscellaneous:
 
   - title: 'Everything in North Korea'
     content: 'net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24'
-
-
-
-
