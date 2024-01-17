@@ -28,7 +28,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 ### Cameras
 
 [General camera search.](https://www.shodan.io/search?query=camera)  
-`camera` - 3,671,877 results  
+`camera` - 3,649,415 results  
 
 
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
@@ -64,7 +64,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 621 results  
+`product:"Yawcam webcam viewer httpd"` - 606 results  
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
@@ -108,7 +108,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
-`server: "i-Catcher Console"` - 26 results  
+`server: "i-Catcher Console"` - 23 results  
 
 
 
@@ -211,7 +211,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [Voting Machines in the United States](https://www.shodan.io/search?query=%22voter%20system%20serial%22%20country%3AUS)  
-`"voter system serial" country:US` - 17 results  
+`"voter system serial" country:US` - 18 results  
 
 
 [Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=mikrotik%20streetlight)  
@@ -298,7 +298,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
-`"root@" port:23 -login -password -name -Session` - 1,885 results  
+`"root@" port:23 -login -password -name -Session` - 1,860 results  
 
 
 [Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
@@ -420,7 +420,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
-`"220" "230 Login successful." port:21` - 63,145 results  
+`"220" "230 Login successful." port:21` - 62,716 results  
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
@@ -459,7 +459,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Compromised Routers](https://www.shodan.io/search?query=hacked-router-help-sos)  
-`hacked-router-help-sos` - 884 results  
+`hacked-router-help-sos` - 869 results  
 
 
 [Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-01-17 07:23:50*
+*last updated at: 2024-01-17 08:26:08*
 
