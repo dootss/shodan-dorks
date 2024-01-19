@@ -84,7 +84,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
-`has_screenshot:true IP Webcam` - 197 results  
+`has_screenshot:true IP Webcam` - 198 results  
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
@@ -99,12 +99,12 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `title:"Network Camera VB-M600"` - 37 results  
 
 
+[Webcams running on Blue Iris.](https://www.shodan.io/search?query=title%3A%22blue%20iris%20remote%20view%22)  
+`title:"blue iris remote view"` - 32 results  
+
+
 [Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
 `WVC80N` - 31 results  
-
-
-[Webcams running on Blue Iris.](https://www.shodan.io/search?query=title%3A%22blue%20iris%20remote%20view%22)  
-`title:"blue iris remote view"` - 30 results  
 
 
 [i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
@@ -139,7 +139,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 6,642 results  
+`"authentication disabled" "RFB 003.008"` - 6,686 results  
 While not always 100% guaranteed to be a system, lots of embedded systems can show up here, along with personal systems.
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
@@ -159,7 +159,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,771 results  
+`"DICOM Server Response" port:104` - 1,769 results  
 
 
 [Omron FINS](https://www.shodan.io/search?query=port%3A9600%20response%20code)  
@@ -167,7 +167,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [PCWorx](https://www.shodan.io/search?query=port%3A1962%20PLC)  
-`port:1962 PLC` - 897 results  
+`port:1962 PLC` - 903 results  
 
 
 [DNP3](https://www.shodan.io/search?query=port%3A20000%20source%20address)  
@@ -306,7 +306,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
-`Lantronix password port:30718 -secured` - 710 results  
+`Lantronix password port:30718 -secured` - 711 results  
 
 
 [Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
@@ -432,7 +432,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
-`vsftpd 2.3.4` - 2,908 results  
+`vsftpd 2.3.4` - 2,880 results  
 
 
 [QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
@@ -471,7 +471,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD)  
-`HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD` - 129 results  
+`HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD` - 132 results  
 
 
 [Compromised FTP Servers](https://www.shodan.io/search?query=HACKED%20FTP%20server)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-01-19 04:17:32*
+*last updated at: 2024-01-19 05:20:20*
 
