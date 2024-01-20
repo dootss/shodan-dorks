@@ -27,10 +27,6 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Cameras
 
-[General camera search.](https://www.shodan.io/search?query=camera)  
-`camera` - 3,618,325 results  
-
-
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
 `product:"Hikvision IP Camera"` - 2,791,661 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
@@ -531,5 +527,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-01-20 13:38:30*
+*last updated at: 2024-01-20 14:41:15*
 
