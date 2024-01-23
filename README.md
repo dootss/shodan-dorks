@@ -40,7 +40,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
-`server: GeoHttpServer` - 41,808 results  
+`server: GeoHttpServer` - 41,964 results  
 
 
 [Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%3A%22Avigilon%22)  
@@ -175,7 +175,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 760 results  
+`title:"xzeres wind"` - 759 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
@@ -527,5 +527,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-01-23 12:35:41*
+*last updated at: 2024-01-23 13:38:04*
 
