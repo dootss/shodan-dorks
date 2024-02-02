@@ -483,7 +483,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Ransomware Infected RDP Services](https://www.shodan.io/search?query=%22attention%22%20%22encrypted%22%20port%3A3389)  
-`"attention" "encrypted" port:3389` - 3 results  
+`"attention" "encrypted" port:3389` - 5 results  
 
 
 [Bitcoin Ransomware with Screenshot](https://www.shodan.io/search?query=bitcoin%20has_screenshot%3Atrue)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-02 01:17:47*
+*last updated at: 2024-02-02 02:19:58*
 
