@@ -55,10 +55,6 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `200 ok dvr port:"81"` - 9,799 results  
 
 
-[Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
-`Netwave IP Camera Content-Length: 2574` - 1,306 results  
-
-
 [A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
 `WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,269 results  
 
@@ -531,5 +527,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-02 09:39:57*
+*last updated at: 2024-02-02 10:42:07*
 
