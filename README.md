@@ -104,7 +104,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
-`WVC80N` - 27 results  
+`WVC80N` - 26 results  
 
 
 [i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
@@ -135,7 +135,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Niagara Fox](https://www.shodan.io/search?query=port%3A1911%2C4911%20product%3ANiagara)  
-`port:1911,4911 product:Niagara` - 9,576 results  
+`port:1911,4911 product:Niagara` - 9,531 results  
 
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
@@ -535,5 +535,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-08 05:29:11*
+*last updated at: 2024-02-08 06:31:20*
 
