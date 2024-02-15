@@ -96,7 +96,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Webcams running on Blue Iris.](https://www.shodan.io/search?query=title%3A%22blue%20iris%20remote%20view%22)  
-`title:"blue iris remote view"` - 34 results  
+`title:"blue iris remote view"` - 32 results  
 
 
 [Canon-manufactured megapixel security cameras.](https://www.shodan.io/search?query=title%3A%22Network%20Camera%20VB-M600%22)  
@@ -381,11 +381,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 347 results  
+`"Server: EPSON-HTTP" "200 OK"` - 349 results  
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 185 results  
+`"HP-ChaiSOE" port:"80"` - 183 results  
 
 
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
@@ -428,7 +428,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
-`"Anonymous access allowed" port:"21"` - 33,652 results  
+`"Anonymous access allowed" port:"21"` - 33,858 results  
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-15 07:50:39*
+*last updated at: 2024-02-15 08:52:52*
 
