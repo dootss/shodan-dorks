@@ -40,7 +40,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
-`server: GeoHttpServer` - 33,955 results  
+`server: GeoHttpServer` - 34,350 results  
 
 
 [Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%3A%22Avigilon%22)  
@@ -199,7 +199,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
-`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 34 results  
+`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 33 results  
 
 
 [GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
@@ -290,7 +290,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,483 results  
+`product:"CouchDB"` - 4,493 results  
 
 
 [Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
@@ -322,7 +322,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
-`"Citrix Applications:" port:1604` - 324 results  
+`"Citrix Applications:" port:1604` - 323 results  
 
 
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
@@ -330,7 +330,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
-`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 142 results  
+`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 148 results  
 
 
 [Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
@@ -432,7 +432,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
-`ftp port:"10000"` - 7,220 results  
+`ftp port:"10000"` - 7,136 results  
 
 
 [Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
@@ -502,7 +502,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
-`http.title:"control panel"` - 61,515 results  
+`http.title:"control panel"` - 61,809 results  
 
 
 [Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-20 03:17:46*
+*last updated at: 2024-02-20 04:19:57*
 
