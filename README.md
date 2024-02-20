@@ -104,7 +104,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [i-Catcher IP-based CCTV systems.](https://www.shodan.io/search?query=server%3A%20%22i-Catcher%20Console%22)  
-`server: "i-Catcher Console"` - 29 results  
+`server: "i-Catcher Console"` - 28 results  
 
 
 [Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
@@ -215,7 +215,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [Voting Machines in the United States](https://www.shodan.io/search?query=%22voter%20system%20serial%22%20country%3AUS)  
-`"voter system serial" country:US` - 16 results  
+`"voter system serial" country:US` - 18 results  
 
 
 [CAREL PlantVisor Refrigeration Units](https://www.shodan.io/search?query=%22Server%3A%20CarelDataServer%22%20%22200%20Document%20follows%22)  
@@ -223,7 +223,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [HART-IP](https://www.shodan.io/search?query=port%3A5094%20hart-ip)  
-`port:5094 hart-ip` - 9 results  
+`port:5094 hart-ip` - 11 results  
 
 
 [Siemens HVAC Controllers](https://www.shodan.io/search?query=%22Server%3A%20Microsoft-WinCE%22%20%22Content-Length%3A%2012581%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-20 10:34:47*
+*last updated at: 2024-02-20 11:37:00*
 
