@@ -416,7 +416,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
-`"Authentication: disabled" port:445 product:"Samba"` - 238,974 results  
+`"Authentication: disabled" port:445 product:"Samba"` - 241,128 results  
 
 
 [Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-26 14:21:43*
+*last updated at: 2024-02-26 15:23:57*
 
