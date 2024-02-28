@@ -535,5 +535,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-02-28 21:30:46*
+*last updated at: 2024-02-28 22:32:59*
 
