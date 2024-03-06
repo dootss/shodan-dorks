@@ -397,7 +397,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Printers with FTP Access](https://www.shodan.io/search?query=Laser%20Printer%20FTP%20Server)  
-`Laser Printer FTP Server` - 7 results  
+`Laser Printer FTP Server` - 6 results  
 
 
 
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-06 03:28:41*
+*last updated at: 2024-03-06 04:30:53*
 
