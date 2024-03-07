@@ -32,7 +32,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
-`product:"Hikvision IP Camera"` - 2,624,147 results  
+`product:"Hikvision IP Camera"` - 2,612,637 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 [Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
@@ -92,7 +92,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
-`has_screenshot:true IP Webcam` - 81 results  
+`has_screenshot:true IP Webcam` - 82 results  
 
 
 [Webcams running on Blue Iris.](https://www.shodan.io/search?query=title%3A%22blue%20iris%20remote%20view%22)  
@@ -123,7 +123,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [S7](https://www.shodan.io/search?query=port%3A102)  
-`port:102` - 522,222 results  
+`port:102` - 521,740 results  
 
 
 [Modbus](https://www.shodan.io/search?query=port%3A502)  
@@ -187,7 +187,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [MELSEC-Q](https://www.shodan.io/search?query=port%3A5006%2C5007%20product%3Amitsubishi)  
-`port:5006,5007 product:mitsubishi` - 195 results  
+`port:5006,5007 product:mitsubishi` - 192 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
@@ -286,11 +286,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Cisco Smart Install](https://www.shodan.io/search?query=smart%20install%20client%20active)  
-`smart install client active` - 7,394 results  
+`smart install client active` - 7,382 results  
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,442 results  
+`product:"CouchDB"` - 4,469 results  
 
 
 [Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
@@ -385,11 +385,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 191 results  
+`"HP-ChaiSOE" port:"80"` - 196 results  
 
 
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
-`Printer Type: Lexmark` - 146 results  
+`Printer Type: Lexmark` - 142 results  
 
 
 [Brother Printers Admin Interface](https://www.shodan.io/search?query=%22Location%3A%20/main/main.html%22%20debut)  
@@ -428,15 +428,15 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
-`"Anonymous access allowed" port:"21"` - 32,424 results  
+`"Anonymous access allowed" port:"21"` - 32,572 results  
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
-`ftp port:"10000"` - 6,627 results  
+`ftp port:"10000"` - 6,614 results  
 
 
 [Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
-`vsftpd 2.3.4` - 2,640 results  
+`vsftpd 2.3.4` - 2,631 results  
 
 
 [QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
@@ -502,7 +502,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
-`http.title:"control panel"` - 61,221 results  
+`http.title:"control panel"` - 61,354 results  
 
 
 [Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-07 17:59:34*
+*last updated at: 2024-03-07 19:01:45*
 
