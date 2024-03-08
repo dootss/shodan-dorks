@@ -372,12 +372,12 @@ Search for electronic billboards managed by Prismview servers.
 `title:"syncthru web service"` - 937 results  
 
 
-[Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%3A23%20%22Password%20is%20not%20set%22)  
-`port:23 "Password is not set"` - 432 results  
-
-
 [Remote Access to Xerox Printers](https://www.shodan.io/search?query=ssl%3A%22Xerox%20Generic%20Root%22)  
 `ssl:"Xerox Generic Root"` - 431 results  
+
+
+[Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%3A23%20%22Password%20is%20not%20set%22)  
+`port:23 "Password is not set"` - 430 results  
 
 
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
@@ -458,12 +458,12 @@ Search for electronic billboards managed by Prismview servers.
 `port:4444 system32` - 1,353 results  
 
 
+[Compromised Routers](https://www.shodan.io/search?query=hacked-router-help-sos)  
+`hacked-router-help-sos` - 732 results  
+
+
 [Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=HACKED-ROUTER)  
 `HACKED-ROUTER` - 725 results  
-
-
-[Compromised Routers](https://www.shodan.io/search?query=hacked-router-help-sos)  
-`hacked-router-help-sos` - 717 results  
 
 
 [Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-08 07:33:38*
+*last updated at: 2024-03-08 08:35:54*
 
