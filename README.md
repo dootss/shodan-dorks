@@ -52,7 +52,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 8,895 results  
+`200 ok dvr port:"81"` - 8,819 results  
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
@@ -72,7 +72,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
-`ACTi` - 382 results  
+`ACTi` - 374 results  
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
@@ -436,7 +436,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
-`vsftpd 2.3.4` - 2,640 results  
+`vsftpd 2.3.4` - 2,606 results  
 
 
 [QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
@@ -458,12 +458,12 @@ Search for electronic billboards managed by Prismview servers.
 `port:4444 system32` - 1,353 results  
 
 
-[Compromised Routers](https://www.shodan.io/search?query=hacked-router-help-sos)  
-`hacked-router-help-sos` - 732 results  
-
-
 [Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=HACKED-ROUTER)  
 `HACKED-ROUTER` - 725 results  
+
+
+[Compromised Routers](https://www.shodan.io/search?query=hacked-router-help-sos)  
+`hacked-router-help-sos` - 717 results  
 
 
 [Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-08 08:35:54*
+*last updated at: 2024-03-08 09:38:07*
 
