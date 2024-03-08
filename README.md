@@ -32,7 +32,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
-`product:"Hikvision IP Camera"` - 2,604,517 results  
+`product:"Hikvision IP Camera"` - 2,614,324 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 [Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
@@ -64,7 +64,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 612 results  
+`product:"Yawcam webcam viewer httpd"` - 606 results  
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
@@ -531,5 +531,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-08 22:07:26*
+*last updated at: 2024-03-08 23:09:37*
 
