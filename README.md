@@ -274,7 +274,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
-`port:5432 PostgreSQL` - 711,085 results  
+`port:5432 PostgreSQL` - 716,602 results  
 
 
 [Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
@@ -547,5 +547,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-16 11:15:28*
+*last updated at: 2024-03-16 12:17:39*
 
