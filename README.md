@@ -440,7 +440,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
-`ftp port:"10000"` - 6,431 results  
+`ftp port:"10000"` - 6,422 results  
 
 
 [Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
@@ -547,5 +547,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-19 04:51:37*
+*last updated at: 2024-03-19 05:53:49*
 
