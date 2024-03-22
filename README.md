@@ -80,7 +80,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
-`webcam has_screenshot:true` - 189 results  
+`webcam has_screenshot:true` - 195 results  
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
@@ -143,7 +143,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 While not always 100% guaranteed to be a system, lots of embedded systems can show up here, along with personal systems.
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
-`"in-tank inventory" port:10001` - 5,634 results  
+`"in-tank inventory" port:10001` - 5,660 results  
 Find gas station pump controllers with accessible inventory data.
 
 [More VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20port%3A5900%2C5901)  
@@ -401,7 +401,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Brother Printers Admin Interface](https://www.shodan.io/search?query=%22Location%3A%20/main/main.html%22%20debut)  
-`"Location: /main/main.html" debut` - 54 results  
+`"Location: /main/main.html" debut` - 56 results  
 
 
 [Printers with FTP Access](https://www.shodan.io/search?query=Laser%20Printer%20FTP%20Server)  
@@ -547,5 +547,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-22 21:21:05*
+*last updated at: 2024-03-22 22:23:26*
 
