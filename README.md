@@ -36,7 +36,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 [Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
-`title:"IPCam Client"` - 57,009 results  
+`title:"IPCam Client"` - 56,095 results  
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
@@ -179,7 +179,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
-`port:20547 PLC` - 420 results  
+`port:20547 PLC` - 416 results  
 
 
 [MELSEC-Q](https://www.shodan.io/search?query=port%3A5006%2C5007%20product%3Amitsubishi)  
@@ -230,13 +230,13 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 `"Server: Microsoft-WinCE" "Content-Length: 12581"` - 6 results  
 
 
-[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
-`Server: Prismview Player` - 5 results  
-Search for electronic billboards managed by Prismview servers.
-
 [Fuel Pumps connected to internet](https://www.shodan.io/search?query=%22privileged%20command%22%20GET)  
 `"privileged command" GET` - 5 results  
 
+
+[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
+`Server: Prismview Player` - 4 results  
+Search for electronic billboards managed by Prismview servers.
 
 [Automatic License Plate Readers](https://www.shodan.io/search?query=P372%20%22ANPR%20enabled%22)  
 `P372 "ANPR enabled"` - 2 results  
@@ -547,5 +547,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-22 01:34:11*
+*last updated at: 2024-03-22 02:36:24*
 
