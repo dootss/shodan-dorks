@@ -187,7 +187,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 181 results  
+`"HID VertX" port:4070` - 180 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
@@ -547,5 +547,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-24 02:29:25*
+*last updated at: 2024-03-24 03:31:36*
 
