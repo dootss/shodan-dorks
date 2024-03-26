@@ -174,12 +174,12 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 `port:1962 PLC` - 838 results  
 
 
-[XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 438 results  
-
-
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
-`port:20547 PLC` - 437 results  
+`port:20547 PLC` - 441 results  
+
+
+[XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
+`title:"xzeres wind"` - 439 results  
 
 
 [MELSEC-Q](https://www.shodan.io/search?query=port%3A5006%2C5007%20product%3Amitsubishi)  
@@ -543,5 +543,5 @@ Search for electronic billboards managed by Prismview servers.
 
 *i'm not responsible for any misuse of this list :) explore responsibly!*
 
-*last updated at: 2024-03-26 13:48:37*
+*last updated at: 2024-03-26 14:50:51*
 
