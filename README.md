@@ -175,7 +175,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 529 results  
+`title:"xzeres wind"` - 538 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
