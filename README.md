@@ -175,7 +175,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 556 results  
+`title:"xzeres wind"` - 566 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
@@ -187,7 +187,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 181 results  
+`"HID VertX" port:4070` - 182 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
