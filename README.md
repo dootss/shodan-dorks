@@ -175,7 +175,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 648 results  
+`title:"xzeres wind"` - 658 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
@@ -187,7 +187,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 178 results  
+`"HID VertX" port:4070` - 177 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
@@ -230,13 +230,13 @@ Find gas station pump controllers with accessible inventory data.
 `"Server: Microsoft-WinCE" "Content-Length: 12581"` - 5 results  
 
 
-[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
-`Server: Prismview Player` - 4 results  
-Search for electronic billboards managed by Prismview servers.
-
 [Fuel Pumps connected to internet](https://www.shodan.io/search?query=%22privileged%20command%22%20GET)  
 `"privileged command" GET` - 4 results  
 
+
+[Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
+`Server: Prismview Player` - 3 results  
+Search for electronic billboards managed by Prismview servers.
 
 [Railroad Management](https://www.shodan.io/search?query=%22log%20off%22%20%22select%20the%20appropriate%22)  
 `"log off" "select the appropriate"` - 3 results  
