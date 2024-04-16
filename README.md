@@ -175,7 +175,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 802 results  
+`title:"xzeres wind"` - 805 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
@@ -187,7 +187,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 186 results  
+`"HID VertX" port:4070` - 187 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
