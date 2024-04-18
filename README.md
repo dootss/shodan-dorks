@@ -175,7 +175,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
-`title:"xzeres wind"` - 815 results  
+`title:"xzeres wind"` - 819 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
