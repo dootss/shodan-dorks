@@ -179,7 +179,7 @@ Find gas station pump controllers with accessible inventory data.
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
-`port:20547 PLC` - 493 results  
+`port:20547 PLC` - 494 results  
 
 
 [MELSEC-Q](https://www.shodan.io/search?query=port%3A5006%2C5007%20product%3Amitsubishi)  
