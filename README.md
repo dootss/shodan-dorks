@@ -72,7 +72,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
-`title:"+tm01+"` - 471 results  
+`title:"+tm01+"` - 476 results  
 
 
 [Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
@@ -206,12 +206,12 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 `"Server: EIG Embedded Web Server" "200 Document follows"` - 33 results  
 
 
+[Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
+`NCR Port:"161"` - 24 results  
+
+
 [Voting Machines in the United States](https://www.shodan.io/search?query=%22voter%20system%20serial%22%20country%3AUS)  
 `"voter system serial" country:US` - 23 results  
-
-
-[Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
-`NCR Port:"161"` - 22 results  
 
 
 [Traffic Light Controllers / Red Light Cameras](https://www.shodan.io/search?query=mikrotik%20streetlight)  
@@ -261,12 +261,12 @@ Search for electronic billboards managed by Prismview servers.
 `port:5432 PostgreSQL` - 772,780 results  
 
 
+[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
+`mongodb port:27017` - 105,610 results  
+
+
 [MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
 `"MongoDB Server Information" port:27017` - 105,413 results  
-
-
-[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 105,227 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
@@ -502,7 +502,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
-`"Minecraft Server" "protocol 340" port:25565` - 10,993 results  
+`"Minecraft Server" "protocol 340" port:25565` - 11,052 results  
 
 
 [Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
