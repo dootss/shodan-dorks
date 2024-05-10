@@ -56,7 +56,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
-`Netwave IP Camera Content-Length: 2574` - 1,323 results  
+`Netwave IP Camera Content-Length: 2574` - 1,334 results  
 
 
 [A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
@@ -119,7 +119,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 ### Industrial Control Systems
 
 [EtherNet/IP](https://www.shodan.io/search?query=port%3A44818)  
-`port:44818` - 543,014 results  
+`port:44818` - 544,494 results  
 
 
 [S7](https://www.shodan.io/search?query=port%3A102)  
@@ -131,7 +131,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [BACnet](https://www.shodan.io/search?query=port%3A47808)  
-`port:47808` - 46,021 results  
+`port:47808` - 46,211 results  
 
 
 [Niagara Fox](https://www.shodan.io/search?query=port%3A1911%2C4911%20product%3ANiagara)  
@@ -147,7 +147,7 @@ Find gas station pump controllers with accessible inventory data.
 Another search term for VNC servers - most are on port 5900 or 5901 as these are VNC display ports.
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 5,726 results  
+`"authentication disabled" "RFB 003.008"` - 5,756 results  
 While not always 100% guaranteed to be a system, lots of embedded systems can show up here, along with personal systems.
 
 [IEC 60870-5-104](https://www.shodan.io/search?query=port%3A2404%20asdu%20address)  
@@ -302,7 +302,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
-`"root@" port:23 -login -password -name -Session` - 587 results  
+`"root@" port:23 -login -password -name -Session` - 590 results  
 
 
 [Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
@@ -345,7 +345,7 @@ Search for electronic billboards managed by Prismview servers.
 ### Printers
 
 [General Printer Search](https://www.shodan.io/search?query=printer)  
-`printer` - 88,570 results  
+`printer` - 89,053 results  
 
 
 [HP Printers Remote Restart](https://www.shodan.io/search?query=port%3A161%20hp)  
@@ -404,7 +404,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Filezilla FTP](https://www.shodan.io/search?query=filezilla%20port%3A%2221%22)  
-`filezilla port:"21"` - 258,194 results  
+`filezilla port:"21"` - 258,896 results  
 
 
 [Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
