@@ -52,7 +52,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 9,864 results  
+`200 ok dvr port:"81"` - 9,932 results  
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
@@ -266,11 +266,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 105,930 results  
+`mongodb port:27017` - 106,272 results  
 
 
 [MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
-`"MongoDB Server Information" port:27017` - 105,930 results  
+`"MongoDB Server Information" port:27017` - 106,271 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
@@ -447,7 +447,7 @@ Search for electronic billboards managed by Prismview servers.
 ### Compromised devices and websites
 
 [General Hacked Label Search](https://www.shodan.io/search?query=hacked)  
-`hacked` - 1,821 results  
+`hacked` - 1,827 results  
 
 
 [Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
@@ -498,7 +498,7 @@ Search for electronic billboards managed by Prismview servers.
 ### Miscellaneous
 
 [General Dashboard Interfaces](https://www.shodan.io/search?query=http.title%3A%22dashboard%22)  
-`http.title:"dashboard"` - 222,119 results  
+`http.title:"dashboard"` - 224,986 results  
 
 
 [Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
