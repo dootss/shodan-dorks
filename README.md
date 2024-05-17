@@ -64,7 +64,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 643 results  
+`product:"Yawcam webcam viewer httpd"` - 650 results  
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
@@ -274,7 +274,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
-`port:"9200" all:elastic` - 31,356 results  
+`port:"9200" all:elastic` - 31,479 results  
 
 
 [Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
@@ -506,7 +506,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Minecraft Servers](https://www.shodan.io/search?query=%22Minecraft%20Server%22%20%22protocol%20340%22%20port%3A25565)  
-`"Minecraft Server" "protocol 340" port:25565` - 11,068 results  
+`"Minecraft Server" "protocol 340" port:25565` - 11,112 results  
 
 
 [Tesla-related Interfaces](https://www.shodan.io/search?query=http.title%3A%22Tesla%22)  
