@@ -32,11 +32,11 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
-`product:"Hikvision IP Camera"` - 2,818,457 results  
+`product:"Hikvision IP Camera"` - 2,789,796 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 [Webcams running on IPCam Client.](https://www.shodan.io/search?query=title%3A%22IPCam%20Client%22)  
-`title:"IPCam Client"` - 63,404 results  
+`title:"IPCam Client"` - 62,687 results  
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
@@ -48,7 +48,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
-`server: VVTK-HTTP-Server` - 16,605 results  
+`server: VVTK-HTTP-Server` - 16,456 results  
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
@@ -60,7 +60,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
-`WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,260 results  
+`WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,251 results  
 
 
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
@@ -80,11 +80,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Webcams with screenshots.](https://www.shodan.io/search?query=webcam%20has_screenshot%3Atrue)  
-`webcam has_screenshot:true` - 228 results  
+`webcam has_screenshot:true` - 226 results  
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
-`server: webcamxp` - 180 results  
+`server: webcamxp` - 174 results  
 
 
 [IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
@@ -108,7 +108,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Linksys WVC80N cameras.](https://www.shodan.io/search?query=WVC80N)  
-`WVC80N` - 26 results  
+`WVC80N` - 25 results  
 
 
 
@@ -123,11 +123,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [S7](https://www.shodan.io/search?query=port%3A102)  
-`port:102` - 516,305 results  
+`port:102` - 514,923 results  
 
 
 [Modbus](https://www.shodan.io/search?query=port%3A502)  
-`port:502` - 515,760 results  
+`port:502` - 513,154 results  
 
 
 [BACnet](https://www.shodan.io/search?query=port%3A47808)  
@@ -135,11 +135,11 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Niagara Fox](https://www.shodan.io/search?query=port%3A1911%2C4911%20product%3ANiagara)  
-`port:1911,4911 product:Niagara` - 9,397 results  
+`port:1911,4911 product:Niagara` - 9,358 results  
 
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
-`"in-tank inventory" port:10001` - 6,224 results  
+`"in-tank inventory" port:10001` - 6,203 results  
 Find gas station pump controllers with accessible inventory data.
 
 [More VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20port%3A5900%2C5901)  
@@ -151,7 +151,7 @@ Another search term for VNC servers - most are on port 5900 or 5901 as these are
 While not always 100% guaranteed to be a system, lots of embedded systems can show up here, along with personal systems.
 
 [IEC 60870-5-104](https://www.shodan.io/search?query=port%3A2404%20asdu%20address)  
-`port:2404 asdu address` - 3,587 results  
+`port:2404 asdu address` - 3,574 results  
 
 
 [Siemens Industrial Automation](https://www.shodan.io/search?query=%22Siemens%2C%20SIMATIC%22%20port%3A161)  
@@ -163,15 +163,15 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,814 results  
+`"DICOM Server Response" port:104` - 1,813 results  
 
 
 [PCWorx](https://www.shodan.io/search?query=port%3A1962%20PLC)  
-`port:1962 PLC` - 1,035 results  
+`port:1962 PLC` - 1,027 results  
 
 
 [DNP3](https://www.shodan.io/search?query=port%3A20000%20source%20address)  
-`port:20000 source address` - 989 results  
+`port:20000 source address` - 990 results  
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
@@ -191,19 +191,19 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
-`[1m[35mWelcome on console` - 73 results  
+`[1m[35mWelcome on console` - 72 results  
 
 
 [Electric Vehicle Chargers](https://www.shodan.io/search?query=%22Server%3A%20gSOAP/2.8%22%20%22Content-Length%3A%20583%22)  
-`"Server: gSOAP/2.8" "Content-Length: 583"` - 43 results  
+`"Server: gSOAP/2.8" "Content-Length: 583"` - 40 results  
 
 
 [Nordex Wind Turbine Farms](https://www.shodan.io/search?query=http.title%3A%22Nordex%20Control%22%20%22Windows%202000%205.0%20x86%22%20%22Jetty/3.1%20%28JSP%201.1%3B%20Servlet%202.2%3B%20java%201.6.0_14%29%22)  
-`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 36 results  
+`http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"` - 37 results  
 
 
 [GaugeTech Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 29 results  
 
 
 [Open ATM](https://www.shodan.io/search?query=NCR%20Port%3A%22161%22)  
@@ -226,12 +226,12 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 `port:5094 hart-ip` - 12 results  
 
 
+[Fuel Pumps connected to internet](https://www.shodan.io/search?query=%22privileged%20command%22%20GET)  
+`"privileged command" GET` - 5 results  
+
+
 [Siemens HVAC Controllers](https://www.shodan.io/search?query=%22Server%3A%20Microsoft-WinCE%22%20%22Content-Length%3A%2012581%22)  
 `"Server: Microsoft-WinCE" "Content-Length: 12581"` - 5 results  
-
-
-[Fuel Pumps connected to internet](https://www.shodan.io/search?query=%22privileged%20command%22%20GET)  
-`"privileged command" GET` - 4 results  
 
 
 [Samsung Electronic Billboards](https://www.shodan.io/search?query=Server%3A%20Prismview%20Player)  
@@ -244,10 +244,6 @@ Search for electronic billboards managed by Prismview servers.
 
 [Submarine Mission Control Dashboards](https://www.shodan.io/search?query=title%3A%22Slocum%20Fleet%20Mission%20Control%22)  
 `title:"Slocum Fleet Mission Control"` - 1 result  
-
-
-[Railroad Management](https://www.shodan.io/search?query=%22log%20off%22%20%22select%20the%20appropriate%22)  
-`"log off" "select the appropriate"` - 1 result  
 
 
 [Tesla Powerpack charging Status](https://www.shodan.io/search?query=http.title%3A%22Tesla%20PowerPack%20System%22%20http.component%3A%22d3%22%20-ga3ca4f2)  
@@ -286,15 +282,15 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Cisco Smart Install](https://www.shodan.io/search?query=smart%20install%20client%20active)  
-`smart install client active` - 7,592 results  
+`smart install client active` - 7,572 results  
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,807 results  
+`product:"CouchDB"` - 4,788 results  
 
 
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
-`"Android Debug Bridge" "Device" port:5555` - 4,578 results  
+`"Android Debug Bridge" "Device" port:5555` - 4,518 results  
 
 
 [Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
@@ -306,23 +302,23 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
-`Lantronix password port:30718 -secured` - 654 results  
-
-
-[Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
-`kibana content-length:217` - 557 results  
+`Lantronix password port:30718 -secured` - 649 results  
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
 `"root@" port:23 -login -password -name -Session` - 554 results  
 
 
+[Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
+`kibana content-length:217` - 553 results  
+
+
 [Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%22Set-Cookie%3A%20mongo-express%3D%22%20%22200%20OK%22)  
-`"Set-Cookie: mongo-express=" "200 OK"` - 426 results  
+`"Set-Cookie: mongo-express=" "200 OK"` - 428 results  
 
 
 [Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
-`"Citrix Applications:" port:1604` - 294 results  
+`"Citrix Applications:" port:1604` - 295 results  
 
 
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
@@ -357,11 +353,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [HP Printers Remote Restart](https://www.shodan.io/search?query=port%3A161%20hp)  
-`port:161 hp` - 12,287 results  
+`port:161 hp` - 12,170 results  
 
 
 [Canon Printer HTTP Servers](https://www.shodan.io/search?query=Server%3A%20CANON%20HTTP%20Server)  
-`Server: CANON HTTP Server` - 10,305 results  
+`Server: CANON HTTP Server` - 10,246 results  
 
 
 [HTTP Accessible Epson Printers](https://www.shodan.io/search?query=http%20200%20server%20epson%20-upnp)  
@@ -369,7 +365,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Samsung Printers with SyncThru Web Service](https://www.shodan.io/search?query=title%3A%22syncthru%20web%20service%22)  
-`title:"syncthru web service"` - 1,007 results  
+`title:"syncthru web service"` - 1,004 results  
 
 
 [Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%3A23%20%22Password%20is%20not%20set%22)  
@@ -385,7 +381,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
-`"HP-ChaiSOE" port:"80"` - 165 results  
+`"HP-ChaiSOE" port:"80"` - 162 results  
 
 
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
@@ -411,12 +407,12 @@ Search for electronic billboards managed by Prismview servers.
 `http.title:"Index of /"` - 379,291 results  
 
 
-[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
-`"Authentication: disabled" port:445 product:"Samba"` - 260,128 results  
-
-
 [Filezilla FTP](https://www.shodan.io/search?query=filezilla%20port%3A%2221%22)  
 `filezilla port:"21"` - 257,960 results  
+
+
+[Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
+`"Authentication: disabled" port:445 product:"Samba"` - 257,076 results  
 
 
 [Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
@@ -424,11 +420,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
-`"220" "230 Login successful." port:21` - 63,043 results  
+`"220" "230 Login successful." port:21` - 62,446 results  
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
-`"Anonymous access allowed" port:"21"` - 33,332 results  
+`"Anonymous access allowed" port:"21"` - 33,161 results  
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
@@ -436,11 +432,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Vulnerable vsftpd Service](https://www.shodan.io/search?query=vsftpd%202.3.4)  
-`vsftpd 2.3.4` - 3,134 results  
+`vsftpd 2.3.4` - 3,099 results  
 
 
 [QuickBooks Files Shared Over Network](https://www.shodan.io/search?query=%22QuickBooks%20files%20OverNetwork%22%20-unix%20port%3A445)  
-`"QuickBooks files OverNetwork" -unix port:445` - 47 results  
+`"QuickBooks files OverNetwork" -unix port:445` - 46 results  
 
 
 
@@ -467,15 +463,15 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Hacked By in HTTP Title](https://www.shodan.io/search?query=http.title%3A%22Hacked%20by%22)  
-`http.title:"Hacked by"` - 518 results  
+`http.title:"Hacked by"` - 517 results  
 
 
 [Variation of Hacked By Label Search](https://www.shodan.io/search?query=hacked%20by)  
-`hacked by` - 282 results  
+`hacked by` - 275 results  
 
 
 [Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD)  
-`HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD` - 106 results  
+`HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD` - 108 results  
 
 
 [Compromised FTP Servers](https://www.shodan.io/search?query=HACKED%20FTP%20server)  
@@ -518,7 +514,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [EIG Electricity Meters](https://www.shodan.io/search?query=%22Server%3A%20EIG%20Embedded%20Web%20Server%22%20%22200%20Document%20follows%22)  
-`"Server: EIG Embedded Web Server" "200 Document follows"` - 30 results  
+`"Server: EIG Embedded Web Server" "200 Document follows"` - 29 results  
 
 
 [Misconfigured WordPress Installations](https://www.shodan.io/search?query=http.html%3A%22%2A%20The%20wp-config.php%20creation%20script%20uses%20this%20file%22)  
