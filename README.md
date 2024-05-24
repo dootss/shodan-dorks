@@ -72,7 +72,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
-`title:"+tm01+"` - 479 results  
+`title:"+tm01+"` - 481 results  
 
 
 [Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
@@ -175,7 +175,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
-`port:20547 PLC` - 528 results  
+`port:20547 PLC` - 530 results  
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
@@ -318,7 +318,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
-`"Citrix Applications:" port:1604` - 292 results  
+`"Citrix Applications:" port:1604` - 294 results  
 
 
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
@@ -373,7 +373,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Remote Access to Xerox Printers](https://www.shodan.io/search?query=ssl%3A%22Xerox%20Generic%20Root%22)  
-`ssl:"Xerox Generic Root"` - 379 results  
+`ssl:"Xerox Generic Root"` - 382 results  
 
 
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
@@ -416,7 +416,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
-`port:80 title:"Index of /"` - 153,625 results  
+`port:80 title:"Index of /"` - 154,002 results  
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
