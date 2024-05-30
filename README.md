@@ -159,7 +159,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [Omron FINS](https://www.shodan.io/search?query=port%3A9600%20response%20code)  
-`port:9600 response code` - 1,906 results  
+`port:9600 response code` - 1,913 results  
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
@@ -175,7 +175,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
-`port:20547 PLC` - 555 results  
+`port:20547 PLC` - 567 results  
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
