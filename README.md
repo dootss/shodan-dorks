@@ -175,7 +175,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [ProConOS](https://www.shodan.io/search?query=port%3A20547%20PLC)  
-`port:20547 PLC` - 567 results  
+`port:20547 PLC` - 572 results  
 
 
 [XZERES Wind Turbine](https://www.shodan.io/search?query=title%3A%22xzeres%20wind%22)  
@@ -302,7 +302,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,963 results  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,965 results  
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
