@@ -159,7 +159,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [Omron FINS](https://www.shodan.io/search?query=port%3A9600%20response%20code)  
-`port:9600 response code` - 1,927 results  
+`port:9600 response code` - 1,932 results  
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
