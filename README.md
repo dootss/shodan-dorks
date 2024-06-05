@@ -274,7 +274,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 108,504 results  
+`mongodb port:27017` - 108,877 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
