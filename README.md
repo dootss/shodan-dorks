@@ -187,7 +187,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
-`"HID VertX" port:4070` - 196 results  
+`"HID VertX" port:4070` - 199 results  
 
 
 [C4 Max Commercial Vehicle GPS Trackers](https://www.shodan.io/search?query=%5B1m%5B35mWelcome%20on%20console)  
@@ -269,12 +269,12 @@ Search for electronic billboards managed by Prismview servers.
 `port:5432 PostgreSQL` - 782,137 results  
 
 
+[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
+`mongodb port:27017` - 109,640 results  
+
+
 [MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
 `"MongoDB Server Information" port:27017` - 109,583 results  
-
-
-[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 109,240 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
@@ -381,7 +381,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 322 results  
+`"Server: EPSON-HTTP" "200 OK"` - 323 results  
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
