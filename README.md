@@ -269,12 +269,12 @@ Search for electronic billboards managed by Prismview servers.
 `port:5432 PostgreSQL` - 783,487 results  
 
 
+[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
+`mongodb port:27017` - 109,944 results  
+
+
 [MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
 `"MongoDB Server Information" port:27017` - 109,895 results  
-
-
-[Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
-`mongodb port:27017` - 109,592 results  
 
 
 [Open Elasticsearch Databases](https://www.shodan.io/search?query=port%3A%229200%22%20all%3Aelastic)  
@@ -377,7 +377,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 323 results  
+`"Server: EPSON-HTTP" "200 OK"` - 325 results  
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
