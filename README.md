@@ -27,6 +27,10 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 
 ### Cameras
 
+[General camera search.](https://www.shodan.io/search?query=camera)  
+`camera` - 3,805,541 results  
+
+
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
 `product:"Hikvision IP Camera"` - 2,789,007 results  
 Backdoor exploit at https://ipvm.com/reports/hik-exploit
@@ -155,7 +159,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [Omron FINS](https://www.shodan.io/search?query=port%3A9600%20response%20code)  
-`port:9600 response code` - 1,954 results  
+`port:9600 response code` - 1,968 results  
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
