@@ -56,7 +56,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
-`Netwave IP Camera Content-Length: 2574` - 1,290 results  
+`Netwave IP Camera Content-Length: 2574` - 1,293 results  
 
 
 [A UK-based IP camera provider.](https://www.shodan.io/search?query=WWW-Authenticate%3A%20%22Merit%20LILIN%20Ent.%20Co.%2C%20Ltd.%22)  
@@ -404,7 +404,7 @@ Search for electronic billboards managed by Prismview servers.
 ### Files and Directories
 
 [Open Lists of Files and Directories](https://www.shodan.io/search?query=http.title%3A%22Index%20of%20/%22)  
-`http.title:"Index of /"` - 374,400 results  
+`http.title:"Index of /"` - 375,288 results  
 
 
 [Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
