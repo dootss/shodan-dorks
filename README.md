@@ -28,7 +28,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 ### Cameras
 
 [General camera search.](https://www.shodan.io/search?query=camera)  
-`camera` - 3,806,254 results  
+`camera` - 3,825,768 results  
 
 
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
@@ -48,7 +48,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
-`server: VVTK-HTTP-Server` - 17,008 results  
+`server: VVTK-HTTP-Server` - 17,119 results  
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
@@ -84,7 +84,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
-`server: webcamxp` - 192 results  
+`server: webcamxp` - 193 results  
 
 
 [Webcams running on webcam 7.](https://www.shodan.io/search?query=server%3A%20%22webcam%207%22)  
@@ -123,7 +123,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [S7](https://www.shodan.io/search?query=port%3A102)  
-`port:102` - 565,944 results  
+`port:102` - 568,071 results  
 
 
 [Modbus](https://www.shodan.io/search?query=port%3A502)  
@@ -147,7 +147,7 @@ Find gas station pump controllers with accessible inventory data.
 Another search term for VNC servers - most are on port 5900 or 5901 as these are VNC display ports.
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
-`"authentication disabled" "RFB 003.008"` - 5,559 results  
+`"authentication disabled" "RFB 003.008"` - 5,588 results  
 While not always 100% guaranteed to be a system, lots of embedded systems can show up here, along with personal systems.
 
 [IEC 60870-5-104](https://www.shodan.io/search?query=port%3A2404%20asdu%20address)  
@@ -163,7 +163,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
-`"DICOM Server Response" port:104` - 1,865 results  
+`"DICOM Server Response" port:104` - 1,871 results  
 
 
 [DNP3](https://www.shodan.io/search?query=port%3A20000%20source%20address)  
@@ -286,7 +286,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
-`product:"CouchDB"` - 4,983 results  
+`product:"CouchDB"` - 4,996 results  
 
 
 [Android Root Bridges](https://www.shodan.io/search?query=%22Android%20Debug%20Bridge%22%20%22Device%22%20port%3A5555)  
@@ -302,7 +302,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
-`Lantronix password port:30718 -secured` - 652 results  
+`Lantronix password port:30718 -secured` - 654 results  
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
@@ -310,7 +310,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
-`kibana content-length:217` - 563 results  
+`kibana content-length:217` - 564 results  
 
 
 [Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%22Set-Cookie%3A%20mongo-express%3D%22%20%22200%20OK%22)  
@@ -353,11 +353,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [HP Printers Remote Restart](https://www.shodan.io/search?query=port%3A161%20hp)  
-`port:161 hp` - 12,237 results  
+`port:161 hp` - 12,309 results  
 
 
 [Canon Printer HTTP Servers](https://www.shodan.io/search?query=Server%3A%20CANON%20HTTP%20Server)  
-`Server: CANON HTTP Server` - 10,132 results  
+`Server: CANON HTTP Server` - 10,167 results  
 
 
 [HTTP Accessible Epson Printers](https://www.shodan.io/search?query=http%20200%20server%20epson%20-upnp)  
@@ -404,7 +404,7 @@ Search for electronic billboards managed by Prismview servers.
 ### Files and Directories
 
 [Open Lists of Files and Directories](https://www.shodan.io/search?query=http.title%3A%22Index%20of%20/%22)  
-`http.title:"Index of /"` - 375,284 results  
+`http.title:"Index of /"` - 376,701 results  
 
 
 [Samba Shares with Authentication Disabled](https://www.shodan.io/search?query=%22Authentication%3A%20disabled%22%20port%3A445%20product%3A%22Samba%22)  
@@ -416,7 +416,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Open Lists on Port 80](https://www.shodan.io/search?query=port%3A80%20title%3A%22Index%20of%20/%22)  
-`port:80 title:"Index of /"` - 154,236 results  
+`port:80 title:"Index of /"` - 154,497 results  
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
@@ -424,7 +424,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
-`"Anonymous access allowed" port:"21"` - 33,649 results  
+`"Anonymous access allowed" port:"21"` - 33,735 results  
 
 
 [NDMP on FTP Port 10000](https://www.shodan.io/search?query=ftp%20port%3A%2210000%22)  
@@ -451,7 +451,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Compromised Legacy Systems on Port 4444](https://www.shodan.io/search?query=port%3A4444%20system32)  
-`port:4444 system32` - 1,194 results  
+`port:4444 system32` - 1,205 results  
 
 
 [Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=HACKED-ROUTER)  
@@ -467,7 +467,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Variation of Hacked By Label Search](https://www.shodan.io/search?query=hacked%20by)  
-`hacked by` - 297 results  
+`hacked by` - 300 results  
 
 
 [Compromised Hosts Advertising Default Password](https://www.shodan.io/search?query=HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD)  
