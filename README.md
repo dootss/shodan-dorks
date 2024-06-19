@@ -63,12 +63,12 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,229 results  
 
 
+[Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
+`product:"Yawcam webcam viewer httpd"` - 586 results  
+
+
 [Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
 `ACTi` - 586 results  
-
-
-[Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
-`product:"Yawcam webcam viewer httpd"` - 585 results  
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
@@ -278,7 +278,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Cisco Smart Install](https://www.shodan.io/search?query=smart%20install%20client%20active)  
-`smart install client active` - 8,061 results  
+`smart install client active` - 8,031 results  
 
 
 [Listed Apache CouchDB](https://www.shodan.io/search?query=product%3A%22CouchDB%22)  
@@ -302,7 +302,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Already Logged-In as root via Telnet](https://www.shodan.io/search?query=%22root%40%22%20port%3A23%20-login%20-password%20-name%20-Session)  
-`"root@" port:23 -login -password -name -Session` - 612 results  
+`"root@" port:23 -login -password -name -Session` - 607 results  
 
 
 [Accessible Kibana Dashboards](https://www.shodan.io/search?query=kibana%20content-length%3A217)  
