@@ -40,7 +40,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Older webcams running on GeoVision.](https://www.shodan.io/search?query=server%3A%20GeoHttpServer)  
-`server: GeoHttpServer` - 43,040 results  
+`server: GeoHttpServer` - 43,214 results  
 
 
 [Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%3A%22Avigilon%22)  
@@ -63,12 +63,12 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 `WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."` - 1,229 results  
 
 
+[Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
+`ACTi` - 586 results  
+
+
 [Yet another WebCAM software.](https://www.shodan.io/search?query=product%3A%22Yawcam%20webcam%20viewer%20httpd%22)  
 `product:"Yawcam webcam viewer httpd"` - 585 results  
-
-
-[Various IP camera/video management system products.](https://www.shodan.io/search?query=ACTi)  
-`ACTi` - 579 results  
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
@@ -76,7 +76,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
-`title:"+tm01+"` - 470 results  
+`title:"+tm01+"` - 471 results  
 
 
 [Webcams running on webcamXP](https://www.shodan.io/search?query=server%3A%20webcamxp)  
@@ -88,7 +88,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Webcams running on webcam 7.](https://www.shodan.io/search?query=server%3A%20%22webcam%207%22)  
-`server: "webcam 7"` - 96 results  
+`server: "webcam 7"` - 95 results  
 
 
 [IP Webcams with screenshots.](https://www.shodan.io/search?query=has_screenshot%3Atrue%20IP%20Webcam)  
@@ -373,7 +373,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Epson Printers via HTTP Server](https://www.shodan.io/search?query=%22Server%3A%20EPSON-HTTP%22%20%22200%20OK%22)  
-`"Server: EPSON-HTTP" "200 OK"` - 312 results  
+`"Server: EPSON-HTTP" "200 OK"` - 313 results  
 
 
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
