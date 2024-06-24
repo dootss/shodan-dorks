@@ -28,7 +28,7 @@ Also, every hour, it re-checks every query on here and updates their count. It a
 ### Cameras
 
 [General camera search.](https://www.shodan.io/search?query=camera)  
-`camera` - 3,762,603 results  
+`camera` - 3,783,332 results  
 
 
 [Hikvision IP Cameras.](https://www.shodan.io/search?query=product%3A%22Hikvision%20IP%20Camera%22)  
@@ -135,7 +135,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Niagara Fox](https://www.shodan.io/search?query=port%3A1911%2C4911%20product%3ANiagara)  
-`port:1911,4911 product:Niagara` - 9,345 results  
+`port:1911,4911 product:Niagara` - 9,358 results  
 
 
 [Gas Station Pump Controllers](https://www.shodan.io/search?query=%22in-tank%20inventory%22%20port%3A10001)  
@@ -314,11 +314,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Exposed MongoDB Express Web Interfaces](https://www.shodan.io/search?query=%22Set-Cookie%3A%20mongo-express%3D%22%20%22200%20OK%22)  
-`"Set-Cookie: mongo-express=" "200 OK"` - 426 results  
+`"Set-Cookie: mongo-express=" "200 OK"` - 429 results  
 
 
 [Citrix Virtual Apps](https://www.shodan.io/search?query=%22Citrix%20Applications%3A%22%20port%3A1604)  
-`"Citrix Applications:" port:1604` - 287 results  
+`"Citrix Applications:" port:1604` - 288 results  
 
 
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
@@ -326,7 +326,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
-`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 149 results  
+`"Docker-Distribution-Api-Version: registry" "200 OK" -gitlab` - 148 results  
 
 
 [Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
@@ -494,7 +494,7 @@ Search for electronic billboards managed by Prismview servers.
 ### Miscellaneous
 
 [General Dashboard Interfaces](https://www.shodan.io/search?query=http.title%3A%22dashboard%22)  
-`http.title:"dashboard"` - 343,527 results  
+`http.title:"dashboard"` - 346,375 results  
 
 
 [Control Panel Access Points](https://www.shodan.io/search?query=http.title%3A%22control%20panel%22)  
