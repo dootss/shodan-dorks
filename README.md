@@ -52,7 +52,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 9,601 results  
+`200 ok dvr port:"81"` - 9,666 results  
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
@@ -72,7 +72,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [UI3 - the HTML5 web interface for Blue Iris.](https://www.shodan.io/search?query=title%3A%22ui3%20-%22)  
-`title:"ui3 -"` - 527 results  
+`title:"ui3 -"` - 533 results  
 
 
 [Unsecured Linksys webcams.](https://www.shodan.io/search?query=title%3A%22%2Btm01%2B%22)  
@@ -143,7 +143,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 Find gas station pump controllers with accessible inventory data.
 
 [More VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20port%3A5900%2C5901)  
-`"authentication disabled" port:5900,5901` - 5,873 results  
+`"authentication disabled" port:5900,5901` - 5,905 results  
 Another search term for VNC servers - most are on port 5900 or 5901 as these are VNC display ports.
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
@@ -159,7 +159,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [Omron FINS](https://www.shodan.io/search?query=port%3A9600%20response%20code)  
-`port:9600 response code` - 1,970 results  
+`port:9600 response code` - 1,964 results  
 
 
 [DICOM Medical X-Ray Machines](https://www.shodan.io/search?query=%22DICOM%20Server%20Response%22%20port%3A104)  
@@ -183,7 +183,7 @@ While not always 100% guaranteed to be a system, lots of embedded systems can sh
 
 
 [MELSEC-Q](https://www.shodan.io/search?query=port%3A5006%2C5007%20product%3Amitsubishi)  
-`port:5006,5007 product:mitsubishi` - 242 results  
+`port:5006,5007 product:mitsubishi` - 243 results  
 
 
 [Door / Lock Access Controllers](https://www.shodan.io/search?query=%22HID%20VertX%22%20port%3A4070)  
@@ -258,11 +258,11 @@ Search for electronic billboards managed by Prismview servers.
 ### Network Infastructure
 
 [General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
-`product:MySQL` - 3,400,304 results  
+`product:MySQL` - 3,408,838 results  
 
 
 [Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
-`port:5432 PostgreSQL` - 766,744 results  
+`port:5432 PostgreSQL` - 768,917 results  
 
 
 [MongoDB Server Information on Default Port](https://www.shodan.io/search?query=%22MongoDB%20Server%20Information%22%20port%3A27017)  
@@ -278,7 +278,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
-`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 13,675 results  
+`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 13,604 results  
 
 
 [Cisco Smart Install](https://www.shodan.io/search?query=smart%20install%20client%20active)  
@@ -294,11 +294,11 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
-`http.title:"- Polycom" "Server: lighttpd"` - 3,429 results  
+`http.title:"- Polycom" "Server: lighttpd"` - 3,440 results  
 
 
 [Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,888 results  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,906 results  
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
@@ -322,7 +322,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
-`PBX "gateway console" -password port:23` - 203 results  
+`PBX "gateway console" -password port:23` - 205 results  
 
 
 [Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
@@ -381,7 +381,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Lexmark Printer Control Panels](https://www.shodan.io/search?query=Printer%20Type%3A%20Lexmark)  
-`Printer Type: Lexmark` - 141 results  
+`Printer Type: Lexmark` - 142 results  
 
 
 [HP LaserJet Printers via HTTP](https://www.shodan.io/search?query=%22HP-ChaiSOE%22%20port%3A%2280%22)  
@@ -393,7 +393,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Printers with FTP Access](https://www.shodan.io/search?query=Laser%20Printer%20FTP%20Server)  
-`Laser Printer FTP Server` - 4 results  
+`Laser Printer FTP Server` - 5 results  
 
 
 
@@ -420,7 +420,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [FTP Access Without Credentials](https://www.shodan.io/search?query=%22220%22%20%22230%20Login%20successful.%22%20port%3A21)  
-`"220" "230 Login successful." port:21` - 62,265 results  
+`"220" "230 Login successful." port:21` - 62,558 results  
 
 
 [Anonymous Access Allowed FTP](https://www.shodan.io/search?query=%22Anonymous%20access%20allowed%22%20port%3A%2221%22)  
