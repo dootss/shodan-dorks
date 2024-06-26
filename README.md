@@ -52,7 +52,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [DVR CCTV cameras accessible via http.](https://www.shodan.io/search?query=200%20ok%20dvr%20port%3A%2281%22)  
-`200 ok dvr port:"81"` - 9,911 results  
+`200 ok dvr port:"81"` - 9,993 results  
 
 
 [Netwave-make IP cameras.](https://www.shodan.io/search?query=Netwave%20IP%20Camera%20Content-Length%3A%202574)  
@@ -298,7 +298,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
-`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,954 results  
+`"dnsmasq-pi-hole" "Recursion: enabled"` - 2,969 results  
 
 
 [Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords](https://www.shodan.io/search?query=Lantronix%20password%20port%3A30718%20-secured)  
@@ -369,7 +369,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Unsecured Telnet Access to Printers](https://www.shodan.io/search?query=port%3A23%20%22Password%20is%20not%20set%22)  
-`port:23 "Password is not set"` - 421 results  
+`port:23 "Password is not set"` - 422 results  
 
 
 [Remote Access to Xerox Printers](https://www.shodan.io/search?query=ssl%3A%22Xerox%20Generic%20Root%22)  
