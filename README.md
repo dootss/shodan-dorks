@@ -119,7 +119,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 ### Industrial Control Systems
 
 [EtherNet/IP](https://www.shodan.io/search?query=port%3A44818)  
-`port:44818` - 597,657 results  
+`port:44818` - 599,323 results  
 
 
 [S7](https://www.shodan.io/search?query=port%3A102)  
@@ -143,7 +143,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 Find gas station pump controllers with accessible inventory data.
 
 [More VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20port%3A5900%2C5901)  
-`"authentication disabled" port:5900,5901` - 6,011 results  
+`"authentication disabled" port:5900,5901` - 6,054 results  
 Another search term for VNC servers - most are on port 5900 or 5901 as these are VNC display ports.
 
 [VNC Servers](https://www.shodan.io/search?query=%22authentication%20disabled%22%20%22RFB%20003.008%22)  
@@ -258,11 +258,11 @@ Search for electronic billboards managed by Prismview servers.
 ### Network Infastructure
 
 [General MySQL Database Search](https://www.shodan.io/search?query=product%3AMySQL)  
-`product:MySQL` - 3,429,101 results  
+`product:MySQL` - 3,438,358 results  
 
 
 [Remote PostgreSQL Connections](https://www.shodan.io/search?query=port%3A5432%20PostgreSQL)  
-`port:5432 PostgreSQL` - 774,018 results  
+`port:5432 PostgreSQL` - 776,326 results  
 
 
 [Default MongoDB Instances](https://www.shodan.io/search?query=mongodb%20port%3A27017)  
@@ -278,7 +278,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Jenkins CI](https://www.shodan.io/search?query=%22X-Jenkins%22%20%22Set-Cookie%3A%20JSESSIONID%22%20http.title%3A%22Dashboard%22)  
-`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 13,468 results  
+`"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"` - 13,575 results  
 
 
 [Cisco Smart Install](https://www.shodan.io/search?query=smart%20install%20client%20active)  
@@ -294,7 +294,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Polycom Video Conferencing](https://www.shodan.io/search?query=http.title%3A%22-%20Polycom%22%20%22Server%3A%20lighttpd%22)  
-`http.title:"- Polycom" "Server: lighttpd"` - 3,478 results  
+`http.title:"- Polycom" "Server: lighttpd"` - 3,489 results  
 
 
 [Pi-hole Open DNS Servers](https://www.shodan.io/search?query=%22dnsmasq-pi-hole%22%20%22Recursion%3A%20enabled%22)  
@@ -322,7 +322,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [PBX IP Phone Gateways](https://www.shodan.io/search?query=PBX%20%22gateway%20console%22%20-password%20port%3A23)  
-`PBX "gateway console" -password port:23` - 207 results  
+`PBX "gateway console" -password port:23` - 209 results  
 
 
 [Docker Private Registries](https://www.shodan.io/search?query=%22Docker-Distribution-Api-Version%3A%20registry%22%20%22200%20OK%22%20-gitlab)  
@@ -330,7 +330,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Telnet Configuration](https://www.shodan.io/search?query=%22Polycom%20Command%20Shell%22%20-failed%20port%3A23)  
-`"Polycom Command Shell" -failed port:23` - 34 results  
+`"Polycom Command Shell" -failed port:23` - 33 results  
 
 
 [Weave Scope Dashboards](https://www.shodan.io/search?query=title%3A%22Weave%20Scope%22%20http.favicon.hash%3A567176827)  
@@ -455,7 +455,7 @@ Search for electronic billboards managed by Prismview servers.
 
 
 [Compromised Routers Labeled HACKED-ROUTER](https://www.shodan.io/search?query=HACKED-ROUTER)  
-`HACKED-ROUTER` - 868 results  
+`HACKED-ROUTER` - 871 results  
 
 
 [Compromised Routers](https://www.shodan.io/search?query=hacked-router-help-sos)  
