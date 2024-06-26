@@ -44,7 +44,7 @@ Backdoor exploit at https://ipvm.com/reports/hik-exploit
 
 
 [Avigilion-brand camera/monitoring devices.](https://www.shodan.io/search?query=title%3A%22Avigilon%22)  
-`title:"Avigilon"` - 19,410 results  
+`title:"Avigilon"` - 19,460 results  
 
 
 [Vivotek IP cameras.](https://www.shodan.io/search?query=server%3A%20VVTK-HTTP-Server)  
