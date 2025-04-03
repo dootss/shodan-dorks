@@ -1,0 +1,112 @@
+[
+    {
+        "title": "General camera search",
+        "content": "camera",
+        "count": 3265080
+    },
+    {
+        "title": "Hikvision IP Cameras",
+        "content": "product:\"Hikvision IP Camera\"",
+        "count": 2132666
+    },
+    {
+        "title": "Webcams running on IPCam Client",
+        "content": "title:\"IPCam Client\"",
+        "count": 46053
+    },
+    {
+        "title": "Older webcams running on GeoVision",
+        "content": "server: GeoHttpServer",
+        "count": 42919
+    },
+    {
+        "title": "ContaCam Cameras",
+        "content": "title:\"ContaCam\"",
+        "count": 26396
+    },
+    {
+        "title": "Vivotek IP cameras",
+        "content": "server: VVTK-HTTP-Server",
+        "count": 20524
+    },
+    {
+        "title": "Avigilion-brand camera/monitoring devices",
+        "content": "title:\"Avigilon\"",
+        "count": 17355
+    },
+    {
+        "title": "DVR CCTV cameras accessible via HTTP",
+        "content": "200 ok dvr port:\"81\"",
+        "count": 5062
+    },
+    {
+        "title": "Netwave-make IP cameras",
+        "content": "Netwave IP Camera Content-Length: 2574",
+        "count": 1767
+    },
+    {
+        "title": "UI3 - the HTML5 web interface for Blue Iris",
+        "content": "title:\"ui3 -\"",
+        "count": 1493
+    },
+    {
+        "title": "A UK-based IP camera provider",
+        "content": "WWW-Authenticate: \"Merit LILIN Ent. Co., Ltd\"",
+        "count": 467
+    },
+    {
+        "title": "Various IP camera/video management system products",
+        "content": "ACTi",
+        "count": 371
+    },
+    {
+        "title": "Yet another WebCAM software",
+        "content": "product:\"Yawcam webcam viewer httpd\"",
+        "count": 336
+    },
+    {
+        "title": "Unsecured Linksys webcams",
+        "content": "title:\"+tm01+\"",
+        "count": 302
+    },
+    {
+        "title": "Webcams running on webcamXP",
+        "content": "server: webcamxp",
+        "count": 109
+    },
+    {
+        "title": "Webcams with screenshots",
+        "content": "webcam has_screenshot:true",
+        "count": 80
+    },
+    {
+        "title": "i-Catcher IP-based CCTV systems",
+        "content": "server: \"i-Catcher Console\"",
+        "count": 79
+    },
+    {
+        "title": "Webcams running on webcam 7",
+        "content": "server: \"webcam 7\"",
+        "count": 55
+    },
+    {
+        "title": "IP Webcams with screenshots",
+        "content": "has_screenshot:true IP Webcam",
+        "count": 34
+    },
+    {
+        "title": "Canon-manufactured megapixel security cameras",
+        "content": "title:\"Network Camera VB-M600\"",
+        "count": 22
+    },
+    {
+        "title": "Webcams running on Blue Iris",
+        "content": "title:\"blue iris remote view\"",
+        "count": 14
+    },
+    {
+        "title": "Linksys WVC80N cameras",
+        "content": "WVC80N",
+        "count": 14
+    }
+]
