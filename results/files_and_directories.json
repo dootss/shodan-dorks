@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Open Lists of Files and Directories",
+        "content": "http.title:\"Index of /\"",
+        "count": 253507
+    },
+    {
+        "title": "Filezilla FTP",
+        "content": "filezilla port:\"21\"",
+        "count": 169643
+    },
+    {
+        "title": "Samba Shares with Authentication Disabled",
+        "content": "\"Authentication: disabled\" port:445 product:\"Samba\"",
+        "count": 131834
+    },
+    {
+        "title": "Open Lists on Port 80",
+        "content": "port:80 title:\"Index of /\"",
+        "count": 114177
+    },
+    {
+        "title": "FTP Access Without Credentials",
+        "content": "\"220\" \"230 Login successful.\" port:21",
+        "count": 43924
+    },
+    {
+        "title": "Anonymous Access Allowed FTP",
+        "content": "\"Anonymous access allowed\" port:\"21\"",
+        "count": 14496
+    },
+    {
+        "title": "NDMP on FTP Port 10000",
+        "content": "ftp port:\"10000\"",
+        "count": 2334
+    },
+    {
+        "title": "Vulnerable vsftpd Service",
+        "content": "vsftpd 2.3.4",
+        "count": 1670
+    },
+    {
+        "title": "QuickBooks Files Shared Over Network",
+        "content": "\"QuickBooks files OverNetwork\" -unix port:445",
+        "count": 28
+    }
+]
