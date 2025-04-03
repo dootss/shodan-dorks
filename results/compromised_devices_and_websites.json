@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Bitcoin Ransomware with Screenshot",
+        "content": "bitcoin has_screenshot:true",
+        "count": 1359
+    },
+    {
+        "title": "Compromised Legacy Systems on Port 4444",
+        "content": "port:4444 system32",
+        "count": 1343
+    },
+    {
+        "title": "General Hacked Label Search",
+        "content": "hacked",
+        "count": 868
+    },
+    {
+        "title": "Hacked By in HTTP Title",
+        "content": "http.title:\"Hacked by\"",
+        "count": 320
+    },
+    {
+        "title": "Compromised Routers Labeled HACKED-ROUTER",
+        "content": "HACKED-ROUTER",
+        "count": 304
+    },
+    {
+        "title": "Variation of Hacked By Label Search",
+        "content": "hacked by",
+        "count": 303
+    },
+    {
+        "title": "Compromised Routers",
+        "content": "hacked-router-help-sos",
+        "count": 297
+    },
+    {
+        "title": "Compromised Hosts Advertising Default Password",
+        "content": "HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD",
+        "count": 43
+    },
+    {
+        "title": "Ransomware Infected RDP Services",
+        "content": "\"attention\" \"encrypted\" port:3389",
+        "count": 25
+    },
+    {
+        "title": "Compromised FTP Servers",
+        "content": "HACKED FTP server",
+        "count": 14
+    }
+]
