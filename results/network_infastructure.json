@@ -1,0 +1,102 @@
+[
+    {
+        "title": "General MySQL Database Search",
+        "content": "product:MySQL",
+        "count": 1388531
+    },
+    {
+        "title": "Remote PostgreSQL Connections",
+        "content": "port:5432 PostgreSQL",
+        "count": 489998
+    },
+    {
+        "title": "Default MongoDB Instances",
+        "content": "mongodb port:27017",
+        "count": 74545
+    },
+    {
+        "title": "MongoDB Server Information on Default Port",
+        "content": "\"MongoDB Server Information\" port:27017",
+        "count": 74543
+    },
+    {
+        "title": "Open Elasticsearch Databases",
+        "content": "port:\"9200\" all:elastic",
+        "count": 5584
+    },
+    {
+        "title": "Listed Apache CouchDB",
+        "content": "product:\"CouchDB\"",
+        "count": 4982
+    },
+    {
+        "title": "Cisco Smart Install",
+        "content": "smart install client active",
+        "count": 2787
+    },
+    {
+        "title": "Pi-hole Open DNS Servers",
+        "content": "\"dnsmasq-pi-hole\" \"Recursion: enabled\"",
+        "count": 1979
+    },
+    {
+        "title": "Jenkins CI",
+        "content": "\"X-Jenkins\" \"Set-Cookie: JSESSIONID\" http.title:\"Dashboard\"",
+        "count": 1324
+    },
+    {
+        "title": "Polycom Video Conferencing",
+        "content": "http.title:\"- Polycom\" \"Server: lighttpd\"",
+        "count": 1207
+    },
+    {
+        "title": "Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords",
+        "content": "Lantronix password port:30718 -secured",
+        "count": 430
+    },
+    {
+        "title": "Already Logged-In as root via Telnet",
+        "content": "\"root@\" port:23 -login -password -name -Session",
+        "count": 250
+    },
+    {
+        "title": "Docker Private Registries",
+        "content": "\"Docker-Distribution-Api-Version: registry\" \"200 OK\" -gitlab",
+        "count": 194
+    },
+    {
+        "title": "Android Root Bridges",
+        "content": "\"Android Debug Bridge\" \"Device\" port:5555",
+        "count": 189
+    },
+    {
+        "title": "Accessible Kibana Dashboards",
+        "content": "kibana content-length:217",
+        "count": 112
+    },
+    {
+        "title": "Citrix Virtual Apps",
+        "content": "\"Citrix Applications:\" port:1604",
+        "count": 92
+    },
+    {
+        "title": "Exposed MongoDB Express Web Interfaces",
+        "content": "\"Set-Cookie: mongo-express=\" \"200 OK\"",
+        "count": 90
+    },
+    {
+        "title": "PBX IP Phone Gateways",
+        "content": "PBX \"gateway console\" -password port:23",
+        "count": 74
+    },
+    {
+        "title": "Telnet Configuration",
+        "content": "\"Polycom Command Shell\" -failed port:23",
+        "count": 12
+    },
+    {
+        "title": "Vulnerable CouchDB Instances",
+        "content": "port:\"5984\"+Server: \"CouchDB/2.1.0\"",
+        "count": 6
+    }
+]
