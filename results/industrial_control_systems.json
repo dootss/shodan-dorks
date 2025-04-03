@@ -1,0 +1,167 @@
+[
+    {
+        "title": "EtherNet/IP",
+        "content": "port:44818",
+        "count": 877175
+    },
+    {
+        "title": "S7",
+        "content": "port:102",
+        "count": 862543
+    },
+    {
+        "title": "BACnet",
+        "content": "port:47808",
+        "count": 831989
+    },
+    {
+        "title": "Modbus",
+        "content": "port:502",
+        "count": 808507
+    },
+    {
+        "title": "Niagara Fox",
+        "content": "port:1911,4911 product:Niagara",
+        "count": 8104
+    },
+    {
+        "title": "VNC Servers",
+        "content": "\"authentication disabled\" \"RFB 003.008\"",
+        "count": 5784
+    },
+    {
+        "title": "Gas Station Pump Controllers",
+        "content": "\"in-tank inventory\" port:10001",
+        "count": 5118
+    },
+    {
+        "title": "Siemens Industrial Automation",
+        "content": "\"Siemens, SIMATIC\" port:161",
+        "count": 2807
+    },
+    {
+        "title": "IEC 60870-5-104",
+        "content": "port:2404 asdu address",
+        "count": 2695
+    },
+    {
+        "title": "More VNC Servers",
+        "content": "\"authentication disabled\" port:5900,5901",
+        "count": 2251
+    },
+    {
+        "title": "DICOM Medical X-Ray Machines",
+        "content": "\"DICOM Server Response\" port:104",
+        "count": 2214
+    },
+    {
+        "title": "Omron FINS",
+        "content": "port:9600 response code",
+        "count": 1648
+    },
+    {
+        "title": "DNP3",
+        "content": "port:20000 source address",
+        "count": 1400
+    },
+    {
+        "title": "ProConOS",
+        "content": "port:20547 PLC",
+        "count": 751
+    },
+    {
+        "title": "PCWorx",
+        "content": "port:1962 PLC",
+        "count": 726
+    },
+    {
+        "title": "XZERES Wind Turbine",
+        "content": "title:\"xzeres wind\"",
+        "count": 297
+    },
+    {
+        "title": "MELSEC-Q",
+        "content": "port:5006,5007 product:mitsubishi",
+        "count": 206
+    },
+    {
+        "title": "Door / Lock Access Controllers",
+        "content": "\"HID VertX\" port:4070",
+        "count": 140
+    },
+    {
+        "title": "C4 Max Commercial Vehicle GPS Trackers",
+        "content": "[1m[35mWelcome on console",
+        "count": 34
+    },
+    {
+        "title": "GaugeTech Electricity Meters",
+        "content": "\"Server: EIG Embedded Web Server\" \"200 Document follows\"",
+        "count": 29
+    },
+    {
+        "title": "Open ATM",
+        "content": "NCR Port:\"161\"",
+        "count": 23
+    },
+    {
+        "title": "Nordex Wind Turbine Farms",
+        "content": "http.title:\"Nordex Control\" \"Windows 2000 5.0 x86\" \"Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)\"",
+        "count": 21
+    },
+    {
+        "title": "Voting Machines in the United States",
+        "content": "\"voter system serial\" country:US",
+        "count": 17
+    },
+    {
+        "title": "Electric Vehicle Chargers",
+        "content": "\"Server: gSOAP/2.8\" \"Content-Length: 583\"",
+        "count": 17
+    },
+    {
+        "title": "Traffic Light Controllers / Red Light Cameras",
+        "content": "mikrotik streetlight",
+        "count": 15
+    },
+    {
+        "title": "HART-IP",
+        "content": "port:5094 hart-ip",
+        "count": 7
+    },
+    {
+        "title": "Fuel Pumps connected to internet",
+        "content": "\"privileged command\" GET",
+        "count": 6
+    },
+    {
+        "title": "Siemens HVAC Controllers",
+        "content": "\"Server: Microsoft-WinCE\" \"Content-Length: 12581\"",
+        "count": 6
+    },
+    {
+        "title": "CAREL PlantVisor Refrigeration Units",
+        "content": "\"Server: CarelDataServer\" \"200 Document follows\"",
+        "count": 5
+    },
+    {
+        "title": "Samsung Electronic Billboards",
+        "content": "Server: Prismview Player",
+        "count": 3
+    },
+    {
+        "title": "Railroad Management",
+        "content": "\"log off\" \"select the appropriate\"",
+        "count": 2
+    },
+    {
+        "title": "Automatic License Plate Readers",
+        "content": "P372 \"ANPR enabled\"",
+        "count": 1
+    },
+    {
+        "title": "Submarine Mission Control Dashboards",
+        "content": "title:\"Slocum Fleet Mission Control\"",
+        "count": 1
+    }
+]

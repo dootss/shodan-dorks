@@ -1,0 +1,52 @@
+[
+    {
+        "title": "General Dashboard Interfaces",
+        "content": "http.title:\"dashboard\"",
+        "count": 375282
+    },
+    {
+        "title": "Control Panel Access Points",
+        "content": "http.title:\"control panel\"",
+        "count": 65226
+    },
+    {
+        "title": "Minecraft Servers",
+        "content": "\"Minecraft Server\" \"protocol 340\" port:25565",
+        "count": 4735
+    },
+    {
+        "title": "Bitcoin Antminer Miners",
+        "content": "antminer",
+        "count": 1720
+    },
+    {
+        "title": "Bomgar Help Desk Portals",
+        "content": "\"Server: Bomgar\" \"200 OK\"",
+        "count": 358
+    },
+    {
+        "title": "Tesla-related Interfaces",
+        "content": "http.title:\"Tesla\"",
+        "count": 354
+    },
+    {
+        "title": "Everything in North Korea",
+        "content": "net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24",
+        "count": 50
+    },
+    {
+        "title": "EIG Electricity Meters",
+        "content": "\"Server: EIG Embedded Web Server\" \"200 Document follows\"",
+        "count": 29
+    },
+    {
+        "title": "Misconfigured WordPress Installations",
+        "content": "http.html:\"* The wp-config.php creation script uses this file\"",
+        "count": 9
+    },
+    {
+        "title": "Ethereum Miners",
+        "content": "ETH - Total speed",
+        "count": 3
+    }
+]
