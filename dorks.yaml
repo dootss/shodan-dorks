@@ -2,69 +2,73 @@
 
 
 Cameras:
-  - title: 'General camera search.'
+  - title: 'General camera search'
     content: 'camera'
 
-  - title: 'Webcams with screenshots.'
+  - title: 'Webcams with screenshots'
     content: 'webcam has_screenshot:true'
 
-  - title: 'IP Webcams with screenshots.'
+  - title: 'IP Webcams with screenshots'
     content: 'has_screenshot:true IP Webcam'
 
   - title: 'Webcams running on webcamXP'
     content: 'server: webcamxp'
 
-  - title: 'Webcams running on webcam 7.'
+  - title: 'Webcams running on webcam 7'
     content: 'server: "webcam 7"'
 
-  - title: 'Webcams running on Blue Iris.'
+  - title: 'Webcams running on Blue Iris'
     content: 'title:"blue iris remote view"'
 
-  - title: 'UI3 - the HTML5 web interface for Blue Iris.'
+  - title: 'UI3 - the HTML5 web interface for Blue Iris'
     content: 'title:"ui3 -"'
 
-  - title: 'Canon-manufactured megapixel security cameras.'
+  - title: 'Canon-manufactured megapixel security cameras'
     content: 'title:"Network Camera VB-M600"'
 
-  - title: 'Yet another WebCAM software.'
+  - title: 'Yet another WebCAM software'
     content: 'product:"Yawcam webcam viewer httpd"'
 
-  - title: 'Webcams running on IPCam Client.'
+  - title: 'Webcams running on IPCam Client'
     content: 'title:"IPCam Client"'
 
-  - title: 'Older webcams running on GeoVision.'
+  - title: 'Older webcams running on GeoVision'
     content: 'server: GeoHttpServer'
 
-  - title: 'Vivotek IP cameras.'
+  - title: 'Vivotek IP cameras'
     content: 'server: VVTK-HTTP-Server'
 
-  - title: 'Avigilion-brand camera/monitoring devices.'
+  - title: 'Avigilion-brand camera/monitoring devices'
     content: 'title:"Avigilon"'
 
-  - title: 'Various IP camera/video management system products.'
+  - title: 'Various IP camera/video management system products'
     content: 'ACTi'
 
-  - title: 'A UK-based IP camera provider.'
-    content: 'WWW-Authenticate: "Merit LILIN Ent. Co., Ltd."'
+  - title: 'A UK-based IP camera provider'
+    content: 'WWW-Authenticate: "Merit LILIN Ent. Co., Ltd"'
 
-  - title: 'Unsecured Linksys webcams.'
+  - title: 'Unsecured Linksys webcams'
     content: 'title:"+tm01+"'
 
-  - title: 'i-Catcher IP-based CCTV systems.'
+  - title: 'i-Catcher IP-based CCTV systems'
     content: 'server: "i-Catcher Console"'
 
-  - title: 'Netwave-make IP cameras.'
+  - title: 'Netwave-make IP cameras'
     content: 'Netwave IP Camera Content-Length: 2574'
 
-  - title: 'DVR CCTV cameras accessible via http.'
+  - title: 'DVR CCTV cameras accessible via HTTP'
     content: '200 ok dvr port:"81"'
 
-  - title: 'Linksys WVC80N cameras.'
+  - title: 'Linksys WVC80N cameras'
     content: 'WVC80N'
 
-  - title: 'Hikvision IP Cameras.'
+  - title: 'Hikvision IP Cameras'
     content: 'product:"Hikvision IP Camera"'
     description: 'Backdoor exploit at https://ipvm.com/reports/hik-exploit'
+
+  - title: 'ContaCam Cameras'
+    content: 'title:"ContaCam"'
+
 
 
 # ------------------------------------------------------------------------------
@@ -307,6 +311,9 @@ Printers:
   - title: 'Canon Printer HTTP Servers'
     content: '"Server: CANON HTTP Server"'
 
+  - title: 'Exposed OctoPrint 3D Printer Controllers'
+    content: 'title:"OctoPrint" -title:"Login" http.favicon.hash:1307375944'
+
 
 # ------------------------------------------------------------------------------
 
@@ -389,6 +396,10 @@ Miscellaneous:
   - title: 'Ethereum Miners'
     content: '"ETH - Total speed"'
 
+  - title: 'Bitcoin Antminer Miners'
+    content: '"antminer"'
+    description: 'These devices are often left with default credentials.'
+
   - title: 'Misconfigured WordPress Installations'
     content: 'http.html:"* The wp-config.php creation script uses this file"'
 
@@ -409,3 +420,6 @@ Miscellaneous:
 
   - title: 'Everything in North Korea'
     content: 'net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24'
+  
+  - title: 'Bomgar Help Desk Portals'
+    content: '"Server: Bomgar" "200 OK"'
