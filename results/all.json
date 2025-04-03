@@ -1,0 +1,582 @@
+[
+    {
+        "title": "General camera search",
+        "content": "camera",
+        "count": 3222888
+    },
+    {
+        "title": "Hikvision IP Cameras",
+        "content": "product:\"Hikvision IP Camera\"",
+        "count": 2143842
+    },
+    {
+        "title": "Webcams running on IPCam Client",
+        "content": "title:\"IPCam Client\"",
+        "count": 44514
+    },
+    {
+        "title": "Older webcams running on GeoVision",
+        "content": "server: GeoHttpServer",
+        "count": 31851
+    },
+    {
+        "title": "ContaCam Cameras",
+        "content": "title:\"ContaCam\"",
+        "count": 26582
+    },
+    {
+        "title": "Avigilion-brand camera/monitoring devices",
+        "content": "title:\"Avigilon\"",
+        "count": 17208
+    },
+    {
+        "title": "Vivotek IP cameras",
+        "content": "server: VVTK-HTTP-Server",
+        "count": 16005
+    },
+    {
+        "title": "DVR CCTV cameras accessible via HTTP",
+        "content": "200 ok dvr port:\"81\"",
+        "count": 5322
+    },
+    {
+        "title": "Netwave-make IP cameras",
+        "content": "Netwave IP Camera Content-Length: 2574",
+        "count": 1677
+    },
+    {
+        "title": "UI3 - the HTML5 web interface for Blue Iris",
+        "content": "title:\"ui3 -\"",
+        "count": 1596
+    },
+    {
+        "title": "A UK-based IP camera provider",
+        "content": "WWW-Authenticate: \"Merit LILIN Ent. Co., Ltd\"",
+        "count": 485
+    },
+    {
+        "title": "Various IP camera/video management system products",
+        "content": "ACTi",
+        "count": 412
+    },
+    {
+        "title": "Yet another WebCAM software",
+        "content": "product:\"Yawcam webcam viewer httpd\"",
+        "count": 401
+    },
+    {
+        "title": "Unsecured Linksys webcams",
+        "content": "title:\"+tm01+\"",
+        "count": 299
+    },
+    {
+        "title": "Webcams running on webcamXP",
+        "content": "server: webcamxp",
+        "count": 113
+    },
+    {
+        "title": "Webcams with screenshots",
+        "content": "webcam has_screenshot:true",
+        "count": 79
+    },
+    {
+        "title": "Webcams running on webcam 7",
+        "content": "server: \"webcam 7\"",
+        "count": 62
+    },
+    {
+        "title": "Canon-manufactured megapixel security cameras",
+        "content": "title:\"Network Camera VB-M600\"",
+        "count": 28
+    },
+    {
+        "title": "i-Catcher IP-based CCTV systems",
+        "content": "server: \"i-Catcher Console\"",
+        "count": 25
+    },
+    {
+        "title": "IP Webcams with screenshots",
+        "content": "has_screenshot:true IP Webcam",
+        "count": 24
+    },
+    {
+        "title": "Linksys WVC80N cameras",
+        "content": "WVC80N",
+        "count": 16
+    },
+    {
+        "title": "Webcams running on Blue Iris",
+        "content": "title:\"blue iris remote view\"",
+        "count": 12
+    },
+    {
+        "title": "S7",
+        "content": "port:102",
+        "count": 398315
+    },
+    {
+        "title": "Modbus",
+        "content": "port:502",
+        "count": 381757
+    },
+    {
+        "title": "EtherNet/IP",
+        "content": "port:44818",
+        "count": 343257
+    },
+    {
+        "title": "GaugeTech Electricity Meters",
+        "content": "\"Server: EIG Embedded Web Server\" \"200 Document follows\"",
+        "count": 203879
+    },
+    {
+        "title": "BACnet",
+        "content": "port:47808",
+        "count": 43197
+    },
+    {
+        "title": "VNC Servers",
+        "content": "\"authentication disabled\" \"RFB 003.008\"",
+        "count": 12666
+    },
+    {
+        "title": "Niagara Fox",
+        "content": "port:1911,4911 product:Niagara",
+        "count": 8139
+    },
+    {
+        "title": "Gas Station Pump Controllers",
+        "content": "\"in-tank inventory\" port:10001",
+        "count": 5871
+    },
+    {
+        "title": "IEC 60870-5-104",
+        "content": "port:2404 asdu address",
+        "count": 3895
+    },
+    {
+        "title": "More VNC Servers",
+        "content": "\"authentication disabled\" port:5900,5901",
+        "count": 2622
+    },
+    {
+        "title": "DICOM Medical X-Ray Machines",
+        "content": "\"DICOM Server Response\" port:104",
+        "count": 2583
+    },
+    {
+        "title": "Siemens Industrial Automation",
+        "content": "\"Siemens, SIMATIC\" port:161",
+        "count": 2269
+    },
+    {
+        "title": "DNP3",
+        "content": "port:20000 source address",
+        "count": 2084
+    },
+    {
+        "title": "ProConOS",
+        "content": "port:20547 PLC",
+        "count": 1607
+    },
+    {
+        "title": "Omron FINS",
+        "content": "port:9600 response code",
+        "count": 1453
+    },
+    {
+        "title": "PCWorx",
+        "content": "port:1962 PLC",
+        "count": 621
+    },
+    {
+        "title": "MELSEC-Q",
+        "content": "port:5006,5007 product:mitsubishi",
+        "count": 231
+    },
+    {
+        "title": "Door / Lock Access Controllers",
+        "content": "\"HID VertX\" port:4070",
+        "count": 118
+    },
+    {
+        "title": "XZERES Wind Turbine",
+        "content": "title:\"xzeres wind\"",
+        "count": 108
+    },
+    {
+        "title": "Voting Machines in the United States",
+        "content": "\"voter system serial\" country:US",
+        "count": 27
+    },
+    {
+        "title": "C4 Max Commercial Vehicle GPS Trackers",
+        "content": "[1m[35mWelcome on console",
+        "count": 27
+    },
+    {
+        "title": "Open ATM",
+        "content": "NCR Port:\"161\"",
+        "count": 26
+    },
+    {
+        "title": "Traffic Light Controllers / Red Light Cameras",
+        "content": "mikrotik streetlight",
+        "count": 12
+    },
+    {
+        "title": "Nordex Wind Turbine Farms",
+        "content": "http.title:\"Nordex Control\" \"Windows 2000 5.0 x86\" \"Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)\"",
+        "count": 12
+    },
+    {
+        "title": "Fuel Pumps connected to internet",
+        "content": "\"privileged command\" GET",
+        "count": 9
+    },
+    {
+        "title": "CAREL PlantVisor Refrigeration Units",
+        "content": "\"Server: CarelDataServer\" \"200 Document follows\"",
+        "count": 7
+    },
+    {
+        "title": "HART-IP",
+        "content": "port:5094 hart-ip",
+        "count": 4
+    },
+    {
+        "title": "Siemens HVAC Controllers",
+        "content": "\"Server: Microsoft-WinCE\" \"Content-Length: 12581\"",
+        "count": 3
+    },
+    {
+        "title": "Samsung Electronic Billboards",
+        "content": "Server: Prismview Player",
+        "count": 2
+    },
+    {
+        "title": "Railroad Management",
+        "content": "\"log off\" \"select the appropriate\"",
+        "count": 2
+    },
+    {
+        "title": "Submarine Mission Control Dashboards",
+        "content": "title:\"Slocum Fleet Mission Control\"",
+        "count": 1
+    },
+    {
+        "title": "General MySQL Database Search",
+        "content": "product:MySQL",
+        "count": 2472305
+    },
+    {
+        "title": "Remote PostgreSQL Connections",
+        "content": "port:5432 PostgreSQL",
+        "count": 587236
+    },
+    {
+        "title": "Default MongoDB Instances",
+        "content": "mongodb port:27017",
+        "count": 99657
+    },
+    {
+        "title": "MongoDB Server Information on Default Port",
+        "content": "\"MongoDB Server Information\" port:27017",
+        "count": 99209
+    },
+    {
+        "title": "Open Elasticsearch Databases",
+        "content": "port:\"9200\" all:elastic",
+        "count": 19945
+    },
+    {
+        "title": "Listed Apache CouchDB",
+        "content": "product:\"CouchDB\"",
+        "count": 6344
+    },
+    {
+        "title": "Cisco Smart Install",
+        "content": "smart install client active",
+        "count": 4361
+    },
+    {
+        "title": "Pi-hole Open DNS Servers",
+        "content": "\"dnsmasq-pi-hole\" \"Recursion: enabled\"",
+        "count": 2428
+    },
+    {
+        "title": "Jenkins CI",
+        "content": "\"X-Jenkins\" \"Set-Cookie: JSESSIONID\" http.title:\"Dashboard\"",
+        "count": 1806
+    },
+    {
+        "title": "Polycom Video Conferencing",
+        "content": "http.title:\"- Polycom\" \"Server: lighttpd\"",
+        "count": 1586
+    },
+    {
+        "title": "Android Root Bridges",
+        "content": "\"Android Debug Bridge\" \"Device\" port:5555",
+        "count": 672
+    },
+    {
+        "title": "Lantronix Serial-to-Ethernet Adapter Leaking Telnet Passwords",
+        "content": "Lantronix password port:30718 -secured",
+        "count": 522
+    },
+    {
+        "title": "Already Logged-In as root via Telnet",
+        "content": "\"root@\" port:23 -login -password -name -Session",
+        "count": 497
+    },
+    {
+        "title": "Accessible Kibana Dashboards",
+        "content": "kibana content-length:217",
+        "count": 234
+    },
+    {
+        "title": "Docker Private Registries",
+        "content": "\"Docker-Distribution-Api-Version: registry\" \"200 OK\" -gitlab",
+        "count": 223
+    },
+    {
+        "title": "Exposed MongoDB Express Web Interfaces",
+        "content": "\"Set-Cookie: mongo-express=\" \"200 OK\"",
+        "count": 185
+    },
+    {
+        "title": "Citrix Virtual Apps",
+        "content": "\"Citrix Applications:\" port:1604",
+        "count": 123
+    },
+    {
+        "title": "PBX IP Phone Gateways",
+        "content": "PBX \"gateway console\" -password port:23",
+        "count": 116
+    },
+    {
+        "title": "Telnet Configuration",
+        "content": "\"Polycom Command Shell\" -failed port:23",
+        "count": 19
+    },
+    {
+        "title": "Vulnerable CouchDB Instances",
+        "content": "port:\"5984\"+Server: \"CouchDB/2.1.0\"",
+        "count": 5
+    },
+    {
+        "title": "Weave Scope Dashboards",
+        "content": "title:\"Weave Scope\" http.favicon.hash:567176827",
+        "count": 5
+    },
+    {
+        "title": "General Printer Search",
+        "content": "printer",
+        "count": 78024
+    },
+    {
+        "title": "Canon Printer HTTP Servers",
+        "content": "Server: CANON HTTP Server",
+        "count": 6882
+    },
+    {
+        "title": "HP Printers Remote Restart",
+        "content": "port:161 hp",
+        "count": 6113
+    },
+    {
+        "title": "HTTP Accessible Epson Printers",
+        "content": "http 200 server epson -upnp",
+        "count": 2293
+    },
+    {
+        "title": "Epson Printers via HTTP Server",
+        "content": "\"Server: EPSON-HTTP\" \"200 OK\"",
+        "count": 1629
+    },
+    {
+        "title": "Samsung Printers with SyncThru Web Service",
+        "content": "title:\"syncthru web service\"",
+        "count": 1132
+    },
+    {
+        "title": "Unsecured Telnet Access to Printers",
+        "content": "port:23 \"Password is not set\"",
+        "count": 272
+    },
+    {
+        "title": "Remote Access to Xerox Printers",
+        "content": "ssl:\"Xerox Generic Root\"",
+        "count": 142
+    },
+    {
+        "title": "Lexmark Printer Control Panels",
+        "content": "Printer Type: Lexmark",
+        "count": 135
+    },
+    {
+        "title": "HP LaserJet Printers via HTTP",
+        "content": "\"HP-ChaiSOE\" port:\"80\"",
+        "count": 47
+    },
+    {
+        "title": "Brother Printers Admin Interface",
+        "content": "\"Location: /main/main.html\" debut",
+        "count": 33
+    },
+    {
+        "title": "Printers with FTP Access",
+        "content": "Laser Printer FTP Server",
+        "count": 8
+    },
+    {
+        "title": "Exposed OctoPrint 3D Printer Controllers",
+        "content": "title:\"OctoPrint\" -title:\"Login\" http.favicon.hash:1307375944",
+        "count": 5
+    },
+    {
+        "title": "Open Lists of Files and Directories",
+        "content": "http.title:\"Index of /\"",
+        "count": 243391
+    },
+    {
+        "title": "Filezilla FTP",
+        "content": "filezilla port:\"21\"",
+        "count": 153681
+    },
+    {
+        "title": "Open Lists on Port 80",
+        "content": "port:80 title:\"Index of /\"",
+        "count": 100086
+    },
+    {
+        "title": "Samba Shares with Authentication Disabled",
+        "content": "\"Authentication: disabled\" port:445 product:\"Samba\"",
+        "count": 87115
+    },
+    {
+        "title": "FTP Access Without Credentials",
+        "content": "\"220\" \"230 Login successful.\" port:21",
+        "count": 37090
+    },
+    {
+        "title": "Anonymous Access Allowed FTP",
+        "content": "\"Anonymous access allowed\" port:\"21\"",
+        "count": 13106
+    },
+    {
+        "title": "NDMP on FTP Port 10000",
+        "content": "ftp port:\"10000\"",
+        "count": 2293
+    },
+    {
+        "title": "Vulnerable vsftpd Service",
+        "content": "vsftpd 2.3.4",
+        "count": 1815
+    },
+    {
+        "title": "QuickBooks Files Shared Over Network",
+        "content": "\"QuickBooks files OverNetwork\" -unix port:445",
+        "count": 35
+    },
+    {
+        "title": "Compromised Legacy Systems on Port 4444",
+        "content": "port:4444 system32",
+        "count": 1363
+    },
+    {
+        "title": "General Hacked Label Search",
+        "content": "hacked",
+        "count": 935
+    },
+    {
+        "title": "Compromised Routers Labeled HACKED-ROUTER",
+        "content": "HACKED-ROUTER",
+        "count": 350
+    },
+    {
+        "title": "Compromised Routers",
+        "content": "hacked-router-help-sos",
+        "count": 345
+    },
+    {
+        "title": "Variation of Hacked By Label Search",
+        "content": "hacked by",
+        "count": 307
+    },
+    {
+        "title": "Hacked By in HTTP Title",
+        "content": "http.title:\"Hacked by\"",
+        "count": 294
+    },
+    {
+        "title": "Compromised Hosts Advertising Default Password",
+        "content": "HACKED-ROUTER-HELP-SOS-HAD-DEFAULT-PASSWORD",
+        "count": 49
+    },
+    {
+        "title": "Ransomware Infected RDP Services",
+        "content": "\"attention\" \"encrypted\" port:3389",
+        "count": 27
+    },
+    {
+        "title": "Compromised FTP Servers",
+        "content": "HACKED FTP server",
+        "count": 19
+    },
+    {
+        "title": "Bitcoin Ransomware with Screenshot",
+        "content": "bitcoin has_screenshot:true",
+        "count": 8
+    },
+    {
+        "title": "Owned By Label in HTTP Title",
+        "content": "http.title:\"0wn3d by\"",
+        "count": 1
+    },
+    {
+        "title": "General Dashboard Interfaces",
+        "content": "http.title:\"dashboard\"",
+        "count": 374405
+    },
+    {
+        "title": "EIG Electricity Meters",
+        "content": "\"Server: EIG Embedded Web Server\" \"200 Document follows\"",
+        "count": 203879
+    },
+    {
+        "title": "Control Panel Access Points",
+        "content": "http.title:\"control panel\"",
+        "count": 79129
+    },
+    {
+        "title": "Minecraft Servers",
+        "content": "\"Minecraft Server\" \"protocol 340\" port:25565",
+        "count": 4957
+    },
+    {
+        "title": "Bitcoin Antminer Miners",
+        "content": "antminer",
+        "count": 596
+    },
+    {
+        "title": "Tesla-related Interfaces",
+        "content": "http.title:\"Tesla\"",
+        "count": 441
+    },
+    {
+        "title": "Bomgar Help Desk Portals",
+        "content": "\"Server: Bomgar\" \"200 OK\"",
+        "count": 258
+    },
+    {
+        "title": "Everything in North Korea",
+        "content": "net:175.45.176.0/22,210.52.109.0/24,77.94.35.0/24",
+        "count": 45
+    },
+    {
+        "title": "Misconfigured WordPress Installations",
+        "content": "http.html:\"* The wp-config.php creation script uses this file\"",
+        "count": 13
+    }
+]

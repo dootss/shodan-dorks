@@ -1,0 +1,67 @@
+[
+    {
+        "title": "General Printer Search",
+        "content": "printer",
+        "count": 78024
+    },
+    {
+        "title": "Canon Printer HTTP Servers",
+        "content": "Server: CANON HTTP Server",
+        "count": 6882
+    },
+    {
+        "title": "HP Printers Remote Restart",
+        "content": "port:161 hp",
+        "count": 6113
+    },
+    {
+        "title": "HTTP Accessible Epson Printers",
+        "content": "http 200 server epson -upnp",
+        "count": 2293
+    },
+    {
+        "title": "Epson Printers via HTTP Server",
+        "content": "\"Server: EPSON-HTTP\" \"200 OK\"",
+        "count": 1629
+    },
+    {
+        "title": "Samsung Printers with SyncThru Web Service",
+        "content": "title:\"syncthru web service\"",
+        "count": 1132
+    },
+    {
+        "title": "Unsecured Telnet Access to Printers",
+        "content": "port:23 \"Password is not set\"",
+        "count": 272
+    },
+    {
+        "title": "Remote Access to Xerox Printers",
+        "content": "ssl:\"Xerox Generic Root\"",
+        "count": 142
+    },
+    {
+        "title": "Lexmark Printer Control Panels",
+        "content": "Printer Type: Lexmark",
+        "count": 135
+    },
+    {
+        "title": "HP LaserJet Printers via HTTP",
+        "content": "\"HP-ChaiSOE\" port:\"80\"",
+        "count": 47
+    },
+    {
+        "title": "Brother Printers Admin Interface",
+        "content": "\"Location: /main/main.html\" debut",
+        "count": 33
+    },
+    {
+        "title": "Printers with FTP Access",
+        "content": "Laser Printer FTP Server",
+        "count": 8
+    },
+    {
+        "title": "Exposed OctoPrint 3D Printer Controllers",
+        "content": "title:\"OctoPrint\" -title:\"Login\" http.favicon.hash:1307375944",
+        "count": 5
+    }
+]
