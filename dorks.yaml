@@ -423,3 +423,6 @@ Miscellaneous:
   
   - title: 'Bomgar Help Desk Portals'
     content: '"Server: Bomgar" "200 OK"'
+
+  - title: 'Internet exposed Ollama Instances'
+    content: 'port:11434 product:"Ollama"'
