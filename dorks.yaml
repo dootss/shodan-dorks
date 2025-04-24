@@ -426,3 +426,6 @@ Miscellaneous:
 
   - title: 'Internet exposed Ollama Instances'
     content: 'port:11434 product:"Ollama"'
+
+  - title: 'Internet Exposed Llama.cpp servers'
+    content: '"llama.cpp"'
