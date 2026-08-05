@@ -5,6 +5,9 @@ Cameras:
   - title: 'General camera search'
     content: 'camera'
 
+  - title: 'Flock cameras'
+    content: 'title:"Flock Admin"'
+
   - title: 'Webcams with screenshots'
     content: 'webcam has_screenshot:true'
 
